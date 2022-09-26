@@ -1,0 +1,44 @@
+name: schedule run
+
+on:
+  schedule:
+    - cron: '50 9 * * * '
+  workflow_dispatch:
+        # runs everyday at  9:50 AM
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get current time
+        uses: josStorer/get-current-time@v2.0.1
+        id: current-time
+        with:
+          format: YYYYMMDD-HH
+          utcOffset: "+08:00"
+
+      - name: checkout repo content
+        uses: actions/checkout@v3
+
+      - name: setup go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.17'
+          check-latest: true
+
+      - name: Run main.go
+        run: |
+          go run ./main.go
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Updated on ${{ steps.current-time.outputs.readableTime }}" --allow-empty)
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
