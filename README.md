@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-September-26 18:50:18
+## BugCrowd Crowdstream | Date:  2022-September-27 09:59:52
                             
 ### 1. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P2 
+
+ **Hacker:** musashi42 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-09-26 22:55:03.289 +0000 UTC 
+
+ **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 2. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P4 
+
+ **Hacker:** Golu369 
+
+ **Points:** 0 
+
+ **Target:** ` *.takeaway.com` 
+
+ **Reported:** 2022-09-19 17:24:31.969 +0000 UTC 
+
+ **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.takeaway.com** 
+
+### 3. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-25 08:39:56.083 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 4. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-25 08:39:24.328 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 5. Program Details : 
+
+**Name:** Ubisoft VDP 
+
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** zakurag1 
+
+ **Points:** 0 
+
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
+
+ **Reported:** 2022-09-22 20:28:30.33 +0000 UTC 
+
+ **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
+
+### 6. Program Details : 
+
+**Name:** Pinterest 
+
+ **Link:** <https://bugcrowd.com/pinterest> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.pinterest.com Web Apps` 
+
+ **Reported:** 2022-09-14 11:08:56.616 +0000 UTC 
+
+ **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.pinterest.com Web Apps** 
+
+### 7. Program Details : 
+
+**Name:** Pinterest 
+
+ **Link:** <https://bugcrowd.com/pinterest> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.pinterest.com Web Apps` 
+
+ **Reported:** 2022-07-19 21:37:05.761 +0000 UTC 
+
+ **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.pinterest.com Web Apps** 
+
+### 8. Program Details : 
 
 **Name:** Atlassian 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Twilio 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted on target: api.twilio.com** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Twilio 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** Twilio 
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: twilio.com/blog** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** Trello 
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: trello.com** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** lululemon 
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: *.lululemon.com** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** Atlassian-Built Apps 
 
@@ -141,7 +281,7 @@
 
  **Submission accepted** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** Skyscanner 
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: skyscanner.net/*** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** Constant Contact, Inc. 
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: All Constant Contact websites - *.constantcontact.com** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** Opera Public Bug Bounty 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: GameMaker Studio 2** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Facebook 
 
@@ -221,7 +361,7 @@
 
  **Submission Claimed** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** Facebook 
 
@@ -241,7 +381,7 @@
 
  **Submission Claimed** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** CoinDCX Managed Bug Bounty 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target: https://*.coindcx.com** 
 
-### 14. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2022-08-07 05:03:48.136 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 15. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:** Iqrah0x01 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-08-20 14:44:45.524 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 16. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2022-04-12 19:30:08.15 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 17. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P2 
-
- **Hacker:** 54v4n7 
-
- **Points:** 40 
-
- **Target:** ` ` 
-
- **Reported:** 2022-04-19 11:46:17.919 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P2 
-
- **Hacker:** MuKsh 
-
- **Points:** 0 
-
- **Target:** `  Twilio CDNs (static*.twilio.com)` 
-
- **Reported:** 2021-10-21 08:51:18.758 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Twilio CDNs (static*.twilio.com)** 
-
-### 19. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-02-23 16:57:24.648 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 20. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2022-09-09 18:13:06.946 +0000 UTC 
-
- **Accepted:** 2022-09-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-## End of Crowdstream for 2022-September-26 18:50:18
+## End of Crowdstream for 2022-September-27 09:59:52
