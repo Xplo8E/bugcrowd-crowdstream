@@ -1,7 +1,27 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-September-28 09:58:33
+## BugCrowd Crowdstream | Date:  2022-September-29 09:59:01
                             
 ### 1. Program Details : 
+
+**Name:** Binance 
+
+ **Link:** <https://bugcrowd.com/binance> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.binance.com` 
+
+ **Reported:** 2022-09-22 19:58:55.887 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.binance.com** 
+
+### 2. Program Details : 
 
 **Name:** Bitdefender 
 
@@ -9,19 +29,59 @@
 
  **Severity:** P3 
 
- **Hacker:** SickSec 
+ **Hacker:** Muhammed999 
 
- **Points:** 0 
+ **Points:** 10 
 
  **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2022-08-26 21:39:21.726 +0000 UTC 
+ **Reported:** 2022-09-27 12:39:08.341 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.bitdefender.com** 
 
-### 2. Program Details : 
+### 3. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:** fin41x 
+
+ **Points:** 10 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-08-12 09:33:41.232 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 4. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:** pjqwudi 
+
+ **Points:** 10 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-08-29 07:01:24.59 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 5. Program Details : 
 
 **Name:** Indeed 
 
@@ -33,135 +93,255 @@
 
  **Points:** 0 
 
- **Target:** ` https://*.indeed.com` 
+ **Target:** ` https://employer.simplyhired-staging.com` 
 
- **Reported:** 2022-08-30 14:47:52.967 +0000 UTC 
+ **Reported:** 2022-08-29 08:38:57.782 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://*.indeed.com** 
-
-### 3. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:** gofunc 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-22 21:18:52.357 +0000 UTC 
-
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 4. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-10 10:04:18.751 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 5. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-08 20:16:43.609 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted** 
+ **Submission accepted on target: https://employer.simplyhired-staging.com** 
 
 ### 6. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** NETGEAR Cash Rewards 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/netgear> 
 
  **Severity:** P3 
 
- **Hacker:** m0x_noob 
+ **Hacker:** Gh0stZer0 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` syncsketch.dev` 
+ **Target:** ` Nighthawk Pro Gaming Router` 
 
- **Reported:** 2022-09-17 12:29:42.584 +0000 UTC 
+ **Reported:** 2022-08-29 00:13:05.291 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: syncsketch.dev** 
+ **Submission accepted on target: Nighthawk Pro Gaming Router** 
 
 ### 7. Program Details : 
 
-**Name:** Bugcrowd 
+**Name:** NETGEAR Cash Rewards 
 
- **Link:** <https://bugcrowd.com/bugcrowd> 
+ **Link:** <https://bugcrowd.com/netgear> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** cyeaa 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` bugcrowd.com` 
+ **Target:** ` Orbi ` 
 
- **Reported:** 2022-09-21 09:09:32.192 +0000 UTC 
+ **Reported:** 2022-08-24 04:21:21.293 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: bugcrowd.com** 
+ **Submission accepted on target: Orbi ** 
 
 ### 8. Program Details : 
 
-**Name:** Bugcrowd 
+**Name:** NETGEAR Cash Rewards 
 
- **Link:** <https://bugcrowd.com/bugcrowd> 
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:** fin41x 
+
+ **Points:** 10 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-07-07 08:27:58.842 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 9. Program Details : 
+
+**Name:** Digistorm 
+
+ **Link:** <https://bugcrowd.com/digistorm> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 10 
+
+ **Target:** ` https://{account-code}.app.sandbox.digistorm.com-2/*` 
+
+ **Reported:** 2022-06-24 21:59:28.507 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://{account-code}.app.sandbox.digistorm.com-2/*** 
+
+### 10. Program Details : 
+
+**Name:** NETGEAR Kudos Rewards 
+
+ **Link:** <https://bugcrowd.com/netgearkudos> 
+
+ **Severity:** P4 
+
+ **Hacker:** coldfish 
+
+ **Points:** 5 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-05-10 02:34:51.773 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 11. Program Details : 
+
+**Name:** NETGEAR Kudos Rewards 
+
+ **Link:** <https://bugcrowd.com/netgearkudos> 
+
+ **Severity:** P4 
+
+ **Hacker:** Itachi22 
+
+ **Points:** 5 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-01 01:58:17.416 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 12. Program Details : 
+
+**Name:** NETGEAR Kudos Rewards 
+
+ **Link:** <https://bugcrowd.com/netgearkudos> 
 
  **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** touhidshaikh 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2022-09-16 21:28:17.716 +0000 UTC 
+ **Reported:** 2022-08-22 23:51:58.804 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 9. Program Details : 
+### 13. Program Details : 
+
+**Name:** Asana 
+
+ **Link:** <https://bugcrowd.com/asana> 
+
+ **Severity:** P4 
+
+ **Hacker:** pentestertown 
+
+ **Points:** 5 
+
+ **Target:** ` form.asana.com` 
+
+ **Reported:** 2022-09-26 13:20:59.194 +0000 UTC 
+
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: form.asana.com** 
+
+### 14. Program Details : 
+
+**Name:** Arrow Electronics VDP 
+
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** ValluvarSploit 
+
+ **Points:** 0 
+
+ **Target:** ` *.Datasheet` 
+
+ **Reported:** 2022-09-09 08:48:20.4 +0000 UTC 
+
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.Datasheet** 
+
+### 15. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** UpdateLap 
+
+ **Points:** 0 
+
+ **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
+
+ **Reported:** 2021-05-03 19:36:54.578 +0000 UTC 
+
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
+
+### 16. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:** Bate5a 
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2022-09-15 21:06:17.496 +0000 UTC 
+
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 17. Program Details : 
+
+**Name:** PlanetHoster 
+
+ **Link:** <https://bugcrowd.com/planethosterinc> 
+
+ **Severity:** P1 
+
+ **Hacker:** iSeries 
+
+ **Points:** 40 
+
+ **Target:** ` my.planethoster.com` 
+
+ **Reported:** 2022-09-21 22:18:36.23 +0000 UTC 
+
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: my.planethoster.com** 
+
+### 18. Program Details : 
 
 **Name:** Aruba Networks Public Program 
 
@@ -175,230 +355,50 @@
 
  **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2022-09-18 19:03:59.007 +0000 UTC 
+ **Reported:** 2022-09-11 09:24:18.787 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.arubanetworks.com** 
 
-### 10. Program Details : 
-
-**Name:** Netflix 
-
- **Link:** <https://bugcrowd.com/netflix> 
-
- **Severity:** P3 
-
- **Hacker:** 0xm7lk 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-25 11:12:33.689 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 11. Program Details : 
-
-**Name:**  1Password 
-
- **Link:** <https://bugcrowd.com/agilebits> 
-
- **Severity:** P3 
-
- **Hacker:** briansmith 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-21 06:10:29.194 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 12. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P2 
-
- **Hacker:** kensh1n 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-14 00:47:21.22 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 13. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P4 
-
- **Hacker:** UpdateLap 
-
- **Points:** 0 
-
- **Target:** ` Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
-
- **Reported:** 2021-03-10 11:30:30.406 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
-
-### 14. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.comcast.com` 
-
- **Reported:** 2022-09-23 10:27:59.837 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.comcast.com** 
-
-### 15. Program Details : 
-
-**Name:** Stellantis  
-
- **Link:** <https://bugcrowd.com/stellantis> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against` 
-
- **Reported:** 2022-09-01 18:03:19.725 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against** 
-
-### 16. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-09-26 21:38:58.773 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 17. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.tesla.com` 
-
- **Reported:** 2022-09-21 05:16:22.656 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.tesla.com** 
-
-### 18. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Atlassian Marketplace (https://marketplace.atlassian.com)` 
-
- **Reported:** 2022-09-03 05:37:38.304 +0000 UTC 
-
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Atlassian Marketplace (https://marketplace.atlassian.com)** 
-
 ### 19. Program Details : 
 
-**Name:** Acorns Grow, Inc. 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/acorns> 
+ **Link:** <https://bugcrowd.com/atlassian> 
 
  **Severity:** P3 
 
- **Hacker:** queenofcanada 
+ **Hacker:** boy_child_ 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` *.acorns.com` 
+ **Target:** ` Atlassian Admin (https://admin.atlassian.com/)` 
 
- **Reported:** 2022-09-11 20:07:23.425 +0000 UTC 
+ **Reported:** 2022-09-12 15:39:29.71 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.acorns.com** 
+ **Submission accepted on target: Atlassian Admin (https://admin.atlassian.com/)** 
 
 ### 20. Program Details : 
 
-**Name:** Kenna Security 
+**Name:** United States Department of Agriculture: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/kennasecurity> 
+ **Link:** <https://bugcrowd.com/usda-vdp> 
 
- **Severity:** P4 
+ **Severity:** P0 
 
- **Hacker:** Shroud 
+ **Hacker:** wkobes 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)` 
+ **Target:** ` ` 
 
- **Reported:** 2022-08-28 09:26:52.443 +0000 UTC 
+ **Reported:** 2022-09-24 17:53:46.017 +0000 UTC 
 
- **Accepted:** 2022-09-27 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)** 
+ **Submission accepted** 
 
-## End of Crowdstream for 2022-September-28 09:58:33
+## End of Crowdstream for 2022-September-29 09:59:01
