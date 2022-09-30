@@ -1,11 +1,11 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-September-29 09:59:01
+## BugCrowd Crowdstream | Date:  2022-September-30 09:59:21
                             
 ### 1. Program Details : 
 
-**Name:** Binance 
+**Name:** SoundCloud 
 
- **Link:** <https://bugcrowd.com/binance> 
+ **Link:** <https://bugcrowd.com/soundcloud> 
 
  **Severity:** P4 
 
@@ -13,73 +13,73 @@
 
  **Points:** 0 
 
- **Target:** ` *.binance.com` 
+ **Target:** ` *.soundcloud.com` 
 
- **Reported:** 2022-09-22 19:58:55.887 +0000 UTC 
+ **Reported:** 2022-09-11 07:17:45.93 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.binance.com** 
+ **Submission accepted on target: *.soundcloud.com** 
 
 ### 2. Program Details : 
 
-**Name:** Bitdefender 
+**Name:** SoundCloud 
 
- **Link:** <https://bugcrowd.com/bitdefender> 
+ **Link:** <https://bugcrowd.com/soundcloud> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** Muhammed999 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` *.bitdefender.com` 
+ **Target:** ` *.s-cloud.net` 
 
- **Reported:** 2022-09-27 12:39:08.341 +0000 UTC 
+ **Reported:** 2022-06-22 18:40:15.979 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.bitdefender.com** 
+ **Submission accepted on target: *.s-cloud.net** 
 
 ### 3. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** LastPass 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/lastpass> 
 
  **Severity:** P3 
 
- **Hacker:** fin41x 
+ **Hacker:** b4c047 
 
  **Points:** 10 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` iOS Mobile app` 
 
- **Reported:** 2022-08-12 09:33:41.232 +0000 UTC 
+ **Reported:** 2022-09-29 13:21:08.856 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: iOS Mobile app** 
 
 ### 4. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Netflix 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/netflix> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** pjqwudi 
+ **Hacker:** Hussein 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` Corporate Targets` 
 
- **Reported:** 2022-08-29 07:01:24.59 +0000 UTC 
+ **Reported:** 2022-09-18 12:16:45.254 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: Corporate Targets** 
 
 ### 5. Program Details : 
 
@@ -87,318 +87,318 @@
 
  **Link:** <https://bugcrowd.com/indeed> 
 
- **Severity:** P4 
+ **Severity:** P2 
 
- **Hacker:**  
+ **Hacker:** ms-13 
 
- **Points:** 0 
+ **Points:** 20 
 
- **Target:** ` https://employer.simplyhired-staging.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-08-29 08:38:57.782 +0000 UTC 
+ **Reported:** 2022-09-27 15:22:06.475 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://employer.simplyhired-staging.com** 
+ **Submission accepted** 
 
 ### 6. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** Gh0stZer0 
+ **Hacker:** musashi42 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Nighthawk Pro Gaming Router` 
+ **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2022-08-29 00:13:05.291 +0000 UTC 
+ **Reported:** 2022-09-05 22:45:45.12 +0000 UTC 
 
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Pro Gaming Router** 
+ **Submission accepted on target: https://*.indeed.com** 
 
 ### 7. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Pinterest 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/pinterest> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** cyeaa 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Orbi ` 
+ **Target:** ` api.pinterest.com` 
 
- **Reported:** 2022-08-24 04:21:21.293 +0000 UTC 
+ **Reported:** 2022-07-06 03:49:57.749 +0000 UTC 
 
  **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Orbi ** 
+ **Submission accepted on target: api.pinterest.com** 
 
 ### 8. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** HubSpot 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/hubspot> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** fin41x 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` *.hubspot.com` 
 
- **Reported:** 2022-07-07 08:27:58.842 +0000 UTC 
+ **Reported:** 2022-09-27 17:00:48.59 +0000 UTC 
 
  **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: *.hubspot.com** 
 
 ### 9. Program Details : 
 
-**Name:** Digistorm 
+**Name:** Bureau of Land Management 
 
- **Link:** <https://bugcrowd.com/digistorm> 
+ **Link:** <https://bugcrowd.com/blm-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** 0daystolive 
+
+ **Points:** 0 
+
+ **Target:** ` *.blm.gov` 
+
+ **Reported:** 2022-06-08 16:51:16.837 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.blm.gov** 
+
+### 10. Program Details : 
+
+**Name:** Bureau of Land Management 
+
+ **Link:** <https://bugcrowd.com/blm-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** tess 
+
+ **Points:** 0 
+
+ **Target:** ` *.nifc.gov` 
+
+ **Reported:** 2022-08-27 01:14:21.917 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.nifc.gov** 
+
+### 11. Program Details : 
+
+**Name:** Bureau of Land Management 
+
+ **Link:** <https://bugcrowd.com/blm-vdp> 
 
  **Severity:** P3 
 
  **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` https://{account-code}.app.sandbox.digistorm.com-2/*` 
+ **Target:** ` *.blm.gov` 
 
- **Reported:** 2022-06-24 21:59:28.507 +0000 UTC 
-
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://{account-code}.app.sandbox.digistorm.com-2/*** 
-
-### 10. Program Details : 
-
-**Name:** NETGEAR Kudos Rewards 
-
- **Link:** <https://bugcrowd.com/netgearkudos> 
-
- **Severity:** P4 
-
- **Hacker:** coldfish 
-
- **Points:** 5 
-
- **Target:** ` ` 
-
- **Reported:** 2022-05-10 02:34:51.773 +0000 UTC 
+ **Reported:** 2022-08-26 15:01:35.908 +0000 UTC 
 
  **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted** 
-
-### 11. Program Details : 
-
-**Name:** NETGEAR Kudos Rewards 
-
- **Link:** <https://bugcrowd.com/netgearkudos> 
-
- **Severity:** P4 
-
- **Hacker:** Itachi22 
-
- **Points:** 5 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-01 01:58:17.416 +0000 UTC 
-
- **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
-
- **Submission accepted** 
+ **Submission accepted on target: *.blm.gov** 
 
 ### 12. Program Details : 
 
-**Name:** NETGEAR Kudos Rewards 
+**Name:** Bureau of Land Management 
 
- **Link:** <https://bugcrowd.com/netgearkudos> 
+ **Link:** <https://bugcrowd.com/blm-vdp> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:** touhidshaikh 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.blm.gov` 
 
- **Reported:** 2022-08-22 23:51:58.804 +0000 UTC 
+ **Reported:** 2022-08-26 16:46:38.655 +0000 UTC 
 
  **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.blm.gov** 
 
 ### 13. Program Details : 
 
-**Name:** Asana 
+**Name:** Pinterest 
 
- **Link:** <https://bugcrowd.com/asana> 
+ **Link:** <https://bugcrowd.com/pinterest> 
 
  **Severity:** P4 
 
- **Hacker:** pentestertown 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` form.asana.com` 
+ **Target:** ` Open source projects listed at github.com/pinterest/` 
 
- **Reported:** 2022-09-26 13:20:59.194 +0000 UTC 
+ **Reported:** 2022-06-24 09:13:30.831 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: form.asana.com** 
+ **Submission accepted on target: Open source projects listed at github.com/pinterest/** 
 
 ### 14. Program Details : 
 
-**Name:** Arrow Electronics VDP 
+**Name:** DICK'S Sporting Goods 
 
- **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** ValluvarSploit 
-
- **Points:** 0 
-
- **Target:** ` *.Datasheet` 
-
- **Reported:** 2022-09-09 08:48:20.4 +0000 UTC 
-
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.Datasheet** 
-
-### 15. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** UpdateLap 
-
- **Points:** 0 
-
- **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
-
- **Reported:** 2021-05-03 19:36:54.578 +0000 UTC 
-
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
-
-### 16. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P3 
-
- **Hacker:** Bate5a 
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-09-15 21:06:17.496 +0000 UTC 
-
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 17. Program Details : 
-
-**Name:** PlanetHoster 
-
- **Link:** <https://bugcrowd.com/planethosterinc> 
+ **Link:** <https://bugcrowd.com/dickssportinggoods> 
 
  **Severity:** P1 
 
- **Hacker:** iSeries 
+ **Hacker:**  
 
- **Points:** 40 
+ **Points:** 0 
 
- **Target:** ` my.planethoster.com` 
+ **Target:** ` *.dcsg.com` 
 
- **Reported:** 2022-09-21 22:18:36.23 +0000 UTC 
+ **Reported:** 2022-09-29 16:07:37.143 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: my.planethoster.com** 
+ **Submission accepted on target: *.dcsg.com** 
 
-### 18. Program Details : 
+### 15. Program Details : 
 
-**Name:** Aruba Networks Public Program 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
  **Severity:** P4 
 
- **Hacker:** Bate5a 
+ **Hacker:** Elsfa7-110 
 
  **Points:** 0 
 
- **Target:** ` *.arubanetworks.com` 
+ **Target:** ` twilio.com/blog` 
 
- **Reported:** 2022-09-11 09:24:18.787 +0000 UTC 
+ **Reported:** 2022-09-28 01:14:52.306 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.arubanetworks.com** 
+ **Submission accepted on target: twilio.com/blog** 
+
+### 16. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P4 
+
+ **Hacker:** Elsfa7-110 
+
+ **Points:** 0 
+
+ **Target:** ` twilio.com/blog` 
+
+ **Reported:** 2022-09-28 01:09:28.817 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: twilio.com/blog** 
+
+### 17. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P4 
+
+ **Hacker:** Elsfa7-110 
+
+ **Points:** 0 
+
+ **Target:** ` twilio.com/blog` 
+
+ **Reported:** 2022-09-28 01:05:10.344 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: twilio.com/blog** 
+
+### 18. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P4 
+
+ **Hacker:** Elsfa7-110 
+
+ **Points:** 0 
+
+ **Target:** ` https://sendgrid.com` 
+
+ **Reported:** 2022-09-27 14:46:59.367 +0000 UTC 
+
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://sendgrid.com** 
 
 ### 19. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** boy_child_ 
+ **Hacker:** Elsfa7-110 
 
  **Points:** 0 
 
- **Target:** ` Atlassian Admin (https://admin.atlassian.com/)` 
+ **Target:** ` https://sendgrid.com` 
 
- **Reported:** 2022-09-12 15:39:29.71 +0000 UTC 
+ **Reported:** 2022-09-27 14:40:10.794 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Atlassian Admin (https://admin.atlassian.com/)** 
+ **Submission accepted on target: https://sendgrid.com** 
 
 ### 20. Program Details : 
 
-**Name:** United States Department of Agriculture: Vulnerability Disclosure Program 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/usda-vdp> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
- **Severity:** P0 
+ **Severity:** P4 
 
- **Hacker:** wkobes 
+ **Hacker:** Elsfa7-110 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` twilio.com/blog` 
 
- **Reported:** 2022-09-24 17:53:46.017 +0000 UTC 
+ **Reported:** 2022-09-26 21:41:11.385 +0000 UTC 
 
- **Accepted:** 2022-09-28 00:00:00 +0000 UTC 
+ **Accepted:** 2022-09-29 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: twilio.com/blog** 
 
-## End of Crowdstream for 2022-September-29 09:59:01
+## End of Crowdstream for 2022-September-30 09:59:21
