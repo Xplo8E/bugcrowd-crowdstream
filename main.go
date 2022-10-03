@@ -36,7 +36,7 @@ type Response struct {
 }
 
 const reportedDateLayout = time.RFC3339
-const acceptedLayout = "02 Jan 2006"
+const acceptedLayout = "2 Jan 2006"
 
 func (ct *CustomTime) UnmarshalJSON(b []byte) (err error) {
 	s := strings.Trim(string(b), "\"")
