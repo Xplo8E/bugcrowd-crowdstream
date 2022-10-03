@@ -1,7 +1,227 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-October-02 09:56:09
+## BugCrowd Crowdstream | Date:  2022-October-03 10:04:04
                             
 ### 1. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Opera Mini` 
+
+ **Reported:** 2022-09-29 22:19:08.33 +0000 UTC 
+
+ **Accepted:** 2022-10-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Opera Mini** 
+
+### 2. Program Details : 
+
+**Name:** Web.com 
+
+ **Link:** <https://bugcrowd.com/webdotcom> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  www.web.com` 
+
+ **Reported:** 2022-08-20 18:34:19.243 +0000 UTC 
+
+ **Accepted:** 2022-10-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  www.web.com** 
+
+### 3. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:** game0v3r 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-09-01 05:55:47.917 +0000 UTC 
+
+ **Accepted:** 2022-10-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 4. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-22 07:14:32.215 +0000 UTC 
+
+ **Accepted:** 2022-10-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 5. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-22 07:12:23.421 +0000 UTC 
+
+ **Accepted:** 2022-10-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 6. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-22 07:01:44.357 +0000 UTC 
+
+ **Accepted:** 2022-10-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 7. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-05 04:25:22.591 +0000 UTC 
+
+ **Accepted:** 2022-10-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 8. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-28 11:44:42.176 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 9. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-25 03:38:56.64 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 10. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-25 03:38:40.422 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 11. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-25 03:37:49.043 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 12. Program Details : 
 
 **Name:** Atlassian 
 
@@ -21,7 +241,7 @@
 
  **Submission accepted on target: Jira Service Management Server** 
 
-### 2. Program Details : 
+### 13. Program Details : 
 
 **Name:** RealSelf 
 
@@ -41,7 +261,7 @@
 
  **Submission accepted on target: www.realself.com** 
 
-### 3. Program Details : 
+### 14. Program Details : 
 
 **Name:** RealSelf 
 
@@ -61,7 +281,7 @@
 
  **Submission accepted on target: www.realself.com** 
 
-### 4. Program Details : 
+### 15. Program Details : 
 
 **Name:** RealSelf 
 
@@ -81,7 +301,7 @@
 
  **Submission accepted on target: www.realself.com** 
 
-### 5. Program Details : 
+### 16. Program Details : 
 
 **Name:** RealSelf 
 
@@ -101,7 +321,7 @@
 
  **Submission accepted on target: www.realself.com** 
 
-### 6. Program Details : 
+### 17. Program Details : 
 
 **Name:** HubSpot 
 
@@ -121,7 +341,7 @@
 
  **Submission accepted on target: *.hubspot.com** 
 
-### 7. Program Details : 
+### 18. Program Details : 
 
 **Name:** Intercom 
 
@@ -141,7 +361,7 @@
 
  **Submission accepted on target: https://app.intercom.io** 
 
-### 8. Program Details : 
+### 19. Program Details : 
 
 **Name:** Facebook 
 
@@ -161,7 +381,7 @@
 
  **Submission Claimed** 
 
-### 9. Program Details : 
+### 20. Program Details : 
 
 **Name:** SoundCloud 
 
@@ -181,224 +401,4 @@
 
  **Submission accepted on target: *.soundcloud.com** 
 
-### 10. Program Details : 
-
-**Name:** HubSpot 
-
- **Link:** <https://bugcrowd.com/hubspot> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.hubspot.com` 
-
- **Reported:** 2022-09-24 23:03:13.213 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.hubspot.com** 
-
-### 11. Program Details : 
-
-**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/dhs-vdp> 
-
- **Severity:** P0 
-
- **Hacker:** notnci 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-06-24 13:58:26.863 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 12. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P2 
-
- **Hacker:** ADBCyberSecurityTeamb6a0324e-ca88-47c0-9246-97dbfe7e8676 
-
- **Points:** 20 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2022-08-05 09:35:34.449 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 13. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P3 
-
- **Hacker:** niraeth 
-
- **Points:** 0 
-
- **Target:** ` *.repostnetwork.com` 
-
- **Reported:** 2022-07-18 13:19:41.05 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.repostnetwork.com** 
-
-### 14. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2022-09-28 13:37:40.574 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-### 15. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2022-09-11 07:17:45.93 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-### 16. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.s-cloud.net` 
-
- **Reported:** 2022-06-22 18:40:15.979 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.s-cloud.net** 
-
-### 17. Program Details : 
-
-**Name:** LastPass 
-
- **Link:** <https://bugcrowd.com/lastpass> 
-
- **Severity:** P3 
-
- **Hacker:** b4c047 
-
- **Points:** 10 
-
- **Target:** ` iOS Mobile app` 
-
- **Reported:** 2022-09-29 13:21:08.856 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: iOS Mobile app** 
-
-### 18. Program Details : 
-
-**Name:** Netflix 
-
- **Link:** <https://bugcrowd.com/netflix> 
-
- **Severity:** P4 
-
- **Hacker:** Hussein 
-
- **Points:** 0 
-
- **Target:** ` Corporate Targets` 
-
- **Reported:** 2022-09-18 12:16:45.254 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Corporate Targets** 
-
-### 19. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P2 
-
- **Hacker:** ms-13 
-
- **Points:** 20 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-27 15:22:06.475 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 20. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:** musashi42 
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2022-09-05 22:45:45.12 +0000 UTC 
-
- **Accepted:** 2022-09-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-## End of Crowdstream for 2022-October-02 09:56:09
+## End of Crowdstream for 2022-October-03 10:04:04
