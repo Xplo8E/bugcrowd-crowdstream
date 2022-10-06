@@ -1,373 +1,213 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-October-05 09:58:53
+## BugCrowd Crowdstream | Date:  2022-October-06 23:24:20
                             
 ### 1. Program Details : 
 
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P4 
-
- **Hacker:** zer0h 
-
- **Points:** 5 
-
- **Target:** ` *.just-eat.fr` 
-
- **Reported:** 2022-09-27 15:28:45.585 +0000 UTC 
-
- **Accepted:** 2022-10-05 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.just-eat.fr** 
-
-### 2. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P0 
-
- **Hacker:** MuhammadKhizerJaved 
-
- **Points:** 5 
-
- **Target:** ` auth.opera.com` 
-
- **Reported:** 2022-10-03 18:50:16.824 +0000 UTC 
-
- **Accepted:** 2022-10-05 00:00:00 +0000 UTC 
-
- **Submission accepted on target: auth.opera.com** 
-
-### 3. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-25 03:45:19.138 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 4. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-25 03:42:16.626 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 5. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-24 01:54:58.767 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 6. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-24 01:52:52.553 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 7. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-24 02:52:57.079 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 8. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-24 09:04:11.886 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 9. Program Details : 
-
-**Name:** Bugcrowd 
-
- **Link:** <https://bugcrowd.com/bugcrowd> 
-
- **Severity:** P1 
-
- **Hacker:** moonbaba 
-
- **Points:** 40 
-
- **Target:** ` bugcrowd.com` 
-
- **Reported:** 2022-09-29 03:32:36.819 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: bugcrowd.com** 
-
-### 10. Program Details : 
-
-**Name:** Ubisoft VDP 
-
- **Link:** <https://bugcrowd.com/ubisoft-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** 3th1c_yuk1 
-
- **Points:** 0 
-
- **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
-
- **Reported:** 2022-09-12 12:02:20.768 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
-
-### 11. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Open source projects listed at github.com/pinterest/` 
-
- **Reported:** 2022-06-24 09:13:30.831 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Open source projects listed at github.com/pinterest/** 
-
-### 12. Program Details : 
-
 **Name:** HubSpot 
 
  **Link:** <https://bugcrowd.com/hubspot> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** discodamone 
 
- **Points:** 0 
-
- **Target:** ` *.hs-sites.com` 
-
- **Reported:** 2022-09-21 17:09:13.192 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.hs-sites.com** 
-
-### 13. Program Details : 
-
-**Name:** HubSpot 
-
- **Link:** <https://bugcrowd.com/hubspot> 
-
- **Severity:** P2 
-
- **Hacker:** Nagli 
-
- **Points:** 20 
+ **Points:** 10 
 
  **Target:** ` ` 
 
- **Reported:** 2022-10-01 22:44:58.009 +0000 UTC 
+ **Reported:** 2022-10-03 04:32:12.837 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 14. Program Details : 
+### 2. Program Details : 
 
-**Name:** Etsy 
+**Name:** Tesla 
 
- **Link:** <https://bugcrowd.com/etsy> 
+ **Link:** <https://bugcrowd.com/tesla> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** cryptohidden007 
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
+ **Target:** ` *.tesla.com` 
 
- **Reported:** 2022-07-10 09:10:58.51 +0000 UTC 
+ **Reported:** 2022-10-04 06:31:54.138 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
+ **Submission accepted on target: *.tesla.com** 
 
-### 15. Program Details : 
+### 3. Program Details : 
 
 **Name:** Optimizely 
 
  **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** amitkh7888 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
  **Target:** ` https://app.optimizely.com/` 
 
- **Reported:** 2022-09-07 19:19:18.876 +0000 UTC 
+ **Reported:** 2022-09-11 16:01:54.075 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://app.optimizely.com/** 
 
-### 16. Program Details : 
+### 4. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** mythos 
-
- **Points:** 0 
-
- **Target:** ` Atlassian Compass` 
-
- **Reported:** 2022-09-22 08:03:05.819 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Atlassian Compass** 
-
-### 17. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P5 
-
- **Hacker:** Oxylis 
-
- **Points:** 0 
-
- **Target:** ` *.pinterest.com Web Apps` 
-
- **Reported:** 2022-10-04 17:04:42.158 +0000 UTC 
-
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.pinterest.com Web Apps** 
-
-### 18. Program Details : 
-
-**Name:** Ubisoft VDP 
-
- **Link:** <https://bugcrowd.com/ubisoft-vdp> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P3 
 
- **Hacker:** RizwanSiDdiqu1 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
+ **Target:** ` https://app.optimizely.com/` 
 
- **Reported:** 2022-09-29 01:53:14.462 +0000 UTC 
+ **Reported:** 2022-09-11 01:12:48.422 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
+ **Submission accepted on target: https://app.optimizely.com/** 
 
-### 19. Program Details : 
+### 5. Program Details : 
 
-**Name:** Pinterest 
+**Name:** Personal Capital 
 
- **Link:** <https://bugcrowd.com/pinterest> 
+ **Link:** <https://bugcrowd.com/personalcapital> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://devstaging.pcapcloud.com/*` 
+
+ **Reported:** 2022-10-05 01:06:41.271 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://devstaging.pcapcloud.com/*** 
+
+### 6. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
 
  **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.meraki.com` 
+
+ **Reported:** 2022-09-08 11:18:13.01 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.meraki.com** 
+
+### 7. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.comcast.com` 
+
+ **Reported:** 2022-09-30 04:24:34.008 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.comcast.com** 
+
+### 8. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2022-10-02 12:21:10.458 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 9. Program Details : 
+
+**Name:** Docusign: Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/docusign-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** SushantMMane 
+
+ **Points:** 0 
+
+ **Target:** ` All Docusign apps and assets not listed under the Out of Scope list ` 
+
+ **Reported:** 2022-09-27 16:46:06.885 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: All Docusign apps and assets not listed under the Out of Scope list ** 
+
+### 10. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P4 
+
+ **Hacker:** f1ltr3r 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.incapsula.com` 
+
+ **Reported:** 2022-10-04 15:24:34.348 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.incapsula.com** 
+
+### 11. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P3 
 
  **Hacker:**  
 
@@ -375,17 +215,17 @@
 
  **Target:** ` ` 
 
- **Reported:** 2022-09-16 18:25:07.345 +0000 UTC 
+ **Reported:** 2022-10-02 11:37:22.744 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 20. Program Details : 
+### 12. Program Details : 
 
-**Name:** Aruba Networks Public Program 
+**Name:** Imperva Bug Bounty 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
 
  **Severity:** P3 
 
@@ -393,12 +233,172 @@
 
  **Points:** 0 
 
- **Target:** ` *.arubanetworks.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-10-03 05:08:41.638 +0000 UTC 
+ **Reported:** 2022-10-02 11:24:50.374 +0000 UTC 
 
- **Accepted:** 2022-10-04 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.arubanetworks.com** 
+ **Submission accepted** 
 
-## End of Crowdstream for 2022-October-05 09:58:53
+### 13. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-10-02 11:04:14.947 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 14. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-10-02 11:30:36.291 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 15. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2022-09-17 16:26:52.599 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+### 16. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P3 
+
+ **Hacker:** queenofcanada 
+
+ **Points:** 10 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2022-10-01 19:10:49.675 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+### 17. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P3 
+
+ **Hacker:** queenofcanada 
+
+ **Points:** 10 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2022-10-01 19:24:23.2 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+### 18. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-10-02 11:14:48.7 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 19. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** SnowflakeSmasher 
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2022-10-03 13:35:18.645 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 20. Program Details : 
+
+**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/dhs-vdp> 
+
+ **Severity:** P0 
+
+ **Hacker:** BugBounty_Anonull 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-11 14:38:40.309 +0000 UTC 
+
+ **Accepted:** 2022-10-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+## End of Crowdstream for 2022-October-06 23:24:20
