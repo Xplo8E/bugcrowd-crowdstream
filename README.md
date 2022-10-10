@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-October-09 09:56:24
+## BugCrowd Crowdstream | Date:  2022-October-10 09:58:43
                             
 ### 1. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 10 
+
+ **Target:** ` *.bistro.sk` 
+
+ **Reported:** 2022-10-05 01:16:13.474 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bistro.sk** 
+
+### 2. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-09-07 00:53:21.219 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 3. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:** pjqwudi 
+
+ **Points:** 10 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-08-29 10:43:37.445 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 4. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-09-17 07:57:19.548 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 5. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-09-07 21:38:11.943 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 6. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://webmail.unileverservices.com/` 
+
+ **Reported:** 2022-10-09 22:29:27.095 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://webmail.unileverservices.com/** 
+
+### 7. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** shra1 
+
+ **Points:** 0 
+
+ **Target:** ` https://magento.volle-truhe.at/` 
+
+ **Reported:** 2022-10-07 06:15:17.175 +0000 UTC 
+
+ **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://magento.volle-truhe.at/** 
+
+### 8. Program Details : 
 
 **Name:** Indeed 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Indeed 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted on target: https://employers.indeed.com/** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Square Open Source 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: https://github.com/square/okhttp** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** Cengage VDP 
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: https://*.cengage.com** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** Trello 
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: Card Aging Power-Up** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** Atlassian 
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** Atlassian 
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** Atlassian 
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** Netflix 
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: www.netflix.com** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** Trello 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: trello.com** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Indeed 
 
@@ -221,7 +361,7 @@
 
  **Submission accepted on target: https://wowjobs.ca** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -241,7 +381,7 @@
 
  **Submission accepted** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** Optimizely 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target: https://app.welcomesoftware.com/** 
 
-### 14. Program Details : 
-
-**Name:** Constant Contact, Inc. 
-
- **Link:** <https://bugcrowd.com/constantcontact> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` All Constant Contact websites - *.constantcontact.com` 
-
- **Reported:** 2022-10-01 05:35:43.557 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: All Constant Contact websites - *.constantcontact.com** 
-
-### 15. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P4 
-
- **Hacker:** fuomag9 
-
- **Points:** 5 
-
- **Target:** ` *.lieferando.de` 
-
- **Reported:** 2022-09-13 16:15:07.139 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.lieferando.de** 
-
-### 16. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P4 
-
- **Hacker:** chimoul 
-
- **Points:** 5 
-
- **Target:** ` *.lieferando.at` 
-
- **Reported:** 2022-09-27 14:28:42.167 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.lieferando.at** 
-
-### 17. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
-
- **Severity:** P2 
-
- **Hacker:** amitkh7888 
-
- **Points:** 20 
-
- **Target:** ` http://app.sandbox.digistorm.com` 
-
- **Reported:** 2022-09-12 18:49:01.787 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: http://app.sandbox.digistorm.com** 
-
-### 18. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
-
- **Severity:** P3 
-
- **Hacker:** brahmah 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-11 12:03:08.151 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 19. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2022-09-07 01:53:56.969 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-### 20. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2022-09-06 08:24:53.639 +0000 UTC 
-
- **Accepted:** 2022-10-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-## End of Crowdstream for 2022-October-09 09:56:24
+## End of Crowdstream for 2022-October-10 09:58:43
