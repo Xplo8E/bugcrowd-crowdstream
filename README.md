@@ -1,51 +1,31 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-October-11 09:58:53
+## BugCrowd Crowdstream | Date:  2022-October-12 09:59:53
                             
 ### 1. Program Details : 
 
-**Name:** SoundCloud 
+**Name:** Rakuten VDP 
 
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P3 
-
- **Hacker:** ghayalparinda 
-
- **Points:** 10 
-
- **Target:** ` *.repostnetwork.com` 
-
- **Reported:** 2022-07-28 12:30:06.235 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.repostnetwork.com** 
-
-### 2. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+ **Link:** <https://bugcrowd.com/rakuten-vdp> 
 
  **Severity:** P3 
 
- **Hacker:** niraeth 
+ **Hacker:** prok3z 
 
  **Points:** 0 
 
- **Target:** ` www.tripadvisor.com` 
+ **Target:** ` *.rakuten.com` 
 
- **Reported:** 2022-10-10 04:42:34.578 +0000 UTC 
+ **Reported:** 2022-09-20 21:58:55.101 +0000 UTC 
 
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.tripadvisor.com** 
+ **Submission accepted on target: *.rakuten.com** 
 
-### 3. Program Details : 
+### 2. Program Details : 
 
-**Name:** Takeaway.com 
+**Name:** Rakuten VDP 
 
- **Link:** <https://bugcrowd.com/takeaway> 
+ **Link:** <https://bugcrowd.com/rakuten-vdp> 
 
  **Severity:** P4 
 
@@ -53,55 +33,115 @@
 
  **Points:** 0 
 
+ **Target:** ` *.rakuten.com` 
+
+ **Reported:** 2022-09-09 19:02:06.687 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.rakuten.com** 
+
+### 3. Program Details : 
+
+**Name:** Bluehost  
+
+ **Link:** <https://bugcrowd.com/newfold-bluehost> 
+
+ **Severity:** P4 
+
+ **Hacker:** 0xm7lk 
+
+ **Points:** 5 
+
  **Target:** ` ` 
 
- **Reported:** 2022-10-01 04:58:35.311 +0000 UTC 
+ **Reported:** 2022-09-26 08:24:04.716 +0000 UTC 
 
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 4. Program Details : 
 
-**Name:** Takeaway.com 
+**Name:** SEEK  
 
- **Link:** <https://bugcrowd.com/takeaway> 
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P3 
+
+ **Hacker:** Z-winK 
+
+ **Points:** 10 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-10 20:10:09.38 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 5. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P3 
+
+ **Hacker:** Z-winK 
+
+ **Points:** 10 
+
+ **Target:** ` *.seek.com.au` 
+
+ **Reported:** 2022-09-10 19:38:50.907 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com.au** 
+
+### 6. Program Details : 
+
+**Name:** Jora 
+
+ **Link:** <https://bugcrowd.com/jora> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.jora.xyz` 
+
+ **Reported:** 2022-09-28 09:48:30.076 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.jora.xyz** 
+
+### 7. Program Details : 
+
+**Name:** Viator 
+
+ **Link:** <https://bugcrowd.com/viator> 
 
  **Severity:** P4 
 
  **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` *.just-eat.fr` 
+ **Target:** ` *.viator.com` 
 
- **Reported:** 2022-09-25 13:13:03.929 +0000 UTC 
+ **Reported:** 2022-10-03 22:34:40.507 +0000 UTC 
 
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.just-eat.fr** 
+ **Submission accepted on target: *.viator.com** 
 
-### 5. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P4 
-
- **Hacker:** Hackinsola 
-
- **Points:** 5 
-
- **Target:** ` *.thuisbezorgd.nl` 
-
- **Reported:** 2022-09-06 21:24:37.964 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.thuisbezorgd.nl** 
-
-### 6. Program Details : 
+### 8. Program Details : 
 
 **Name:** Indeed 
 
@@ -109,296 +149,256 @@
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** harrisoft 
 
- **Points:** 0 
+ **Points:** 5 
 
  **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2022-09-10 03:28:33.751 +0000 UTC 
+ **Reported:** 2022-09-22 00:08:50.59 +0000 UTC 
 
  **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 7. Program Details : 
+### 9. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Bureau of Reclamation 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/usbr-vdp> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** Faizee_Asad 
 
  **Points:** 0 
 
- **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
+ **Target:** ` *.usbr.gov` 
 
- **Reported:** 2022-09-24 12:59:01.95 +0000 UTC 
+ **Reported:** 2022-09-20 10:20:10.408 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
-
-### 8. Program Details : 
-
-**Name:** Arlo Cash Rewards 
-
- **Link:** <https://bugcrowd.com/arlo> 
-
- **Severity:** P3 
-
- **Hacker:** queenofcanada 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-16 19:05:59.003 +0000 UTC 
-
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 9. Program Details : 
-
-**Name:** Arlo Cash Rewards 
-
- **Link:** <https://bugcrowd.com/arlo> 
-
- **Severity:** P3 
-
- **Hacker:** queenofcanada 
-
- **Points:** 10 
-
- **Target:** ` https://www.arlo.com` 
-
- **Reported:** 2022-09-12 19:16:46.146 +0000 UTC 
-
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.arlo.com** 
+ **Submission accepted on target: *.usbr.gov** 
 
 ### 10. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Etsy 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/etsy> 
 
  **Severity:** P3 
 
- **Hacker:** BrandonReynolds 
+ **Hacker:** Muhammed999 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Arlo Base Station` 
+ **Target:** ` www.etsy.com` 
 
- **Reported:** 2022-09-10 14:29:56.478 +0000 UTC 
+ **Reported:** 2022-10-04 22:54:54.371 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Arlo Base Station** 
+ **Submission accepted on target: www.etsy.com** 
 
 ### 11. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Aruba Networks Public Program 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/aruba-public> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** BrandonReynolds 
+ **Hacker:** blakeobs 
 
- **Points:** 20 
+ **Points:** 40 
 
- **Target:** ` Arlo Ultra` 
+ **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2022-09-10 13:38:00.062 +0000 UTC 
+ **Reported:** 2022-09-30 00:49:48.34 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Arlo Ultra** 
+ **Submission accepted on target: *.arubanetworks.com** 
 
 ### 12. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Aruba Networks Public Program 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/aruba-public> 
 
  **Severity:** P3 
 
- **Hacker:** BrandonReynolds 
+ **Hacker:** niraeth 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Arlo Base Station` 
+ **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2022-09-02 19:37:32.964 +0000 UTC 
+ **Reported:** 2022-10-01 12:23:53.752 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Arlo Base Station** 
+ **Submission accepted on target: *.arubanetworks.com** 
 
 ### 13. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Aruba Networks Public Program 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/aruba-public> 
 
  **Severity:** P3 
 
- **Hacker:** BrandonReynolds 
+ **Hacker:** blakeobs 
 
  **Points:** 10 
 
- **Target:** ` Arlo Base Station` 
+ **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2022-09-09 18:34:24.917 +0000 UTC 
+ **Reported:** 2022-09-26 12:17:30.574 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Arlo Base Station** 
+ **Submission accepted on target: *.arubanetworks.com** 
 
 ### 14. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Facebook 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/facebook> 
 
  **Severity:** P3 
 
- **Hacker:** BlackFly 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` https://community.arlo.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-09-27 15:35:26.006 +0000 UTC 
+ **Reported:** 2022-10-01 11:07:45.558 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://community.arlo.com** 
+ **Submission Claimed** 
 
 ### 15. Program Details : 
 
-**Name:** Netflix 
+**Name:** Cisco Meraki 
 
- **Link:** <https://bugcrowd.com/netflix> 
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
 
- **Severity:** P2 
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.ikarem.io` 
 
- **Reported:** 2022-10-09 13:38:20.098 +0000 UTC 
+ **Reported:** 2022-09-21 17:45:59.811 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.ikarem.io** 
 
 ### 16. Program Details : 
 
-**Name:** Personal Capital 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/personalcapital> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` https://devstaging.pcapcloud.com/*` 
+ **Target:** ` Any Other Sophos Product or Service` 
 
- **Reported:** 2022-06-08 13:03:44.321 +0000 UTC 
+ **Reported:** 2022-10-06 22:07:01.768 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://devstaging.pcapcloud.com/*** 
+ **Submission accepted on target: Any Other Sophos Product or Service** 
 
 ### 17. Program Details : 
 
-**Name:** iFood: Bug Bounty Program 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/ifood-og> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
  **Severity:** P3 
 
- **Hacker:** p4fg 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` https://shop.ifood.com.br` 
+ **Target:** ` Any Other Sophos Product or Service` 
 
- **Reported:** 2022-09-30 12:59:36.494 +0000 UTC 
+ **Reported:** 2022-10-08 14:02:03.068 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://shop.ifood.com.br** 
+ **Submission accepted on target: Any Other Sophos Product or Service** 
 
 ### 18. Program Details : 
 
-**Name:** Tesla 
+**Name:** Ubisoft VDP 
 
- **Link:** <https://bugcrowd.com/tesla> 
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` *.tesla.cn` 
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
 
- **Reported:** 2022-07-23 18:33:41.079 +0000 UTC 
+ **Reported:** 2022-10-10 18:02:02.509 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.tesla.cn** 
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
 
 ### 19. Program Details : 
 
-**Name:** Optimizely 
+**Name:** Unilever Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:** george-devasia 
-
- **Points:** 10 
-
- **Target:** ` https://app.optimizely.com/` 
-
- **Reported:** 2022-09-13 20:37:02.648 +0000 UTC 
-
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.optimizely.com/** 
-
-### 20. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** KeiZo 
 
  **Points:** 0 
 
+ **Target:** ` http://www.popsicle.ca/en` 
+
+ **Reported:** 2022-10-06 10:21:24.397 +0000 UTC 
+
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: http://www.popsicle.ca/en** 
+
+### 20. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** C0NQR0R 
+
+ **Points:** 10 
+
  **Target:** ` ` 
 
- **Reported:** 2022-10-01 18:04:53.668 +0000 UTC 
+ **Reported:** 2022-09-28 18:23:40.029 +0000 UTC 
 
- **Accepted:** 2022-10-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-## End of Crowdstream for 2022-October-11 09:58:53
+## End of Crowdstream for 2022-October-12 09:59:53
