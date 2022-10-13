@@ -1,7 +1,267 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-October-12 09:59:53
+## BugCrowd Crowdstream | Date:  2022-October-13 09:58:42
                             
 ### 1. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** D4rk_L0tu5 
+
+ **Points:** 0 
+
+ **Target:** ` *.unilever.com.br/` 
+
+ **Reported:** 2022-10-12 13:45:32.266 +0000 UTC 
+
+ **Accepted:** 2022-10-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.unilever.com.br/** 
+
+### 2. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** D4rk_L0tu5 
+
+ **Points:** 0 
+
+ **Target:** ` *.unilever.ro/` 
+
+ **Reported:** 2022-10-12 13:11:32.272 +0000 UTC 
+
+ **Accepted:** 2022-10-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.unilever.ro/** 
+
+### 3. Program Details : 
+
+**Name:** OLX Group 
+
+ **Link:** <https://bugcrowd.com/olxgroup> 
+
+ **Severity:** P4 
+
+ **Hacker:** chanchalk 
+
+ **Points:** 0 
+
+ **Target:** ` *.otomoto.pl` 
+
+ **Reported:** 2022-10-12 23:59:50.862 +0000 UTC 
+
+ **Accepted:** 2022-10-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.otomoto.pl** 
+
+### 4. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
+
+ **Severity:** P4 
+
+ **Hacker:** Pankaj_t 
+
+ **Points:** 0 
+
+ **Target:** ` *.meraki.com` 
+
+ **Reported:** 2022-10-10 14:53:04.145 +0000 UTC 
+
+ **Accepted:** 2022-10-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.meraki.com** 
+
+### 5. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.seek.com` 
+
+ **Reported:** 2022-08-31 19:51:09.413 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.seek.com** 
+
+### 6. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-10-04 10:04:40.364 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 7. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:** game0v3r 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-09-24 06:03:42.702 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 8. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:** Spandan_pokh 
+
+ **Points:** 5 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2022-10-10 13:27:54.764 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 9. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P4 
+
+ **Hacker:** sheryar 
+
+ **Points:** 0 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2022-10-01 09:31:34.663 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+### 10. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:** blakeobs 
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2022-09-10 18:52:30.358 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 11. Program Details : 
+
+**Name:** Dell Technologies' Products Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/dell-product> 
+
+ **Severity:** P3 
+
+ **Hacker:** mmg 
+
+ **Points:** 0 
+
+ **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
+
+ **Reported:** 2022-09-20 09:11:02.456 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
+
+### 12. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-10-12 11:02:33.729 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 13. Program Details : 
+
+**Name:** Web.com VDP 
+
+ **Link:** <https://bugcrowd.com/webdotcom-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** darkdream 
+
+ **Points:** 0 
+
+ **Target:** ` *.web.com` 
+
+ **Reported:** 2022-06-04 09:31:45.609 +0000 UTC 
+
+ **Accepted:** 2022-10-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.web.com** 
+
+### 14. Program Details : 
 
 **Name:** Rakuten VDP 
 
@@ -21,7 +281,7 @@
 
  **Submission accepted on target: *.rakuten.com** 
 
-### 2. Program Details : 
+### 15. Program Details : 
 
 **Name:** Rakuten VDP 
 
@@ -41,7 +301,7 @@
 
  **Submission accepted on target: *.rakuten.com** 
 
-### 3. Program Details : 
+### 16. Program Details : 
 
 **Name:** Bluehost  
 
@@ -61,7 +321,7 @@
 
  **Submission accepted** 
 
-### 4. Program Details : 
+### 17. Program Details : 
 
 **Name:** SEEK  
 
@@ -81,7 +341,7 @@
 
  **Submission accepted on target: *.seek.com.au** 
 
-### 5. Program Details : 
+### 18. Program Details : 
 
 **Name:** SEEK  
 
@@ -101,7 +361,7 @@
 
  **Submission accepted on target: *.seek.com.au** 
 
-### 6. Program Details : 
+### 19. Program Details : 
 
 **Name:** Jora 
 
@@ -121,7 +381,7 @@
 
  **Submission accepted on target: *.jora.xyz** 
 
-### 7. Program Details : 
+### 20. Program Details : 
 
 **Name:** Viator 
 
@@ -141,264 +401,4 @@
 
  **Submission accepted on target: *.viator.com** 
 
-### 8. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:** harrisoft 
-
- **Points:** 5 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2022-09-22 00:08:50.59 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-### 9. Program Details : 
-
-**Name:** Bureau of Reclamation 
-
- **Link:** <https://bugcrowd.com/usbr-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** Faizee_Asad 
-
- **Points:** 0 
-
- **Target:** ` *.usbr.gov` 
-
- **Reported:** 2022-09-20 10:20:10.408 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.usbr.gov** 
-
-### 10. Program Details : 
-
-**Name:** Etsy 
-
- **Link:** <https://bugcrowd.com/etsy> 
-
- **Severity:** P3 
-
- **Hacker:** Muhammed999 
-
- **Points:** 0 
-
- **Target:** ` www.etsy.com` 
-
- **Reported:** 2022-10-04 22:54:54.371 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.etsy.com** 
-
-### 11. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P1 
-
- **Hacker:** blakeobs 
-
- **Points:** 40 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-09-30 00:49:48.34 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 12. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P3 
-
- **Hacker:** niraeth 
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-10-01 12:23:53.752 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 13. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P3 
-
- **Hacker:** blakeobs 
-
- **Points:** 10 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-09-26 12:17:30.574 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 14. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-10-01 11:07:45.558 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 15. Program Details : 
-
-**Name:** Cisco Meraki 
-
- **Link:** <https://bugcrowd.com/ciscomeraki> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ikarem.io` 
-
- **Reported:** 2022-09-21 17:45:59.811 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ikarem.io** 
-
-### 16. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Other Sophos Product or Service` 
-
- **Reported:** 2022-10-06 22:07:01.768 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Other Sophos Product or Service** 
-
-### 17. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Other Sophos Product or Service` 
-
- **Reported:** 2022-10-08 14:02:03.068 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Other Sophos Product or Service** 
-
-### 18. Program Details : 
-
-**Name:** Ubisoft VDP 
-
- **Link:** <https://bugcrowd.com/ubisoft-vdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
-
- **Reported:** 2022-10-10 18:02:02.509 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
-
-### 19. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** KeiZo 
-
- **Points:** 0 
-
- **Target:** ` http://www.popsicle.ca/en` 
-
- **Reported:** 2022-10-06 10:21:24.397 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: http://www.popsicle.ca/en** 
-
-### 20. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P3 
-
- **Hacker:** C0NQR0R 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-28 18:23:40.029 +0000 UTC 
-
- **Accepted:** 2022-10-11 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-## End of Crowdstream for 2022-October-12 09:59:53
+## End of Crowdstream for 2022-October-13 09:58:42
