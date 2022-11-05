@@ -1,125 +1,125 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-November-04 09:52:06
+## BugCrowd Crowdstream | Date:  2022-November-05 09:51:53
                             
 ### 1. Program Details : 
 
-**Name:** Twilio 
+**Name:** Pinterest 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/pinterest> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** dhtzs 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` Any host/web property verified to be owned by Twilio` 
+ **Target:** ` ` 
 
- **Reported:** 2022-10-28 22:22:32.352 +0000 UTC 
+ **Reported:** 2022-11-02 21:48:39.347 +0000 UTC 
 
  **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
+ **Submission accepted** 
 
 ### 2. Program Details : 
 
-**Name:** Twilio 
+**Name:** Ubisoft VDP 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** JafarQudah1 
 
  **Points:** 0 
 
- **Target:** ` Any host/web property verified to be owned by Twilio` 
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
 
- **Reported:** 2022-10-31 12:48:24.08 +0000 UTC 
+ **Reported:** 2022-10-15 15:55:03.123 +0000 UTC 
 
  **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
 
 ### 3. Program Details : 
 
-**Name:** Unilever Vulnerability Disclosure Program 
+**Name:** Ubisoft VDP 
 
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** beNothing 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-10-21 17:36:10.933 +0000 UTC 
-
- **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 4. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
 
  **Severity:** P1 
 
- **Hacker:** sboersma 
+ **Hacker:** JafarQudah1 
 
  **Points:** 0 
 
- **Target:** ` *.skinsei.com/` 
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
 
- **Reported:** 2022-11-03 08:17:41.128 +0000 UTC 
+ **Reported:** 2022-10-16 19:46:24.775 +0000 UTC 
 
  **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.skinsei.com/** 
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
+
+### 4. Program Details : 
+
+**Name:** Ubisoft VDP 
+
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** sw33tLie 
+
+ **Points:** 0 
+
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
+
+ **Reported:** 2022-06-27 15:12:52.996 +0000 UTC 
+
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
 
 ### 5. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Ubisoft VDP 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/ubisoft-vdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.` 
 
- **Reported:** 2022-10-22 12:25:21.623 +0000 UTC 
+ **Reported:** 2022-10-11 17:32:57.419 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
 
 ### 6. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Opsgenie 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/opsgenie> 
 
  **Severity:** P3 
 
- **Hacker:** MrHack 
+ **Hacker:** 0xm7lk 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
+ **Target:** ` *.opsgenie.com` 
 
- **Reported:** 2022-09-28 04:09:13.251 +0000 UTC 
+ **Reported:** 2022-11-04 11:23:39.913 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
+ **Submission accepted on target: *.opsgenie.com** 
 
 ### 7. Program Details : 
 
@@ -135,57 +135,57 @@
 
  **Target:** ` ` 
 
- **Reported:** 2022-10-27 17:43:18.752 +0000 UTC 
+ **Reported:** 2022-10-29 15:11:35.8 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 8. Program Details : 
 
-**Name:** Pinterest 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/pinterest> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:** Opaque 
+ **Hacker:**  
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` *.pinterest.com Web Apps` 
+ **Target:** ` https://cdn-app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-03 10:17:29.135 +0000 UTC 
+ **Reported:** 2022-09-24 12:46:39.868 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.pinterest.com Web Apps** 
+ **Submission accepted on target: https://cdn-app.welcomesoftware.com/** 
 
 ### 9. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-01 17:50:35.841 +0000 UTC 
+ **Reported:** 2022-09-27 22:19:43.9 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 10. Program Details : 
 
-**Name:** Lucid Motors Vulnerability Disclosure Program 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/lucidmotors-vdp> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P3 
 
@@ -193,119 +193,119 @@
 
  **Points:** 0 
 
- **Target:** ` www.lucidmotors.com` 
+ **Target:** ` https://accounts.welcomesoftware.com/` 
 
- **Reported:** 2022-10-10 22:31:28.531 +0000 UTC 
+ **Reported:** 2022-09-26 19:19:10.824 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.lucidmotors.com** 
+ **Submission accepted on target: https://accounts.welcomesoftware.com/** 
 
 ### 11. Program Details : 
 
-**Name:** Cisco Meraki 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/ciscomeraki> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** niraeth 
+ **Hacker:** saivelde 
 
  **Points:** 0 
 
- **Target:** ` meraki.cisco.com` 
+ **Target:** ` https://accounts.welcomesoftware.com/` 
 
- **Reported:** 2022-10-15 05:38:45.925 +0000 UTC 
+ **Reported:** 2022-10-11 17:52:52.213 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: meraki.cisco.com** 
+ **Submission accepted on target: https://accounts.welcomesoftware.com/** 
 
 ### 12. Program Details : 
 
-**Name:** Segment 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/segment> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** Vivek_Perkawar 
+ **Hacker:** Djaballah-Mohamed-Taher 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-01 18:09:15.779 +0000 UTC 
+ **Reported:** 2022-09-27 11:45:04.876 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 13. Program Details : 
 
-**Name:** United Airlines 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** Khagan 
+ **Hacker:** Djaballah-Mohamed-Taher 
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-10-26 08:42:58.559 +0000 UTC 
+ **Reported:** 2022-09-27 14:11:26.283 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 14. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P1 
+ **Severity:** P4 
+
+ **Hacker:** mohammad_owais 
+
+ **Points:** 0 
+
+ **Target:** ` https://accounts.welcomesoftware.com/` 
+
+ **Reported:** 2022-09-27 12:43:32.618 +0000 UTC 
+
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://accounts.welcomesoftware.com/** 
+
+### 15. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** `  Cisco Systems operational infrastructure` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-10-14 01:07:30.121 +0000 UTC 
+ **Reported:** 2022-09-23 18:45:08.223 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 15. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** d4x 
-
- **Points:** 10 
-
- **Target:** ` Confluence Server` 
-
- **Reported:** 2022-10-11 16:06:44.245 +0000 UTC 
-
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Confluence Server** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 16. Program Details : 
 
-**Name:** HubSpot 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/hubspot> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P4 
 
@@ -313,79 +313,59 @@
 
  **Points:** 0 
 
- **Target:** ` *.hubspot.com` 
+ **Target:** ` https://app.optimizely.com/` 
 
- **Reported:** 2022-10-29 23:34:57.296 +0000 UTC 
+ **Reported:** 2022-09-24 15:41:57.141 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.hubspot.com** 
+ **Submission accepted on target: https://app.optimizely.com/** 
 
 ### 17. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** UpdateLap 
+ **Hacker:** amitkh7888 
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` Jira Core Server` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2021-05-04 16:10:33.395 +0000 UTC 
+ **Reported:** 2022-09-22 08:21:24.586 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Core Server** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 18. Program Details : 
 
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/comcastvdp> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
  **Hacker:**  
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` *.xfinity.com	` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-10-28 12:42:05.055 +0000 UTC 
+ **Reported:** 2022-09-20 21:28:34.56 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.xfinity.com	** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 19. Program Details : 
 
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.xfinity.com	` 
-
- **Reported:** 2022-10-28 10:45:02.511 +0000 UTC 
-
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.xfinity.com	** 
-
-### 20. Program Details : 
-
-**Name:** Mastercard 
-
- **Link:** <https://bugcrowd.com/mastercard> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P3 
 
@@ -393,12 +373,32 @@
 
  **Points:** 0 
 
- **Target:** ` donate.mastercard.com` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-10-21 18:58:51.872 +0000 UTC 
+ **Reported:** 2022-09-20 14:50:41.363 +0000 UTC 
 
- **Accepted:** 2022-11-03 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: donate.mastercard.com** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
-## End of Crowdstream for 2022-November-04 09:52:06
+### 20. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://app.welcomesoftware.com/` 
+
+ **Reported:** 2022-09-20 15:44:53.728 +0000 UTC 
+
+ **Accepted:** 2022-11-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
+
+## End of Crowdstream for 2022-November-05 09:51:53
