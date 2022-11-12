@@ -1,7 +1,167 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-November-11 09:51:45
+## BugCrowd Crowdstream | Date:  2022-November-12 09:52:04
                             
 ### 1. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2022-11-06 11:37:10.991 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 2. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** AnkitSingh 
+
+ **Points:** 10 
+
+ **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+
+ **Reported:** 2022-11-10 18:31:13.683 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+
+### 3. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-11-05 15:44:58.842 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Upwork 
+
+ **Link:** <https://bugcrowd.com/upwork> 
+
+ **Severity:** P2 
+
+ **Hacker:** Omkar7505 
+
+ **Points:** 20 
+
+ **Target:** ` www.upwork.com` 
+
+ **Reported:** 2022-07-23 05:42:56.207 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.upwork.com** 
+
+### 5. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.sys.comcast.net` 
+
+ **Reported:** 2022-11-08 00:31:11.512 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sys.comcast.net** 
+
+### 6. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.sys.comcast.net` 
+
+ **Reported:** 2022-11-08 00:33:35.11 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sys.comcast.net** 
+
+### 7. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.sys.comcast.net` 
+
+ **Reported:** 2022-11-08 00:34:31.644 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sys.comcast.net** 
+
+### 8. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.sys.comcast.net` 
+
+ **Reported:** 2022-11-08 00:25:53.637 +0000 UTC 
+
+ **Accepted:** 2022-11-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sys.comcast.net** 
+
+### 9. Program Details : 
 
 **Name:** Indeed 
 
@@ -21,7 +181,7 @@
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 2. Program Details : 
+### 10. Program Details : 
 
 **Name:** Indeed 
 
@@ -41,7 +201,7 @@
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 3. Program Details : 
+### 11. Program Details : 
 
 **Name:** Ubisoft VDP 
 
@@ -61,7 +221,7 @@
 
  **Submission accepted on target: Ubisoft services available from the internet and any software developed by Ubisoft that are not listed as Out of Scope. This includes our web applications, servers, and all our game(s) within 1 year of the last patch/update.** 
 
-### 4. Program Details : 
+### 12. Program Details : 
 
 **Name:** HubSpot 
 
@@ -81,7 +241,7 @@
 
  **Submission accepted on target: *.hubapi.com** 
 
-### 5. Program Details : 
+### 13. Program Details : 
 
 **Name:** HubSpot 
 
@@ -101,7 +261,7 @@
 
  **Submission accepted on target: *.hubspot.com** 
 
-### 6. Program Details : 
+### 14. Program Details : 
 
 **Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
@@ -121,7 +281,7 @@
 
  **Submission accepted on target: *.xfinity.com	** 
 
-### 7. Program Details : 
+### 15. Program Details : 
 
 **Name:** Opera Public Bug Bounty 
 
@@ -141,7 +301,7 @@
 
  **Submission accepted on target: *.dailyadvent.com** 
 
-### 8. Program Details : 
+### 16. Program Details : 
 
 **Name:** Contrast Security 
 
@@ -161,7 +321,7 @@
 
  **Submission accepted** 
 
-### 9. Program Details : 
+### 17. Program Details : 
 
 **Name:** Facebook 
 
@@ -181,7 +341,7 @@
 
  **Submission Claimed** 
 
-### 10. Program Details : 
+### 18. Program Details : 
 
 **Name:** Facebook 
 
@@ -201,7 +361,7 @@
 
  **Submission Claimed** 
 
-### 11. Program Details : 
+### 19. Program Details : 
 
 **Name:** Atlassian 
 
@@ -221,7 +381,7 @@
 
  **Submission accepted on target: Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 12. Program Details : 
+### 20. Program Details : 
 
 **Name:** Rarible 
 
@@ -241,164 +401,4 @@
 
  **Submission accepted on target: rarible.com** 
 
-### 13. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P3 
-
- **Hacker:** bombon 
-
- **Points:** 10 
-
- **Target:** ` *.operafootball.com` 
-
- **Reported:** 2022-11-10 15:16:00.741 +0000 UTC 
-
- **Accepted:** 2022-11-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.operafootball.com** 
-
-### 14. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2022-11-07 20:46:42.161 +0000 UTC 
-
- **Accepted:** 2022-11-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-### 15. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** UpdateLap 
-
- **Points:** 0 
-
- **Target:** ` Jira Software Server` 
-
- **Reported:** 2022-10-19 23:47:49.596 +0000 UTC 
-
- **Accepted:** 2022-11-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Software Server** 
-
-### 16. Program Details : 
-
-**Name:** NETGEAR Kudos Rewards 
-
- **Link:** <https://bugcrowd.com/netgearkudos> 
-
- **Severity:** P3 
-
- **Hacker:** djurado 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-05 11:10:40.047 +0000 UTC 
-
- **Accepted:** 2022-11-09 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 17. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:** null1433 
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2022-11-05 11:32:22.336 +0000 UTC 
-
- **Accepted:** 2022-11-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 18. Program Details : 
-
-**Name:** Intercom 
-
- **Link:** <https://bugcrowd.com/intercom> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://app.intercom.com` 
-
- **Reported:** 2022-09-29 17:11:57.832 +0000 UTC 
-
- **Accepted:** 2022-11-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.intercom.com** 
-
-### 19. Program Details : 
-
-**Name:** Keeper Security Public Bounty Program 
-
- **Link:** <https://bugcrowd.com/keepersecurity> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 20 
-
- **Target:** ` Keeper for Android` 
-
- **Reported:** 2022-11-05 05:16:01.181 +0000 UTC 
-
- **Accepted:** 2022-11-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Keeper for Android** 
-
-### 20. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-09 15:23:24.247 +0000 UTC 
-
- **Accepted:** 2022-11-09 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-## End of Crowdstream for 2022-November-11 09:51:45
+## End of Crowdstream for 2022-November-12 09:52:04
