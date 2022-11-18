@@ -1,87 +1,27 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-November-17 09:51:42
+## BugCrowd Crowdstream | Date:  2022-November-18 09:52:06
                             
 ### 1. Program Details : 
 
-**Name:** ClickHouse 
+**Name:** 20 Minuten 
 
- **Link:** <https://bugcrowd.com/clickhouse> 
+ **Link:** <https://bugcrowd.com/twentyminuten> 
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** testt0 
 
  **Points:** 0 
 
- **Target:** ` https://clickhouse.cloud/` 
+ **Target:** ` https://myshop.20min.ch` 
 
- **Reported:** 2022-11-17 06:04:15.15 +0000 UTC 
+ **Reported:** 2022-09-16 07:45:34.821 +0000 UTC 
 
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://clickhouse.cloud/** 
+ **Submission accepted on target: https://myshop.20min.ch** 
 
 ### 2. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P4 
-
- **Hacker:** agnihackers123 
-
- **Points:** 5 
-
- **Target:** ` https://clickhouse.cloud/` 
-
- **Reported:** 2022-11-17 06:25:52.683 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://clickhouse.cloud/** 
-
-### 3. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P4 
-
- **Hacker:** agnihackers123 
-
- **Points:** 5 
-
- **Target:** ` https://clickhouse.cloud/` 
-
- **Reported:** 2022-11-17 06:52:07.92 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://clickhouse.cloud/** 
-
-### 4. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** Shroud 
-
- **Points:** 0 
-
- **Target:** ` www.theushop.ca` 
-
- **Reported:** 2022-11-15 14:22:46.807 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.theushop.ca** 
-
-### 5. Program Details : 
 
 **Name:** Unilever Vulnerability Disclosure Program 
 
@@ -89,19 +29,19 @@
 
  **Severity:** P3 
 
- **Hacker:** bk273 
+ **Hacker:** KennY-S 
 
  **Points:** 0 
 
  **Target:** ` https://corporates.unishopza.com/account/login?checkout_url=/` 
 
- **Reported:** 2022-11-15 13:59:24.445 +0000 UTC 
+ **Reported:** 2022-11-17 09:40:25.572 +0000 UTC 
 
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://corporates.unishopza.com/account/login?checkout_url=/** 
 
-### 6. Program Details : 
+### 3. Program Details : 
 
 **Name:** Indeed 
 
@@ -115,39 +55,19 @@
 
  **Target:** ` https://employers.indeed.com/` 
 
- **Reported:** 2022-10-19 19:18:36.431 +0000 UTC 
+ **Reported:** 2022-11-12 14:21:21.632 +0000 UTC 
 
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://employers.indeed.com/** 
 
-### 7. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P4 
-
- **Hacker:** Loki100 
-
- **Points:** 5 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2022-11-10 06:28:16.887 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 8. Program Details : 
+### 4. Program Details : 
 
 **Name:** Unity Technology 
 
  **Link:** <https://bugcrowd.com/unity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
  **Hacker:**  
 
@@ -155,37 +75,17 @@
 
  **Target:** ` syncsketch.dev` 
 
- **Reported:** 2022-09-17 09:15:28.776 +0000 UTC 
+ **Reported:** 2022-11-13 11:44:11.661 +0000 UTC 
 
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
 
  **Submission accepted on target: syncsketch.dev** 
 
-### 9. Program Details : 
+### 5. Program Details : 
 
-**Name:** FireEye Bug Bounty Program 
+**Name:** Unity Technology 
 
- **Link:** <https://bugcrowd.com/fireeye> 
-
- **Severity:** P3 
-
- **Hacker:** djurado 
-
- **Points:** 10 
-
- **Target:** ` *.fireeye.com` 
-
- **Reported:** 2022-11-11 12:29:49.957 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fireeye.com** 
-
-### 10. Program Details : 
-
-**Name:** FireEye Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/fireeye> 
+ **Link:** <https://bugcrowd.com/unity> 
 
  **Severity:** P3 
 
@@ -193,19 +93,19 @@
 
  **Points:** 0 
 
- **Target:** ` *.fireeye.com` 
+ **Target:** ` syncsketch.dev` 
 
- **Reported:** 2022-11-12 20:06:53.697 +0000 UTC 
+ **Reported:** 2022-11-15 10:01:18.963 +0000 UTC 
 
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.fireeye.com** 
+ **Submission accepted on target: syncsketch.dev** 
 
-### 11. Program Details : 
+### 6. Program Details : 
 
-**Name:** Okta 
+**Name:** Bugcrowd 
 
- **Link:** <https://bugcrowd.com/okta> 
+ **Link:** <https://bugcrowd.com/bugcrowd> 
 
  **Severity:** P4 
 
@@ -213,13 +113,113 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Crowdcontrol` 
 
- **Reported:** 2022-11-15 20:59:48.417 +0000 UTC 
+ **Reported:** 2022-11-11 00:52:18.993 +0000 UTC 
 
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Crowdcontrol** 
+
+### 7. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 00:35:09.933 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 8. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 02:13:03.207 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 9. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-02 21:05:04.23 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 10. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 02:19:28.619 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 11. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 01:14:46.481 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
 
 ### 12. Program Details : 
 
@@ -227,178 +227,178 @@
 
  **Link:** <https://bugcrowd.com/creditkarma> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** Hx01 
 
- **Points:** 0 
+ **Points:** 5 
 
  **Target:** ` https://*.creditkarma.com` 
 
- **Reported:** 2022-09-10 16:30:07.708 +0000 UTC 
+ **Reported:** 2021-12-03 02:21:37.922 +0000 UTC 
 
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
 ### 13. Program Details : 
 
-**Name:** HubSpot 
+**Name:** Credit Karma 
 
- **Link:** <https://bugcrowd.com/hubspot> 
+ **Link:** <https://bugcrowd.com/creditkarma> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** NobleSix 
+ **Hacker:** Hx01 
 
- **Points:** 10 
+ **Points:** 5 
 
- **Target:** ` *.hubspot.com` 
+ **Target:** ` https://*.creditkarma.com` 
 
- **Reported:** 2022-11-13 16:04:22.523 +0000 UTC 
+ **Reported:** 2021-09-23 08:32:00.226 +0000 UTC 
 
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.hubspot.com** 
+ **Submission accepted on target: https://*.creditkarma.com** 
 
 ### 14. Program Details : 
 
-**Name:** ClickHouse 
+**Name:** Credit Karma 
 
- **Link:** <https://bugcrowd.com/clickhouse> 
+ **Link:** <https://bugcrowd.com/creditkarma> 
 
  **Severity:** P4 
 
- **Hacker:** agnihackers123 
+ **Hacker:** Hx01 
 
  **Points:** 5 
 
- **Target:** ` https://clickhouse.cloud/` 
+ **Target:** ` https://*.creditkarma.com` 
 
- **Reported:** 2022-11-16 11:00:45.518 +0000 UTC 
+ **Reported:** 2021-12-02 21:09:17.492 +0000 UTC 
 
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://clickhouse.cloud/** 
+ **Submission accepted on target: https://*.creditkarma.com** 
 
 ### 15. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** Credit Karma 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-04 08:42:32.887 +0000 UTC 
-
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 16. Program Details : 
-
-**Name:** Contrast Security 
-
- **Link:** <https://bugcrowd.com/contrast-security> 
+ **Link:** <https://bugcrowd.com/creditkarma> 
 
  **Severity:** P4 
 
- **Hacker:** sjn_scythe 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-11 20:21:29.106 +0000 UTC 
-
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 17. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P3 
-
- **Hacker:** hunter_100 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-28 05:33:09.932 +0000 UTC 
-
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` XG Firewall` 
-
- **Reported:** 2022-09-15 12:54:56.162 +0000 UTC 
-
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
-
- **Submission accepted on target: XG Firewall** 
-
-### 19. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P3 
-
- **Hacker:** DoTV3N 
-
- **Points:** 10 
-
- **Target:** ` *.sophos.com` 
-
- **Reported:** 2022-11-05 22:10:37.861 +0000 UTC 
-
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sophos.com** 
-
-### 20. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:** Spy_King__ 
+ **Hacker:** Hx01 
 
  **Points:** 5 
 
- **Target:** ` repostnetwork.com` 
+ **Target:** ` https://*.creditkarma.com` 
 
- **Reported:** 2022-10-21 19:21:46.02 +0000 UTC 
+ **Reported:** 2021-12-03 02:16:51.125 +0000 UTC 
 
- **Accepted:** 2022-11-16 00:00:00 +0000 UTC 
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: repostnetwork.com** 
+ **Submission accepted on target: https://*.creditkarma.com** 
 
-## End of Crowdstream for 2022-November-17 09:51:42
+### 16. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 02:15:14.326 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 17. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hx01 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2021-12-03 01:19:44.165 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 18. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2022-11-17 17:42:07.151 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 19. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2022-11-17 16:41:04.735 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 20. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2022-11-17 16:57:10.704 +0000 UTC 
+
+ **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+## End of Crowdstream for 2022-November-18 09:52:06
