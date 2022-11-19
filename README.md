@@ -1,7 +1,187 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-November-18 09:52:06
+## BugCrowd Crowdstream | Date:  2022-November-19 09:51:46
                             
 ### 1. Program Details : 
+
+**Name:** Unity Technology 
+
+ **Link:** <https://bugcrowd.com/unity> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` syncsketch.dev` 
+
+ **Reported:** 2022-09-27 12:27:10.829 +0000 UTC 
+
+ **Accepted:** 2022-11-19 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: syncsketch.dev** 
+
+### 2. Program Details : 
+
+**Name:** Unity Technology 
+
+ **Link:** <https://bugcrowd.com/unity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` syncsketch.dev` 
+
+ **Reported:** 2022-09-12 13:29:21.936 +0000 UTC 
+
+ **Accepted:** 2022-11-19 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: syncsketch.dev** 
+
+### 3. Program Details : 
+
+**Name:** Unity Technology 
+
+ **Link:** <https://bugcrowd.com/unity> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-07 14:14:44.043 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Intercom 
+
+ **Link:** <https://bugcrowd.com/intercom> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://app.intercom.com` 
+
+ **Reported:** 2022-10-18 16:40:44.511 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.intercom.com** 
+
+### 5. Program Details : 
+
+**Name:** Tesla 
+
+ **Link:** <https://bugcrowd.com/tesla> 
+
+ **Severity:** P3 
+
+ **Hacker:** evanconnelly 
+
+ **Points:** 0 
+
+ **Target:** ` *.tesla.com` 
+
+ **Reported:** 2022-11-18 01:17:55.416 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.tesla.com** 
+
+### 6. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P3 
+
+ **Hacker:** niraeth 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.imperva.com` 
+
+ **Reported:** 2022-10-01 11:06:41.712 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.imperva.com** 
+
+### 7. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P2 
+
+ **Hacker:** Oxylis 
+
+ **Points:** 20 
+
+ **Target:** ` https://*.imperva.com` 
+
+ **Reported:** 2022-11-17 01:21:51.403 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.imperva.com** 
+
+### 8. Program Details : 
+
+**Name:** Web.com VDP 
+
+ **Link:** <https://bugcrowd.com/webdotcom-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** rahuldh77 
+
+ **Points:** 0 
+
+ **Target:** ` *.register.com` 
+
+ **Reported:** 2022-10-22 03:17:07.264 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.register.com** 
+
+### 9. Program Details : 
+
+**Name:** 20 Minuten 
+
+ **Link:** <https://bugcrowd.com/twentyminuten> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://www.20min.ch` 
+
+ **Reported:** 2022-10-21 10:42:01.019 +0000 UTC 
+
+ **Accepted:** 2022-11-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.20min.ch** 
+
+### 10. Program Details : 
 
 **Name:** 20 Minuten 
 
@@ -21,7 +201,7 @@
 
  **Submission accepted on target: https://myshop.20min.ch** 
 
-### 2. Program Details : 
+### 11. Program Details : 
 
 **Name:** Unilever Vulnerability Disclosure Program 
 
@@ -41,7 +221,7 @@
 
  **Submission accepted on target: https://corporates.unishopza.com/account/login?checkout_url=/** 
 
-### 3. Program Details : 
+### 12. Program Details : 
 
 **Name:** Indeed 
 
@@ -61,7 +241,7 @@
 
  **Submission accepted on target: https://employers.indeed.com/** 
 
-### 4. Program Details : 
+### 13. Program Details : 
 
 **Name:** Unity Technology 
 
@@ -81,7 +261,7 @@
 
  **Submission accepted on target: syncsketch.dev** 
 
-### 5. Program Details : 
+### 14. Program Details : 
 
 **Name:** Unity Technology 
 
@@ -101,7 +281,7 @@
 
  **Submission accepted on target: syncsketch.dev** 
 
-### 6. Program Details : 
+### 15. Program Details : 
 
 **Name:** Bugcrowd 
 
@@ -121,7 +301,7 @@
 
  **Submission accepted on target: Crowdcontrol** 
 
-### 7. Program Details : 
+### 16. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -141,7 +321,7 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 8. Program Details : 
+### 17. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -161,7 +341,7 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 9. Program Details : 
+### 18. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -181,7 +361,7 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 10. Program Details : 
+### 19. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -201,7 +381,7 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 11. Program Details : 
+### 20. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -221,184 +401,4 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 12. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-12-03 02:21:37.922 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 13. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-09-23 08:32:00.226 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 14. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-12-02 21:09:17.492 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 15. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-12-03 02:16:51.125 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 16. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-12-03 02:15:14.326 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 17. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P4 
-
- **Hacker:** Hx01 
-
- **Points:** 5 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2021-12-03 01:19:44.165 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
-
-### 18. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-11-17 17:42:07.151 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 19. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-11-17 16:41:04.735 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 20. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-11-17 16:57:10.704 +0000 UTC 
-
- **Accepted:** 2022-11-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-## End of Crowdstream for 2022-November-18 09:52:06
+## End of Crowdstream for 2022-November-19 09:51:46
