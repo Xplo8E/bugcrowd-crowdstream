@@ -1,7 +1,227 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-01 09:51:52
+## BugCrowd Crowdstream | Date:  2022-December-02 09:52:01
                             
 ### 1. Program Details : 
+
+**Name:** SoundCloud 
+
+ **Link:** <https://bugcrowd.com/soundcloud> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` http://artists.soundcloud.com/` 
+
+ **Reported:** 2022-11-10 11:34:28.011 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: http://artists.soundcloud.com/** 
+
+### 2. Program Details : 
+
+**Name:** OLX Group 
+
+ **Link:** <https://bugcrowd.com/olxgroup> 
+
+ **Severity:** P2 
+
+ **Hacker:** 0xM0rPhEuS 
+
+ **Points:** 0 
+
+ **Target:** ` *.imovirtual.com` 
+
+ **Reported:** 2022-12-01 22:52:07.305 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.imovirtual.com** 
+
+### 3. Program Details : 
+
+**Name:** 20 Minuten 
+
+ **Link:** <https://bugcrowd.com/twentyminuten> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://myshop.20min.ch` 
+
+ **Reported:** 2022-11-22 01:33:02.373 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://myshop.20min.ch** 
+
+### 4. Program Details : 
+
+**Name:** Mastercard 
+
+ **Link:** <https://bugcrowd.com/mastercard> 
+
+ **Severity:** P1 
+
+ **Hacker:** orwagodfather 
+
+ **Points:** 40 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-11-29 00:59:53.093 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 5. Program Details : 
+
+**Name:** Credit Karma 
+
+ **Link:** <https://bugcrowd.com/creditkarma> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.creditkarma.com` 
+
+ **Reported:** 2022-09-20 10:44:05.478 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.creditkarma.com** 
+
+### 6. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** UpdateLap 
+
+ **Points:** 0 
+
+ **Target:** ` Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
+
+ **Reported:** 2022-11-20 20:13:30.584 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
+
+### 7. Program Details : 
+
+**Name:** Bugcrowd 
+
+ **Link:** <https://bugcrowd.com/bugcrowd> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Crowdcontrol` 
+
+ **Reported:** 2022-11-11 00:52:18.993 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Crowdcontrol** 
+
+### 8. Program Details : 
+
+**Name:** Intercom 
+
+ **Link:** <https://bugcrowd.com/intercom> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://app.intercom.io` 
+
+ **Reported:** 2022-09-24 16:05:01.548 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.intercom.io** 
+
+### 9. Program Details : 
+
+**Name:** Overstock's Vulnerability Disclosure Page! 
+
+ **Link:** <https://bugcrowd.com/overstockvdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** Hacker91 
+
+ **Points:** 0 
+
+ **Target:** ` www.overstock.com` 
+
+ **Reported:** 2022-11-30 23:28:23.714 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.overstock.com** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Bitbucket Server` 
+
+ **Reported:** 2022-11-20 09:34:58.143 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Bitbucket Server** 
+
+### 11. Program Details : 
+
+**Name:** Ostrom Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/ostrom-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:** shubholicworld 
+
+ **Points:** 0 
+
+ **Target:** ` Ostrom Android application` 
+
+ **Reported:** 2022-11-24 16:54:37.21 +0000 UTC 
+
+ **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Ostrom Android application** 
+
+### 12. Program Details : 
 
 **Name:** Atlassian 
 
@@ -21,7 +241,7 @@
 
  **Submission accepted on target: Atlassian Identity (https://id.atlassian.com/login)** 
 
-### 2. Program Details : 
+### 13. Program Details : 
 
 **Name:** Atlassian 
 
@@ -41,7 +261,7 @@
 
  **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
 
-### 3. Program Details : 
+### 14. Program Details : 
 
 **Name:** NETGEAR Kudos Rewards 
 
@@ -61,7 +281,7 @@
 
  **Submission accepted** 
 
-### 4. Program Details : 
+### 15. Program Details : 
 
 **Name:** Constant Contact, Inc. 
 
@@ -81,7 +301,7 @@
 
  **Submission accepted on target: All Constant Contact websites - *.constantcontact.com** 
 
-### 5. Program Details : 
+### 16. Program Details : 
 
 **Name:** TripAdvisor  
 
@@ -101,7 +321,7 @@
 
  **Submission accepted on target: *.bokundemo.com** 
 
-### 6. Program Details : 
+### 17. Program Details : 
 
 **Name:** Tamedia 
 
@@ -121,7 +341,7 @@
 
  **Submission accepted on target: https://www.langenthalertagblatt.ch** 
 
-### 7. Program Details : 
+### 18. Program Details : 
 
 **Name:** Facebook 
 
@@ -141,7 +361,7 @@
 
  **Submission Claimed** 
 
-### 8. Program Details : 
+### 19. Program Details : 
 
 **Name:** TripAdvisor  
 
@@ -161,7 +381,7 @@
 
  **Submission accepted on target: www.tripadvisor.com** 
 
-### 9. Program Details : 
+### 20. Program Details : 
 
 **Name:** Reseller Club VDP Pro 
 
@@ -181,224 +401,4 @@
 
  **Submission accepted on target: *.resellerclub.com** 
 
-### 10. Program Details : 
-
-**Name:** OLX Group 
-
- **Link:** <https://bugcrowd.com/olxgroup> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.olx.pl` 
-
- **Reported:** 2022-11-29 19:09:48.793 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.olx.pl** 
-
-### 11. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` *.takeaway.com` 
-
- **Reported:** 2022-11-22 19:53:44.785 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.takeaway.com** 
-
-### 12. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P3 
-
- **Hacker:** parsali 
-
- **Points:** 10 
-
- **Target:** ` *.eat.ch` 
-
- **Reported:** 2022-11-12 20:06:23.236 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.eat.ch** 
-
-### 13. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P3 
-
- **Hacker:** parsali 
-
- **Points:** 10 
-
- **Target:** ` *.takeaway.com` 
-
- **Reported:** 2022-11-10 20:01:44.13 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.takeaway.com** 
-
-### 14. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-10-10 17:34:32.335 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 15. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** xkaneiki 
-
- **Points:** 10 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-10-03 09:00:59.082 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 16. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-09-24 09:48:22.805 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 17. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-09-24 09:42:04.117 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 18. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-09-24 09:35:56.964 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 19. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** sT44ts3c 
-
- **Points:** 10 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-08-28 01:25:26.236 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 20. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://unilever.com/` 
-
- **Reported:** 2022-11-29 15:24:48.532 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://unilever.com/** 
-
-## End of Crowdstream for 2022-December-01 09:51:52
+## End of Crowdstream for 2022-December-02 09:52:01
