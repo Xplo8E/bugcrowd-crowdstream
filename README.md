@@ -1,7 +1,247 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-02 09:52:01
+## BugCrowd Crowdstream | Date:  2022-December-03 09:51:54
                             
 ### 1. Program Details : 
+
+**Name:** Netflix 
+
+ **Link:** <https://bugcrowd.com/netflix> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.nflxext.com` 
+
+ **Reported:** 2022-11-27 14:19:15.627 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.nflxext.com** 
+
+### 2. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P2 
+
+ **Hacker:** takeoverflow 
+
+ **Points:** 20 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-11-20 23:46:13.276 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 3. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P1 
+
+ **Hacker:** GeneralEG 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-11-27 22:43:24.974 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2022-11-10 21:46:41.894 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 5. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P4 
+
+ **Hacker:** mzamat 
+
+ **Points:** 5 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2022-11-30 20:16:11.153 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+### 6. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P3 
+
+ **Hacker:** chimoul 
+
+ **Points:** 10 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2022-11-25 00:01:54.537 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+### 7. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.hubspot.com` 
+
+ **Reported:** 2022-11-30 16:02:17.629 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.hubspot.com** 
+
+### 8. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Bitbucket Server` 
+
+ **Reported:** 2022-11-20 18:00:08.779 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Bitbucket Server** 
+
+### 9. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Atlassian Team Central` 
+
+ **Reported:** 2022-11-21 07:44:57.378 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Atlassian Team Central** 
+
+### 10. Program Details : 
+
+**Name:** Department of Labor 
+
+ **Link:** <https://bugcrowd.com/dol-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** 13ph03nix 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.capeyouth.org` 
+
+ **Reported:** 2022-12-01 19:55:16.997 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.capeyouth.org** 
+
+### 11. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** bywalks 
+
+ **Points:** 5 
+
+ **Target:** ` *.bokuntest.com` 
+
+ **Reported:** 2022-12-01 03:48:33.068 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bokuntest.com** 
+
+### 12. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P0 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Opera PC` 
+
+ **Reported:** 2022-12-02 08:07:08.221 +0000 UTC 
+
+ **Accepted:** 2022-12-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Opera PC** 
+
+### 13. Program Details : 
 
 **Name:** SoundCloud 
 
@@ -21,7 +261,7 @@
 
  **Submission accepted on target: http://artists.soundcloud.com/** 
 
-### 2. Program Details : 
+### 14. Program Details : 
 
 **Name:** OLX Group 
 
@@ -41,7 +281,7 @@
 
  **Submission accepted on target: *.imovirtual.com** 
 
-### 3. Program Details : 
+### 15. Program Details : 
 
 **Name:** 20 Minuten 
 
@@ -61,7 +301,7 @@
 
  **Submission accepted on target: https://myshop.20min.ch** 
 
-### 4. Program Details : 
+### 16. Program Details : 
 
 **Name:** Mastercard 
 
@@ -81,7 +321,7 @@
 
  **Submission accepted** 
 
-### 5. Program Details : 
+### 17. Program Details : 
 
 **Name:** Credit Karma 
 
@@ -101,7 +341,7 @@
 
  **Submission accepted on target: https://*.creditkarma.com** 
 
-### 6. Program Details : 
+### 18. Program Details : 
 
 **Name:** Atlassian 
 
@@ -121,7 +361,7 @@
 
  **Submission accepted on target: Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 7. Program Details : 
+### 19. Program Details : 
 
 **Name:** Bugcrowd 
 
@@ -141,7 +381,7 @@
 
  **Submission accepted on target: Crowdcontrol** 
 
-### 8. Program Details : 
+### 20. Program Details : 
 
 **Name:** Intercom 
 
@@ -161,244 +401,4 @@
 
  **Submission accepted on target: https://app.intercom.io** 
 
-### 9. Program Details : 
-
-**Name:** Overstock's Vulnerability Disclosure Page! 
-
- **Link:** <https://bugcrowd.com/overstockvdp> 
-
- **Severity:** P4 
-
- **Hacker:** Hacker91 
-
- **Points:** 0 
-
- **Target:** ` www.overstock.com` 
-
- **Reported:** 2022-11-30 23:28:23.714 +0000 UTC 
-
- **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.overstock.com** 
-
-### 10. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Bitbucket Server` 
-
- **Reported:** 2022-11-20 09:34:58.143 +0000 UTC 
-
- **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Bitbucket Server** 
-
-### 11. Program Details : 
-
-**Name:** Ostrom Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/ostrom-vdp> 
-
- **Severity:** P2 
-
- **Hacker:** shubholicworld 
-
- **Points:** 0 
-
- **Target:** ` Ostrom Android application` 
-
- **Reported:** 2022-11-24 16:54:37.21 +0000 UTC 
-
- **Accepted:** 2022-12-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Ostrom Android application** 
-
-### 12. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P4 
-
- **Hacker:** MedMahmoudi 
-
- **Points:** 5 
-
- **Target:** ` Atlassian Identity (https://id.atlassian.com/login)` 
-
- **Reported:** 2022-11-29 16:31:18.855 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Atlassian Identity (https://id.atlassian.com/login)** 
-
-### 13. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
-
- **Reported:** 2022-11-18 22:20:48.642 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
-
-### 14. Program Details : 
-
-**Name:** NETGEAR Kudos Rewards 
-
- **Link:** <https://bugcrowd.com/netgearkudos> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-10 20:38:10.437 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 15. Program Details : 
-
-**Name:** Constant Contact, Inc. 
-
- **Link:** <https://bugcrowd.com/constantcontact> 
-
- **Severity:** P4 
-
- **Hacker:** 0xnitin 
-
- **Points:** 0 
-
- **Target:** ` All Constant Contact websites - *.constantcontact.com` 
-
- **Reported:** 2022-11-15 18:51:41.025 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: All Constant Contact websites - *.constantcontact.com** 
-
-### 16. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.bokundemo.com` 
-
- **Reported:** 2022-11-30 15:10:57.22 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bokundemo.com** 
-
-### 17. Program Details : 
-
-**Name:** Tamedia 
-
- **Link:** <https://bugcrowd.com/tamedia> 
-
- **Severity:** P3 
-
- **Hacker:** niraeth 
-
- **Points:** 0 
-
- **Target:** ` https://www.langenthalertagblatt.ch` 
-
- **Reported:** 2022-11-25 04:45:01.414 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.langenthalertagblatt.ch** 
-
-### 18. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-30 12:04:02.924 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 19. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` www.tripadvisor.com` 
-
- **Reported:** 2022-11-30 03:57:39.321 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.tripadvisor.com** 
-
-### 20. Program Details : 
-
-**Name:** Reseller Club VDP Pro 
-
- **Link:** <https://bugcrowd.com/newfold-resellerclub-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** r4hu1_exe 
-
- **Points:** 0 
-
- **Target:** ` *.resellerclub.com` 
-
- **Reported:** 2022-10-11 13:45:01.636 +0000 UTC 
-
- **Accepted:** 2022-11-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.resellerclub.com** 
-
-## End of Crowdstream for 2022-December-02 09:52:01
+## End of Crowdstream for 2022-December-03 09:51:54
