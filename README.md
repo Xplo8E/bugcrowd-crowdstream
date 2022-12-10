@@ -1,7 +1,247 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-09 09:52:07
+## BugCrowd Crowdstream | Date:  2022-December-10 09:51:56
                             
 ### 1. Program Details : 
+
+**Name:** Lucid Motors Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/lucidmotors-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** 0xm7lk 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-11-15 09:43:50.479 +0000 UTC 
+
+ **Accepted:** 2022-12-10 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 2. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2022-12-07 14:01:50.596 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 3. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2022-12-07 14:00:03.414 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 4. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2022-12-07 14:02:49.494 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 5. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2022-11-24 09:09:29.62 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 6. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 20 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-12-01 10:57:37.191 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 7. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Bitbucket Server` 
+
+ **Reported:** 2022-11-20 15:30:00.682 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Bitbucket Server** 
+
+### 8. Program Details : 
+
+**Name:** Dell Technologies' Products Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/dell-product> 
+
+ **Severity:** P3 
+
+ **Hacker:** pudwalex 
+
+ **Points:** 10 
+
+ **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
+
+ **Reported:** 2022-09-08 13:51:48.581 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
+
+### 9. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-11-16 22:57:34.73 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 10. Program Details : 
+
+**Name:** NETGEAR Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/netgear> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Nighthawk Router` 
+
+ **Reported:** 2022-11-16 22:21:26.939 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Nighthawk Router** 
+
+### 11. Program Details : 
+
+**Name:** Skroutz Public Managed Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/skroutz> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 5 
+
+ **Target:** ` https://www.skroutz.gr/` 
+
+ **Reported:** 2022-12-07 05:09:31.266 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.skroutz.gr/** 
+
+### 12. Program Details : 
+
+**Name:** Tamedia 
+
+ **Link:** <https://bugcrowd.com/tamedia> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-02 06:06:19.94 +0000 UTC 
+
+ **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 13. Program Details : 
 
 **Name:** Electroneum 
 
@@ -21,7 +261,7 @@
 
  **Submission accepted on target: https://api.electroneum.com/** 
 
-### 2. Program Details : 
+### 14. Program Details : 
 
 **Name:** Tesla 
 
@@ -41,7 +281,7 @@
 
  **Submission accepted on target: *.tesla.com** 
 
-### 3. Program Details : 
+### 15. Program Details : 
 
 **Name:** SEEK  
 
@@ -61,7 +301,7 @@
 
  **Submission accepted on target: *.seek.com.au** 
 
-### 4. Program Details : 
+### 16. Program Details : 
 
 **Name:** Atlassian-Built Apps 
 
@@ -81,7 +321,7 @@
 
  **Submission accepted on target: Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud** 
 
-### 5. Program Details : 
+### 17. Program Details : 
 
 **Name:** Aruba Networks Public Program 
 
@@ -101,7 +341,7 @@
 
  **Submission accepted on target: *.arubanetworks.com** 
 
-### 6. Program Details : 
+### 18. Program Details : 
 
 **Name:** Pinterest 
 
@@ -121,7 +361,7 @@
 
  **Submission accepted on target: *.pinterest.com Web Apps** 
 
-### 7. Program Details : 
+### 19. Program Details : 
 
 **Name:** Cisco Meraki 
 
@@ -141,7 +381,7 @@
 
  **Submission accepted** 
 
-### 8. Program Details : 
+### 20. Program Details : 
 
 **Name:** You Need a Budget (YNAB) 
 
@@ -161,244 +401,4 @@
 
  **Submission accepted on target: https://staging-app.youneedabudget.com/** 
 
-### 9. Program Details : 
-
-**Name:** Personal Capital 
-
- **Link:** <https://bugcrowd.com/personalcapital> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://devstaging.pcapcloud.com/*` 
-
- **Reported:** 2022-11-02 16:26:13.607 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://devstaging.pcapcloud.com/*** 
-
-### 10. Program Details : 
-
-**Name:** HubSpot 
-
- **Link:** <https://bugcrowd.com/hubspot> 
-
- **Severity:** P4 
-
- **Hacker:** ranjan786 
-
- **Points:** 0 
-
- **Target:** ` *.hubspot.com` 
-
- **Reported:** 2022-12-04 11:13:11.351 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.hubspot.com** 
-
-### 11. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P3 
-
- **Hacker:** KLWTTS 
-
- **Points:** 0 
-
- **Target:** ` A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)` 
-
- **Reported:** 2022-11-22 20:48:52.791 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)** 
-
-### 12. Program Details : 
-
-**Name:** Okta 
-
- **Link:** <https://bugcrowd.com/okta> 
-
- **Severity:** P5 
-
- **Hacker:** Oxylis 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-14 12:18:55.874 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 13. Program Details : 
-
-**Name:** Millennium Challenge Corporation: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/mcc-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** TheSanjok 
-
- **Points:** 0 
-
- **Target:** ` *.mcc.gov/` 
-
- **Reported:** 2022-03-10 14:43:06.766 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.mcc.gov/** 
-
-### 14. Program Details : 
-
-**Name:** Millennium Challenge Corporation: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/mcc-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.mcc.gov/` 
-
- **Reported:** 2021-12-19 09:01:56.014 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.mcc.gov/** 
-
-### 15. Program Details : 
-
-**Name:** Millennium Challenge Corporation: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/mcc-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.mcc.gov/` 
-
- **Reported:** 2022-11-07 18:24:12.103 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.mcc.gov/** 
-
-### 16. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P4 
-
- **Hacker:** akintech 
-
- **Points:** 5 
-
- **Target:** ` *.comcast.com` 
-
- **Reported:** 2022-12-06 13:42:35.883 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.comcast.com** 
-
-### 17. Program Details : 
-
-**Name:** Arrow Electronics VDP 
-
- **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** vijay69866 
-
- **Points:** 0 
-
- **Target:** ` *.eetimes.com` 
-
- **Reported:** 2022-12-07 16:11:49.743 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.eetimes.com** 
-
-### 18. Program Details : 
-
-**Name:**  1Password 
-
- **Link:** <https://bugcrowd.com/agilebits> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` <Account (Business, Family) signup page --> https://start.1password.com` 
-
- **Reported:** 2022-12-05 04:01:42.284 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: <Account (Business, Family) signup page --> https://start.1password.com** 
-
-### 19. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:** A16 
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-07 18:15:41.047 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 20. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:** A16 
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-07 18:02:37.41 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-## End of Crowdstream for 2022-December-09 09:52:07
+## End of Crowdstream for 2022-December-10 09:51:56
