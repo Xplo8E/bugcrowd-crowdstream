@@ -1,47 +1,7 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-12 09:51:55
+## BugCrowd Crowdstream | Date:  2022-December-13 09:52:01
                             
 ### 1. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-26 12:03:32.117 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 2. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:** emanelyazji 
-
- **Points:** 10 
-
- **Target:** ` *.bokuntest.com` 
-
- **Reported:** 2022-12-09 12:19:37.568 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bokuntest.com** 
-
-### 3. Program Details : 
 
 **Name:** Blue Jeans Network 
 
@@ -49,119 +9,119 @@
 
  **Severity:** P2 
 
- **Hacker:** amitkh7888 
+ **Hacker:**  
 
  **Points:** 20 
 
- **Target:** ` https://bluejeans.com/` 
-
- **Reported:** 2022-09-19 17:05:27.113 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://bluejeans.com/** 
-
-### 4. Program Details : 
-
-**Name:** Lucid Motors Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/lucidmotors-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** 0xm7lk 
-
- **Points:** 0 
-
  **Target:** ` ` 
 
- **Reported:** 2022-11-15 09:43:50.479 +0000 UTC 
+ **Reported:** 2022-12-11 20:07:34.468 +0000 UTC 
 
- **Accepted:** 2022-12-10 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 5. Program Details : 
+### 2. Program Details : 
 
-**Name:** United Airlines 
+**Name:** Dell Technologies' Products Bug Bounty Program 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/dell-product> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** mmg 
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
 
- **Reported:** 2022-12-07 14:01:50.596 +0000 UTC 
+ **Reported:** 2022-09-11 19:33:00.219 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
+
+### 3. Program Details : 
+
+**Name:** Dell Technologies' Products Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/dell-product> 
+
+ **Severity:** P3 
+
+ **Hacker:** ycdxsb 
+
+ **Points:** 10 
+
+ **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
+
+ **Reported:** 2022-11-07 03:22:15.568 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
+
+### 4. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:** Ex097 
+
+ **Points:** 5 
+
+ **Target:** ` https://clickhouse.cloud/` 
+
+ **Reported:** 2022-12-12 18:54:17.424 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://clickhouse.cloud/** 
+
+### 5. Program Details : 
+
+**Name:** Digistorm 
+
+ **Link:** <https://bugcrowd.com/digistorm> 
+
+ **Severity:** P5 
+
+ **Hacker:** nerdwell 
+
+ **Points:** 0 
+
+ **Target:** ` https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start` 
+
+ **Reported:** 2022-12-06 00:48:50.84 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start** 
 
 ### 6. Program Details : 
 
-**Name:** United Airlines 
+**Name:** Digistorm 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/digistorm> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** amitkh7888 
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` *.united.com` 
+ **Target:** ` https://app.sandbox.digistorm.com/` 
 
- **Reported:** 2022-12-07 14:00:03.414 +0000 UTC 
+ **Reported:** 2022-10-20 05:24:15.266 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: https://app.sandbox.digistorm.com/** 
 
 ### 7. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2022-12-07 14:02:49.494 +0000 UTC 
-
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 8. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
-
- **Reported:** 2022-11-24 09:09:29.62 +0000 UTC 
-
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
-
-### 9. Program Details : 
 
 **Name:** Indeed 
 
@@ -171,15 +131,55 @@
 
  **Hacker:**  
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` https://*.indeed.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-12-01 10:57:37.191 +0000 UTC 
+ **Reported:** 2022-12-09 03:52:55.989 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://*.indeed.com** 
+ **Submission accepted** 
+
+### 8. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P2 
+
+ **Hacker:** 0xn3va 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-12 19:49:12.9 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 9. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:** BytesNull101 
+
+ **Points:** 5 
+
+ **Target:** ` https://clickhouse.cloud/` 
+
+ **Reported:** 2022-12-12 07:43:01.78 +0000 UTC 
+
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://clickhouse.cloud/** 
 
 ### 10. Program Details : 
 
@@ -187,185 +187,205 @@
 
  **Link:** <https://bugcrowd.com/atlassian> 
 
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Bitbucket Server` 
-
- **Reported:** 2022-11-20 15:30:00.682 +0000 UTC 
-
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Bitbucket Server** 
-
-### 11. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
  **Severity:** P3 
 
- **Hacker:** pudwalex 
+ **Hacker:** Oldie 
 
  **Points:** 10 
 
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
+ **Target:** ` Crucible` 
 
- **Reported:** 2022-09-08 13:51:48.581 +0000 UTC 
+ **Reported:** 2022-12-05 07:52:45.982 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
+ **Submission accepted on target: Crucible** 
+
+### 11. Program Details : 
+
+**Name:** Okta 
+
+ **Link:** <https://bugcrowd.com/okta> 
+
+ **Severity:** P3 
+
+ **Hacker:** Hx01 
+
+ **Points:** 10 
+
+ **Target:** ` bugcrowd-%username%-1.oktapreview.com` 
+
+ **Reported:** 2022-10-25 21:48:05.56 +0000 UTC 
+
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: bugcrowd-%username%-1.oktapreview.com** 
 
 ### 12. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** lululemon 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/lululemon> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** niraeth 
 
  **Points:** 0 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` *.lululemon.com` 
 
- **Reported:** 2022-11-16 22:57:34.73 +0000 UTC 
+ **Reported:** 2022-12-04 11:46:28.587 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: *.lululemon.com** 
 
 ### 13. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** saivelde 
 
  **Points:** 0 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-16 22:21:26.939 +0000 UTC 
+ **Reported:** 2022-09-23 17:47:00.717 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 14. Program Details : 
 
-**Name:** Skroutz Public Managed Bug Bounty 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/skroutz> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P4 
 
  **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` https://www.skroutz.gr/` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-12-07 05:09:31.266 +0000 UTC 
+ **Reported:** 2022-09-21 20:31:07.031 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://www.skroutz.gr/** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 15. Program Details : 
 
-**Name:** Tamedia 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/tamedia> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** Vijaysimha 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` ` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-12-02 06:06:19.94 +0000 UTC 
+ **Reported:** 2022-09-21 16:59:17.715 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 16. Program Details : 
 
-**Name:** Electroneum 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/electroneum> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` https://api.electroneum.com/` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-22 19:02:51.534 +0000 UTC 
+ **Reported:** 2022-09-27 07:24:14.35 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://api.electroneum.com/** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 17. Program Details : 
 
-**Name:** Tesla 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/tesla> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` *.tesla.com` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-12-08 04:26:54.687 +0000 UTC 
+ **Reported:** 2022-09-20 21:09:31.399 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.tesla.com** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 18. Program Details : 
 
-**Name:** SEEK  
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/seek> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** sushantdhopat 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 10 
 
- **Target:** ` *.seek.com.au` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-10-27 09:49:09.442 +0000 UTC 
+ **Reported:** 2022-09-20 22:00:02.382 +0000 UTC 
 
- **Accepted:** 2022-12-09 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.seek.com.au** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
 ### 19. Program Details : 
 
-**Name:** Atlassian-Built Apps 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/atlassianapps> 
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 10 
+
+ **Target:** ` https://app.welcomesoftware.com/` 
+
+ **Reported:** 2022-09-22 11:20:52.804 +0000 UTC 
+
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
+
+### 20. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
 
  **Severity:** P3 
 
@@ -373,32 +393,12 @@
 
  **Points:** 0 
 
- **Target:** ` Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-11-26 05:48:49.489 +0000 UTC 
+ **Reported:** 2022-09-21 19:49:44.685 +0000 UTC 
 
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
-### 20. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P2 
-
- **Hacker:** lappsec 
-
- **Points:** 20 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2022-12-06 14:50:59.224 +0000 UTC 
-
- **Accepted:** 2022-12-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-## End of Crowdstream for 2022-December-12 09:51:55
+## End of Crowdstream for 2022-December-13 09:52:01
