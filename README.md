@@ -1,7 +1,367 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-13 09:52:01
+## BugCrowd Crowdstream | Date:  2022-December-14 09:51:53
                             
 ### 1. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P3 
+
+ **Hacker:** SickSec 
+
+ **Points:** 0 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2022-12-08 23:53:18.444 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 2. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P4 
+
+ **Hacker:** SickSec 
+
+ **Points:** 0 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2022-09-22 22:13:15.449 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 3. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2022-12-09 12:35:09.582 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 4. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P4 
+
+ **Hacker:** svla01 
+
+ **Points:** 5 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2022-12-11 16:42:05.61 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 5. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P3 
+
+ **Hacker:** ninja544 
+
+ **Points:** 0 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2022-12-12 13:46:58.315 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 6. Program Details : 
+
+**Name:** Naspers 
+
+ **Link:** <https://bugcrowd.com/naspers> 
+
+ **Severity:** P4 
+
+ **Hacker:** ajaybughunter 
+
+ **Points:** 0 
+
+ **Target:** ` *.naspers.com` 
+
+ **Reported:** 2022-09-04 14:09:22.762 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.naspers.com** 
+
+### 7. Program Details : 
+
+**Name:** Naspers 
+
+ **Link:** <https://bugcrowd.com/naspers> 
+
+ **Severity:** P4 
+
+ **Hacker:** Jagadees_17 
+
+ **Points:** 0 
+
+ **Target:** ` *.naspers.com` 
+
+ **Reported:** 2022-11-24 10:22:45.213 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.naspers.com** 
+
+### 8. Program Details : 
+
+**Name:** Octopus 
+
+ **Link:** <https://bugcrowd.com/octopus-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** sjn_scythe 
+
+ **Points:** 5 
+
+ **Target:** ` Octopus Deploy Git Repo` 
+
+ **Reported:** 2022-12-07 13:54:41.42 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Octopus Deploy Git Repo** 
+
+### 9. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-12-09 06:09:04.526 +0000 UTC 
+
+ **Accepted:** 2022-12-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 10. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2022-12-07 14:04:42.906 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 11. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:** game0v3r 
+
+ **Points:** 5 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-11-02 08:11:25.446 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 12. Program Details : 
+
+**Name:** Etsy 
+
+ **Link:** <https://bugcrowd.com/etsy> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` www.etsy.com` 
+
+ **Reported:** 2022-12-01 13:14:10.251 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.etsy.com** 
+
+### 13. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any host/web property verified to be owned by Twilio` 
+
+ **Reported:** 2022-12-08 23:58:25.477 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
+
+### 14. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Atlassian Compass` 
+
+ **Reported:** 2022-12-06 15:35:54.635 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Atlassian Compass** 
+
+### 15. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.sophos.com` 
+
+ **Reported:** 2022-10-18 21:42:11.783 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sophos.com** 
+
+### 16. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** rinzila 
+
+ **Points:** 5 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-08 09:54:58.539 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 17. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** rinzila 
+
+ **Points:** 10 
+
+ **Target:** ` Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below` 
+
+ **Reported:** 2022-12-08 09:57:04.853 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below** 
+
+### 18. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** rinzila 
+
+ **Points:** 5 
+
+ **Target:** ` Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below` 
+
+ **Reported:** 2022-12-08 09:59:48.692 +0000 UTC 
+
+ **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below** 
+
+### 19. Program Details : 
 
 **Name:** Blue Jeans Network 
 
@@ -21,7 +381,7 @@
 
  **Submission accepted** 
 
-### 2. Program Details : 
+### 20. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -41,364 +401,4 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 3. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P3 
-
- **Hacker:** ycdxsb 
-
- **Points:** 10 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2022-11-07 03:22:15.568 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 4. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P4 
-
- **Hacker:** Ex097 
-
- **Points:** 5 
-
- **Target:** ` https://clickhouse.cloud/` 
-
- **Reported:** 2022-12-12 18:54:17.424 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://clickhouse.cloud/** 
-
-### 5. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
-
- **Severity:** P5 
-
- **Hacker:** nerdwell 
-
- **Points:** 0 
-
- **Target:** ` https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start` 
-
- **Reported:** 2022-12-06 00:48:50.84 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start** 
-
-### 6. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
-
- **Severity:** P4 
-
- **Hacker:** amitkh7888 
-
- **Points:** 5 
-
- **Target:** ` https://app.sandbox.digistorm.com/` 
-
- **Reported:** 2022-10-20 05:24:15.266 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.sandbox.digistorm.com/** 
-
-### 7. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-12-09 03:52:55.989 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 8. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P2 
-
- **Hacker:** 0xn3va 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-12-12 19:49:12.9 +0000 UTC 
-
- **Accepted:** 2022-12-13 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 9. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P4 
-
- **Hacker:** BytesNull101 
-
- **Points:** 5 
-
- **Target:** ` https://clickhouse.cloud/` 
-
- **Reported:** 2022-12-12 07:43:01.78 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://clickhouse.cloud/** 
-
-### 10. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** Oldie 
-
- **Points:** 10 
-
- **Target:** ` Crucible` 
-
- **Reported:** 2022-12-05 07:52:45.982 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Crucible** 
-
-### 11. Program Details : 
-
-**Name:** Okta 
-
- **Link:** <https://bugcrowd.com/okta> 
-
- **Severity:** P3 
-
- **Hacker:** Hx01 
-
- **Points:** 10 
-
- **Target:** ` bugcrowd-%username%-1.oktapreview.com` 
-
- **Reported:** 2022-10-25 21:48:05.56 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: bugcrowd-%username%-1.oktapreview.com** 
-
-### 12. Program Details : 
-
-**Name:** lululemon 
-
- **Link:** <https://bugcrowd.com/lululemon> 
-
- **Severity:** P3 
-
- **Hacker:** niraeth 
-
- **Points:** 0 
-
- **Target:** ` *.lululemon.com` 
-
- **Reported:** 2022-12-04 11:46:28.587 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.lululemon.com** 
-
-### 13. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:** saivelde 
-
- **Points:** 0 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-23 17:47:00.717 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 14. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-21 20:31:07.031 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 15. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:** Vijaysimha 
-
- **Points:** 10 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-21 16:59:17.715 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 16. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-27 07:24:14.35 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 17. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-20 21:09:31.399 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 18. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-20 22:00:02.382 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 19. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-22 11:20:52.804 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-### 20. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://app.welcomesoftware.com/` 
-
- **Reported:** 2022-09-21 19:49:44.685 +0000 UTC 
-
- **Accepted:** 2022-12-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://app.welcomesoftware.com/** 
-
-## End of Crowdstream for 2022-December-13 09:52:01
+## End of Crowdstream for 2022-December-14 09:51:53
