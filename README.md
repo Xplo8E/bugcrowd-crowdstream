@@ -1,391 +1,131 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-20 09:51:52
+## BugCrowd Crowdstream | Date:  2022-December-21 09:51:54
                             
 ### 1. Program Details : 
 
-**Name:** Wise (ex-TransferWise) 
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/wise> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` *.wise.com` 
+ **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2022-12-16 21:15:07.71 +0000 UTC 
+ **Reported:** 2022-12-15 10:36:23.268 +0000 UTC 
 
- **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.wise.com** 
+ **Submission accepted on target: *.bitdefender.com** 
 
 ### 2. Program Details : 
 
-**Name:** TripAdvisor  
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** SickSec 
 
  **Points:** 0 
 
- **Target:** ` www.tripadvisor.com` 
+ **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2022-12-10 13:12:22.954 +0000 UTC 
+ **Reported:** 2022-12-08 18:13:37.512 +0000 UTC 
 
- **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.tripadvisor.com** 
+ **Submission accepted on target: *.bitdefender.com** 
 
 ### 3. Program Details : 
 
-**Name:** Indeed 
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
  **Severity:** P3 
 
- **Hacker:** C0NQR0R 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` https://*.indeed.tech` 
+ **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2022-12-14 19:55:28.211 +0000 UTC 
+ **Reported:** 2022-11-22 22:15:13.358 +0000 UTC 
 
- **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://*.indeed.tech** 
+ **Submission accepted on target: *.bitdefender.com** 
 
 ### 4. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
- **Severity:** P1 
+ **Severity:** P2 
 
- **Hacker:** KennY-S 
+ **Hacker:**  
 
- **Points:** 40 
+ **Points:** 0 
 
- **Target:** `  Cisco Systems operational infrastructure` 
+ **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2022-12-16 11:31:51.552 +0000 UTC 
+ **Reported:** 2022-12-02 16:29:25.831 +0000 UTC 
 
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
+ **Submission accepted on target: *.bitdefender.com** 
 
 ### 5. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** WOO Network: Bug Bounty Program 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 11:41:33.77 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 6. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 10:57:35.194 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 7. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 10:49:59.605 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 8. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 11:36:03.439 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 9. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 11:01:57.932 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 10. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 11:28:13.81 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 11. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** KennY-S 
-
- **Points:** 40 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2022-12-16 11:45:57.597 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 12. Program Details : 
-
-**Name:** FireEye Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/fireeye> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.fireeye.com` 
-
- **Reported:** 2022-11-21 03:37:41.406 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fireeye.com** 
-
-### 13. Program Details : 
-
-**Name:** FireEye Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/fireeye> 
-
- **Severity:** P2 
-
- **Hacker:** Youstin 
-
- **Points:** 20 
-
- **Target:** ` *.fireeye.com` 
-
- **Reported:** 2022-11-16 17:20:27.708 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fireeye.com** 
-
-### 14. Program Details : 
-
-**Name:** Mandiant Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/mandiant> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.mandiant.com` 
-
- **Reported:** 2022-11-09 06:52:11.678 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.mandiant.com** 
-
-### 15. Program Details : 
-
-**Name:** Asana 
-
- **Link:** <https://bugcrowd.com/asana> 
-
- **Severity:** P4 
-
- **Hacker:** kadusantiago 
-
- **Points:** 0 
-
- **Target:** ` *.app.asana.com` 
-
- **Reported:** 2022-12-05 16:25:19.747 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.app.asana.com** 
-
-### 16. Program Details : 
-
-**Name:** Atlassian-Built Apps 
-
- **Link:** <https://bugcrowd.com/atlassianapps> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Confluence Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams-official?hosting=cloud` 
-
- **Reported:** 2022-11-29 18:53:11.02 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Confluence Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams-official?hosting=cloud** 
-
-### 17. Program Details : 
-
-**Name:** Mandiant Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/mandiant> 
-
- **Severity:** P2 
-
- **Hacker:** Oxylis 
-
- **Points:** 20 
-
- **Target:** ` Mandiant Website` 
-
- **Reported:** 2022-11-17 00:49:23.596 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Mandiant Website** 
-
-### 18. Program Details : 
-
-**Name:** Lucid Motors Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/lucidmotors-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** Prit3sh_Mah3ta 
-
- **Points:** 0 
-
- **Target:** ` www.lucidmotors.com` 
-
- **Reported:** 2022-12-15 06:26:03.031 +0000 UTC 
-
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.lucidmotors.com** 
-
-### 19. Program Details : 
-
-**Name:** Aruba Networks Public Program 
-
- **Link:** <https://bugcrowd.com/aruba-public> 
+ **Link:** <https://bugcrowd.com/woo-network> 
 
  **Severity:** P3 
 
- **Hacker:** lappsec 
+ **Hacker:** Youstin 
 
  **Points:** 10 
 
- **Target:** ` *.arubanetworks.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-12-14 22:03:17.518 +0000 UTC 
+ **Reported:** 2022-11-28 15:40:23.224 +0000 UTC 
 
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.arubanetworks.com** 
+ **Submission accepted** 
 
-### 20. Program Details : 
+### 6. Program Details : 
 
-**Name:** Netflix 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/netflix> 
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` XG Firewall` 
+
+ **Reported:** 2022-12-07 07:30:51.193 +0000 UTC 
+
+ **Accepted:** 2022-12-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: XG Firewall** 
+
+### 7. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
 
  **Severity:** P2 
 
@@ -393,12 +133,272 @@
 
  **Points:** 0 
 
- **Target:** ` www.netflix.com` 
+ **Target:** ` United Mobile App for Android` 
 
- **Reported:** 2022-12-05 14:11:56.033 +0000 UTC 
+ **Reported:** 2022-12-17 07:01:45.581 +0000 UTC 
 
- **Accepted:** 2022-12-19 00:00:00 +0000 UTC 
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.netflix.com** 
+ **Submission accepted on target: United Mobile App for Android** 
 
-## End of Crowdstream for 2022-December-20 09:51:52
+### 8. Program Details : 
+
+**Name:** Tesla 
+
+ **Link:** <https://bugcrowd.com/tesla> 
+
+ **Severity:** P1 
+
+ **Hacker:** arm4nd0 
+
+ **Points:** 0 
+
+ **Target:** ` *.tesla.com` 
+
+ **Reported:** 2022-11-26 19:29:57.354 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.tesla.com** 
+
+### 9. Program Details : 
+
+**Name:** Tesla 
+
+ **Link:** <https://bugcrowd.com/tesla> 
+
+ **Severity:** P1 
+
+ **Hacker:** arm4nd0 
+
+ **Points:** 0 
+
+ **Target:** ` *.tesla.cn` 
+
+ **Reported:** 2022-11-21 17:44:01.275 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.tesla.cn** 
+
+### 10. Program Details : 
+
+**Name:** Trello 
+
+ **Link:** <https://bugcrowd.com/trello> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Card Aging Power-Up` 
+
+ **Reported:** 2022-10-11 07:07:16.494 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Card Aging Power-Up** 
+
+### 11. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** UpdateLap 
+
+ **Points:** 0 
+
+ **Target:** ` Jira Service Management Server` 
+
+ **Reported:** 2022-12-13 04:43:20.164 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Jira Service Management Server** 
+
+### 12. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2022-12-02 08:32:41.02 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 13. Program Details : 
+
+**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/cigie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** nthuong95 
+
+ **Points:** 0 
+
+ **Target:** ` *.oversight.gov` 
+
+ **Reported:** 2022-10-05 08:46:42.339 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.oversight.gov** 
+
+### 14. Program Details : 
+
+**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/cigie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** jakura 
+
+ **Points:** 0 
+
+ **Target:** ` *.oversight.gov` 
+
+ **Reported:** 2022-10-08 11:29:58.702 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.oversight.gov** 
+
+### 15. Program Details : 
+
+**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/cigie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** 0xmoataz 
+
+ **Points:** 0 
+
+ **Target:** ` *.oversight.gov` 
+
+ **Reported:** 2022-10-01 23:42:52.96 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.oversight.gov** 
+
+### 16. Program Details : 
+
+**Name:** Etsy 
+
+ **Link:** <https://bugcrowd.com/etsy> 
+
+ **Severity:** P3 
+
+ **Hacker:** phamtiendat 
+
+ **Points:** 0 
+
+ **Target:** ` help.etsy.com` 
+
+ **Reported:** 2022-12-07 12:04:22.391 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: help.etsy.com** 
+
+### 17. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P2 
+
+ **Hacker:** corrie_sloot 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2022-12-15 21:17:14.012 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 18. Program Details : 
+
+**Name:** Personal Capital 
+
+ **Link:** <https://bugcrowd.com/personalcapital> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://devstaging.pcapcloud.com/*` 
+
+ **Reported:** 2022-11-09 17:04:40.518 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://devstaging.pcapcloud.com/*** 
+
+### 19. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P3 
+
+ **Hacker:** sohacutexx 
+
+ **Points:** 10 
+
+ **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
+
+ **Reported:** 2022-12-19 18:54:02.335 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
+
+### 20. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2022-12-14 14:45:51.532 +0000 UTC 
+
+ **Accepted:** 2022-12-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+## End of Crowdstream for 2022-December-21 09:51:54
