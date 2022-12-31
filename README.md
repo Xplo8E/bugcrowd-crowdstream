@@ -1,7 +1,367 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2022-December-30 09:52:02
+## BugCrowd Crowdstream | Date:  2022-December-31 09:51:52
                             
 ### 1. Program Details : 
+
+**Name:** Netflix 
+
+ **Link:** <https://bugcrowd.com/netflix> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` www.netflix.com` 
+
+ **Reported:** 2022-12-27 19:10:50.168 +0000 UTC 
+
+ **Accepted:** 2022-12-31 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.netflix.com** 
+
+### 2. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-19 12:00:22.617 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 3. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** topscoder 
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-20 09:02:11.772 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 4. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-20 07:35:50.173 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 5. Program Details : 
+
+**Name:** Bureau of Indian Affairs  
+
+ **Link:** <https://bugcrowd.com/bia-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** r_vd_l 
+
+ **Points:** 0 
+
+ **Target:** ` *.bia.gov` 
+
+ **Reported:** 2022-12-30 13:25:38.637 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bia.gov** 
+
+### 6. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P3 
+
+ **Hacker:** AMakki 
+
+ **Points:** 10 
+
+ **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
+
+ **Reported:** 2022-12-17 01:27:34.635 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
+
+### 7. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P3 
+
+ **Hacker:** emanelyazji 
+
+ **Points:** 10 
+
+ **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
+
+ **Reported:** 2022-12-17 01:32:32.167 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
+
+### 8. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** AnkitSingh 
+
+ **Points:** 10 
+
+ **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+
+ **Reported:** 2022-12-12 05:53:01.833 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+
+### 9. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+
+ **Reported:** 2022-12-21 15:11:50.019 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:** lvyyevd 
+
+ **Points:** 20 
+
+ **Target:** ` Bamboo` 
+
+ **Reported:** 2022-12-25 12:12:04.109 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Bamboo** 
+
+### 11. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** blakeobs 
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-19 18:36:37.188 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 12. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** Hero_of_Digital 
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-28 18:24:19.611 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 13. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-29 16:31:53.365 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 14. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-25 16:46:22.827 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 15. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-19 16:50:46.056 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 16. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P1 
+
+ **Hacker:** PotreX 
+
+ **Points:** 40 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-17 16:24:07.169 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 17. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P1 
+
+ **Hacker:** AMakki 
+
+ **Points:** 40 
+
+ **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
+
+ **Reported:** 2022-12-17 01:12:50.124 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
+
+### 18. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** Pranav_R 
+
+ **Points:** 0 
+
+ **Target:** ` https://icecreamshopus.com/` 
+
+ **Reported:** 2022-12-29 10:52:42.189 +0000 UTC 
+
+ **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://icecreamshopus.com/** 
+
+### 19. Program Details : 
 
 **Name:** Unilever Vulnerability Disclosure Program 
 
@@ -21,7 +381,7 @@
 
  **Submission accepted on target: https://u-shop.vn/** 
 
-### 2. Program Details : 
+### 20. Program Details : 
 
 **Name:** FireEye Bug Bounty Program 
 
@@ -41,364 +401,4 @@
 
  **Submission accepted on target: *.fireeye.com** 
 
-### 3. Program Details : 
-
-**Name:** FireEye Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/fireeye> 
-
- **Severity:** P4 
-
- **Hacker:** abdennour1 
-
- **Points:** 5 
-
- **Target:** ` *.cloudvisory.net` 
-
- **Reported:** 2022-11-24 09:54:34.541 +0000 UTC 
-
- **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.cloudvisory.net** 
-
-### 4. Program Details : 
-
-**Name:** FireEye Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/fireeye> 
-
- **Severity:** P4 
-
- **Hacker:** Alhasan_Abbas 
-
- **Points:** 0 
-
- **Target:** ` *.fireeye.com` 
-
- **Reported:** 2022-12-13 04:37:15.102 +0000 UTC 
-
- **Accepted:** 2022-12-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fireeye.com** 
-
-### 5. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
-
- **Reported:** 2022-12-09 09:57:37.345 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
-
-### 6. Program Details : 
-
-**Name:** LastPass 
-
- **Link:** <https://bugcrowd.com/lastpass> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` LastPass browser extensions (Chrome / Safari / Edge / Firefox)` 
-
- **Reported:** 2022-12-26 22:02:28.339 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: LastPass browser extensions (Chrome / Safari / Edge / Firefox)** 
-
-### 7. Program Details : 
-
-**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/bie-vdp> 
-
- **Severity:** P2 
-
- **Hacker:** mysanismine 
-
- **Points:** 0 
-
- **Target:** ` *.bie.edu` 
-
- **Reported:** 2022-12-19 21:37:28.76 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bie.edu** 
-
-### 8. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:** emanelyazji 
-
- **Points:** 10 
-
- **Target:** ` *.bokuntest.com` 
-
- **Reported:** 2022-12-09 12:21:14.118 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bokuntest.com** 
-
-### 9. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Opera GX for Android` 
-
- **Reported:** 2022-10-27 15:59:50.752 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Opera GX for Android** 
-
-### 10. Program Details : 
-
-**Name:** Bitdefender 
-
- **Link:** <https://bugcrowd.com/bitdefender> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.bitdefender.com` 
-
- **Reported:** 2022-12-24 13:08:11.72 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bitdefender.com** 
-
-### 11. Program Details : 
-
-**Name:** Bitdefender 
-
- **Link:** <https://bugcrowd.com/bitdefender> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.bitdefender.com` 
-
- **Reported:** 2022-12-25 05:59:11.478 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bitdefender.com** 
-
-### 12. Program Details : 
-
-**Name:** ExpressVPN 
-
- **Link:** <https://bugcrowd.com/expressvpn> 
-
- **Severity:** P3 
-
- **Hacker:** CyberGeeGee 
-
- **Points:** 10 
-
- **Target:** ` ExpressVPN Windows application` 
-
- **Reported:** 2022-12-18 05:56:52.028 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: ExpressVPN Windows application** 
-
-### 13. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.opera.com` 
-
- **Reported:** 2022-12-28 23:08:22.724 +0000 UTC 
-
- **Accepted:** 2022-12-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.opera.com** 
-
-### 14. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2022-12-16 18:09:18.588 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 15. Program Details : 
-
-**Name:** Segment 
-
- **Link:** <https://bugcrowd.com/segment> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` app.segment.com` 
-
- **Reported:** 2022-11-30 11:51:30.144 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: app.segment.com** 
-
-### 16. Program Details : 
-
-**Name:** Segment 
-
- **Link:** <https://bugcrowd.com/segment> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` app.segment.com` 
-
- **Reported:** 2022-12-01 10:27:24.081 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: app.segment.com** 
-
-### 17. Program Details : 
-
-**Name:** Segment 
-
- **Link:** <https://bugcrowd.com/segment> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)` 
-
- **Reported:** 2022-12-08 21:48:07.331 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)** 
-
-### 18. Program Details : 
-
-**Name:** Segment 
-
- **Link:** <https://bugcrowd.com/segment> 
-
- **Severity:** P3 
-
- **Hacker:** danieloizo 
-
- **Points:** 0 
-
- **Target:** ` app.segment.com` 
-
- **Reported:** 2022-12-08 21:54:11.244 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: app.segment.com** 
-
-### 19. Program Details : 
-
-**Name:** Segment 
-
- **Link:** <https://bugcrowd.com/segment> 
-
- **Severity:** P3 
-
- **Hacker:** danieloizo 
-
- **Points:** 0 
-
- **Target:** ` app.segment.com` 
-
- **Reported:** 2022-12-08 21:08:40.832 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: app.segment.com** 
-
-### 20. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2022-12-22 06:26:55.341 +0000 UTC 
-
- **Accepted:** 2022-12-28 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-## End of Crowdstream for 2022-December-30 09:52:02
+## End of Crowdstream for 2022-December-31 09:51:52
