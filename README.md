@@ -1,47 +1,127 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-January-04 09:51:59
+## BugCrowd Crowdstream | Date:  2023-January-05 09:51:53
                             
 ### 1. Program Details : 
 
-**Name:** Rakuten VDP 
+**Name:** Takeaway.com 
 
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
+ **Link:** <https://bugcrowd.com/takeaway> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** 0xm7lk 
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` *.rakuten.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-10-04 19:49:03.301 +0000 UTC 
+ **Reported:** 2022-12-10 17:38:06.738 +0000 UTC 
 
- **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.rakuten.com** 
+ **Submission accepted** 
 
 ### 2. Program Details : 
 
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P4 
+
+ **Hacker:** pphreak_1001 
+
+ **Points:** 5 
+
+ **Target:** ` *.justeattakeaway.com` 
+
+ **Reported:** 2023-01-03 07:51:06.44 +0000 UTC 
+
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.justeattakeaway.com** 
+
+### 3. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-24 04:00:24.33 +0000 UTC 
+
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
 **Name:** Rakuten VDP 
 
  **Link:** <https://bugcrowd.com/rakuten-vdp> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** prok3z 
 
  **Points:** 0 
 
  **Target:** ` *.rakuten.com` 
 
- **Reported:** 2022-10-14 20:20:17.695 +0000 UTC 
+ **Reported:** 2022-09-27 20:04:44.452 +0000 UTC 
 
- **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.rakuten.com** 
 
-### 3. Program Details : 
+### 5. Program Details : 
+
+**Name:** Rakuten VDP 
+
+ **Link:** <https://bugcrowd.com/rakuten-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** nitesculuci 
+
+ **Points:** 0 
+
+ **Target:** ` *.rakuten.com` 
+
+ **Reported:** 2022-12-17 08:17:00.192 +0000 UTC 
+
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.rakuten.com** 
+
+### 6. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P3 
+
+ **Hacker:** No4l 
+
+ **Points:** 10 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2022-12-30 13:03:02.719 +0000 UTC 
+
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 7. Program Details : 
 
 **Name:** Rakuten VDP 
 
@@ -55,350 +135,270 @@
 
  **Target:** ` *.rakuten.com` 
 
- **Reported:** 2022-12-07 17:54:31.618 +0000 UTC 
+ **Reported:** 2022-09-16 11:06:51.767 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.rakuten.com** 
 
-### 4. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P4 
-
- **Hacker:** pescobar 
-
- **Points:** 0 
-
- **Target:** ` *.pinterest.com Web Apps` 
-
- **Reported:** 2022-12-22 12:44:16.408 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.pinterest.com Web Apps** 
-
-### 5. Program Details : 
-
-**Name:** Etsy 
-
- **Link:** <https://bugcrowd.com/etsy> 
-
- **Severity:** P4 
-
- **Hacker:** KennY-S 
-
- **Points:** 5 
-
- **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
-
- **Reported:** 2022-12-30 03:10:54.769 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
-
-### 6. Program Details : 
-
-**Name:** Etsy 
-
- **Link:** <https://bugcrowd.com/etsy> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
-
- **Reported:** 2022-11-16 06:37:52.081 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
-
-### 7. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-01-02 07:19:52.273 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
 ### 8. Program Details : 
 
-**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
+**Name:** Rakuten VDP 
 
- **Link:** <https://bugcrowd.com/dhs-vdp> 
+ **Link:** <https://bugcrowd.com/rakuten-vdp> 
 
- **Severity:** P1 
+ **Severity:** P2 
 
- **Hacker:** Shailesh_kumavat 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.rakuten.com` 
 
- **Reported:** 2022-12-19 02:11:12.385 +0000 UTC 
+ **Reported:** 2023-01-04 18:57:47.172 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.rakuten.com** 
 
 ### 9. Program Details : 
 
-**Name:** Sophos 
+**Name:** Rakuten VDP 
 
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.sophos.com` 
-
- **Reported:** 2022-12-31 04:12:49.37 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sophos.com** 
-
-### 10. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/rakuten-vdp> 
 
  **Severity:** P3 
 
- **Hacker:** mzamat 
-
- **Points:** 10 
-
- **Target:** ` *.squareup.com` 
-
- **Reported:** 2022-12-15 02:13:33.384 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.squareup.com** 
-
-### 11. Program Details : 
-
-**Name:** Ibotta 
-
- **Link:** <https://bugcrowd.com/ibotta> 
-
- **Severity:** P4 
-
- **Hacker:** abhiram 
+ **Hacker:** craycrop 
 
  **Points:** 0 
 
- **Target:** ` http://ibotta.com` 
+ **Target:** ` *.rakuten.com` 
 
- **Reported:** 2022-12-10 17:49:02.055 +0000 UTC 
+ **Reported:** 2022-12-30 19:04:08.707 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: http://ibotta.com** 
+ **Submission accepted on target: *.rakuten.com** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2022-12-20 01:19:48.45 +0000 UTC 
+
+ **Accepted:** 2023-01-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 11. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** Oldie 
+
+ **Points:** 10 
+
+ **Target:** ` Crucible` 
+
+ **Reported:** 2022-12-25 00:27:05.111 +0000 UTC 
+
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Crucible** 
 
 ### 12. Program Details : 
 
-**Name:** Cash App 
+**Name:** U.S. Fish and Wildlife Service  
 
- **Link:** <https://bugcrowd.com/cashapp> 
+ **Link:** <https://bugcrowd.com/fws-vdp> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:** mzamat 
+ **Hacker:** AloneInjector 
 
- **Points:** 40 
+ **Points:** 0 
 
- **Target:** ` *.cash.app` 
+ **Target:** ` *.fws.gov` 
 
- **Reported:** 2022-12-16 16:14:57.621 +0000 UTC 
+ **Reported:** 2022-11-29 14:03:38.518 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.cash.app** 
+ **Submission accepted on target: *.fws.gov** 
 
 ### 13. Program Details : 
 
-**Name:** Netflix 
+**Name:** Tesla 
 
- **Link:** <https://bugcrowd.com/netflix> 
+ **Link:** <https://bugcrowd.com/tesla> 
 
  **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Hisxo 
+
+ **Points:** 0 
+
+ **Target:** ` *.tesla.com` 
+
+ **Reported:** 2022-11-22 22:00:15.923 +0000 UTC 
+
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.tesla.com** 
+
+### 14. Program Details : 
+
+**Name:** You Need a Budget (YNAB) 
+
+ **Link:** <https://bugcrowd.com/ynab> 
+
+ **Severity:** P4 
+
+ **Hacker:** Alihussnain 
+
+ **Points:** 5 
+
+ **Target:** ` https://staging-app.youneedabudget.com/` 
+
+ **Reported:** 2022-12-26 22:40:56.02 +0000 UTC 
+
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://staging-app.youneedabudget.com/** 
+
+### 15. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** mrhacking 
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-30 17:22:37.183 +0000 UTC 
+
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+### 16. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** mysanismine 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-01 22:49:15.748 +0000 UTC 
+ **Reported:** 2022-12-20 12:51:48.617 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 14. Program Details : 
-
-**Name:** lululemon 
-
- **Link:** <https://bugcrowd.com/lululemon> 
-
- **Severity:** P4 
-
- **Hacker:** OrwaGodfather 
-
- **Points:** 5 
-
- **Target:** ` *.lululemon.com` 
-
- **Reported:** 2022-12-16 00:11:27.752 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.lululemon.com** 
-
-### 15. Program Details : 
-
-**Name:** Federal Communications Commission: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/fcc-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.fcc.gov` 
-
- **Reported:** 2022-11-25 18:24:45.732 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fcc.gov** 
-
-### 16. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2022-12-29 04:39:53.668 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
 ### 17. Program Details : 
 
-**Name:** United Airlines 
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/bie-vdp> 
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** midnightgator 
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** ` *.bie.edu` 
 
- **Reported:** 2022-12-02 05:46:01.421 +0000 UTC 
+ **Reported:** 2022-12-19 19:21:58.714 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: *.bie.edu** 
 
 ### 18. Program Details : 
 
-**Name:** United Airlines 
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/bie-vdp> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** mysanismine 
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** ` *.bie.edu` 
 
- **Reported:** 2022-12-16 19:38:00.079 +0000 UTC 
+ **Reported:** 2022-12-25 12:32:02.503 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: *.bie.edu** 
 
 ### 19. Program Details : 
 
-**Name:** Skroutz Public Managed Bug Bounty 
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/skroutz> 
+ **Link:** <https://bugcrowd.com/bie-vdp> 
 
- **Severity:** P4 
+ **Severity:** P5 
 
- **Hacker:** Keepdebugging 
-
- **Points:** 5 
-
- **Target:** ` https://www.skroutz.gr/` 
-
- **Reported:** 2023-01-02 13:02:01.049 +0000 UTC 
-
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.skroutz.gr/** 
-
-### 20. Program Details : 
-
-**Name:** The Scotts Miracle-Gro Company Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/thescottsmiraclerd> 
-
- **Severity:** P2 
-
- **Hacker:** Matt4 
+ **Hacker:** Zeus__ 
 
  **Points:** 0 
 
- **Target:** ` *.miraclegrotwelve.com` 
+ **Target:** ` *.bie.edu` 
 
- **Reported:** 2022-12-23 16:39:33.387 +0000 UTC 
+ **Reported:** 2023-01-02 22:36:27.65 +0000 UTC 
 
- **Accepted:** 2023-01-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.miraclegrotwelve.com** 
+ **Submission accepted on target: *.bie.edu** 
 
-## End of Crowdstream for 2023-January-04 09:51:59
+### 20. Program Details : 
+
+**Name:** The Bureau of Indian Education Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/bie-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** JivanMagare 
+
+ **Points:** 0 
+
+ **Target:** ` *.bie.edu` 
+
+ **Reported:** 2022-12-21 16:13:26.57 +0000 UTC 
+
+ **Accepted:** 2023-01-04 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bie.edu** 
+
+## End of Crowdstream for 2023-January-05 09:51:53
