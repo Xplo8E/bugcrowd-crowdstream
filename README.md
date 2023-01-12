@@ -1,11 +1,11 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-January-11 09:51:58
+## BugCrowd Crowdstream | Date:  2023-January-12 09:52:06
                             
 ### 1. Program Details : 
 
-**Name:** Blue Jeans Network 
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/bluejeans> 
+ **Link:** <https://bugcrowd.com/comcastvdp> 
 
  **Severity:** P3 
 
@@ -13,59 +13,19 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.comcast.com` 
 
- **Reported:** 2022-10-12 07:15:40.329 +0000 UTC 
+ **Reported:** 2023-01-07 19:47:22.009 +0000 UTC 
 
- **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.comcast.com** 
 
 ### 2. Program Details : 
 
-**Name:** Mastercard 
+**Name:** Telefónica Germany 
 
- **Link:** <https://bugcrowd.com/mastercard> 
-
- **Severity:** P2 
-
- **Hacker:** 4lemon 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-12-30 15:39:55.318 +0000 UTC 
-
- **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 3. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.sys.comcast.net` 
-
- **Reported:** 2022-12-27 16:09:30.884 +0000 UTC 
-
- **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sys.comcast.net** 
-
-### 4. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
+ **Link:** <https://bugcrowd.com/telefonicavdp> 
 
  **Severity:** P3 
 
@@ -73,15 +33,35 @@
 
  **Points:** 0 
 
- **Target:** ` *.sys.comcast.net` 
+ **Target:** ` *.telefonica.de` 
 
- **Reported:** 2022-12-28 12:00:21.219 +0000 UTC 
+ **Reported:** 2023-01-11 01:39:34.539 +0000 UTC 
 
- **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.sys.comcast.net** 
+ **Submission accepted on target: *.telefonica.de** 
 
-### 5. Program Details : 
+### 3. Program Details : 
+
+**Name:** Telefónica Germany 
+
+ **Link:** <https://bugcrowd.com/telefonicavdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** miron666 
+
+ **Points:** 0 
+
+ **Target:** ` *.fonic.de` 
+
+ **Reported:** 2023-01-08 00:27:55.495 +0000 UTC 
+
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.fonic.de** 
+
+### 4. Program Details : 
 
 **Name:** Indeed 
 
@@ -89,63 +69,23 @@
 
  **Severity:** P4 
 
- **Hacker:** thebee0x 
+ **Hacker:** sukuna 
 
  **Points:** 5 
 
  **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2022-12-27 10:26:50.671 +0000 UTC 
+ **Reported:** 2022-12-28 22:37:10.893 +0000 UTC 
 
- **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 6. Program Details : 
+### 5. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Square 
 
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P5 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
-
- **Reported:** 2022-12-20 09:17:47.142 +0000 UTC 
-
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
-
-### 7. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P2 
-
- **Hacker:** veath1 
-
- **Points:** 20 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2022-12-07 10:29:41.303 +0000 UTC 
-
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 8. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
+ **Link:** <https://bugcrowd.com/square> 
 
  **Severity:** P4 
 
@@ -153,199 +93,219 @@
 
  **Points:** 0 
 
- **Target:** ` *.xfinity.com	` 
+ **Target:** ` ` 
 
- **Reported:** 2022-12-03 03:06:42.39 +0000 UTC 
+ **Reported:** 2023-01-01 14:45:07.054 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.xfinity.com	** 
+ **Submission accepted** 
 
-### 9. Program Details : 
+### 6. Program Details : 
 
-**Name:** Twilio 
+**Name:** Square 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/square> 
 
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Twilio Console` 
-
- **Reported:** 2023-01-02 20:14:26.282 +0000 UTC 
-
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Twilio Console** 
-
-### 10. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Any host/web property verified to be owned by Twilio` 
+ **Target:** ` ` 
 
- **Reported:** 2023-01-06 08:28:55.719 +0000 UTC 
+ **Reported:** 2023-01-04 18:22:39.457 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
+ **Submission accepted** 
 
-### 11. Program Details : 
-
-**Name:** Cisco Meraki 
-
- **Link:** <https://bugcrowd.com/ciscomeraki> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.meraki.com` 
-
- **Reported:** 2022-12-30 17:26:37.245 +0000 UTC 
-
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.meraki.com** 
-
-### 12. Program Details : 
+### 7. Program Details : 
 
 **Name:** Aruba Networks Public Program 
 
  **Link:** <https://bugcrowd.com/aruba-public> 
 
- **Severity:** P1 
+ **Severity:** P4 
 
- **Hacker:** lappsec 
+ **Hacker:**  
 
- **Points:** 40 
+ **Points:** 0 
 
  **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2023-01-09 22:02:33.919 +0000 UTC 
+ **Reported:** 2023-01-08 11:00:21.993 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.arubanetworks.com** 
 
-### 13. Program Details : 
+### 8. Program Details : 
 
-**Name:** U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program 
+**Name:** Aruba Networks Public Program 
 
- **Link:** <https://bugcrowd.com/csb-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** ROOTDARTH 
-
- **Points:** 0 
-
- **Target:** ` www.csb.gov` 
-
- **Reported:** 2022-12-27 17:35:48.121 +0000 UTC 
-
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.csb.gov** 
-
-### 14. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/aruba-public> 
 
  **Severity:** P3 
 
- **Hacker:** ahmedmehtab 
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-01-06 22:42:00.562 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 9. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:** araselmir 
 
  **Points:** 10 
 
- **Target:** ` Sophos Central` 
+ **Target:** ` *.arubanetworks.com` 
 
- **Reported:** 2023-01-10 01:29:30.072 +0000 UTC 
+ **Reported:** 2023-01-07 12:42:46.772 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Sophos Central** 
+ **Submission accepted on target: *.arubanetworks.com** 
 
-### 15. Program Details : 
+### 10. Program Details : 
 
-**Name:** Sophos 
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/comcastvdp> 
 
  **Severity:** P2 
 
- **Hacker:** ahmedmehtab 
+ **Hacker:**  
 
  **Points:** 20 
 
- **Target:** ` Sophos Central` 
+ **Target:** ` ` 
 
- **Reported:** 2023-01-07 00:22:02.486 +0000 UTC 
+ **Reported:** 2022-12-16 02:35:30.824 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Sophos Central** 
+ **Submission accepted** 
 
-### 16. Program Details : 
+### 11. Program Details : 
 
-**Name:** Unilever Vulnerability Disclosure Program 
+**Name:** K15t 
 
- **Link:** <https://bugcrowd.com/unilever-vdp> 
+ **Link:** <https://bugcrowd.com/k15t> 
 
- **Severity:** P4 
+ **Severity:** P2 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` https://lakmeindia.com/` 
+ **Target:** ` https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud` 
 
- **Reported:** 2023-01-06 17:25:34.5 +0000 UTC 
+ **Reported:** 2022-12-26 06:24:37.205 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://lakmeindia.com/** 
+ **Submission accepted on target: https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud** 
 
-### 17. Program Details : 
+### 12. Program Details : 
 
-**Name:** Takeaway.com 
+**Name:** K15t 
 
- **Link:** <https://bugcrowd.com/takeaway> 
+ **Link:** <https://bugcrowd.com/k15t> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud` 
+
+ **Reported:** 2022-12-26 05:36:43.2 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud** 
+
+### 13. Program Details : 
+
+**Name:** Square 
+
+ **Link:** <https://bugcrowd.com/square> 
 
  **Severity:** P3 
 
- **Hacker:** S3cr3tSDN 
+ **Hacker:** Ronit 
 
  **Points:** 10 
 
- **Target:** ` *.just-eat.dk` 
+ **Target:** ` *.squareup.com` 
 
- **Reported:** 2022-12-17 20:46:02.336 +0000 UTC 
+ **Reported:** 2022-12-23 04:42:13.384 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.just-eat.dk** 
+ **Submission accepted on target: *.squareup.com** 
 
-### 18. Program Details : 
+### 14. Program Details : 
 
-**Name:** Indeed 
+**Name:** Cash App 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/cashapp> 
+
+ **Severity:** P3 
+
+ **Hacker:** iambouali 
+
+ **Points:** 0 
+
+ **Target:** ` *.cash.app` 
+
+ **Reported:** 2023-01-05 22:28:00.117 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.cash.app** 
+
+### 15. Program Details : 
+
+**Name:** Inter-American Foundation - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/iaf-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** DragonX 
+
+ **Points:** 0 
+
+ **Target:** ` *iaf.gov` 
+
+ **Reported:** 2023-01-10 13:48:27.516 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *iaf.gov** 
+
+### 16. Program Details : 
+
+**Name:** Inter-American Foundation - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/iaf-vdp> 
 
  **Severity:** P4 
 
@@ -353,52 +313,92 @@
 
  **Points:** 0 
 
- **Target:** ` Any host/web property verified to be owned by Indeed` 
+ **Target:** ` *iaf.gov` 
 
- **Reported:** 2022-12-27 15:23:16.562 +0000 UTC 
+ **Reported:** 2023-01-10 12:57:14.861 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+ **Submission accepted on target: *iaf.gov** 
 
-### 19. Program Details : 
+### 17. Program Details : 
 
-**Name:** Indeed 
+**Name:** Inter-American Foundation - Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/iaf-vdp> 
 
  **Severity:** P4 
 
- **Hacker:** mrrootsec 
+ **Hacker:** SharmaG 
 
  **Points:** 0 
 
- **Target:** ` https://*.indeed.tech` 
+ **Target:** ` *iaf.gov` 
 
- **Reported:** 2023-01-01 11:57:41.223 +0000 UTC 
+ **Reported:** 2023-01-10 14:43:15.717 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://*.indeed.tech** 
+ **Submission accepted on target: *iaf.gov** 
+
+### 18. Program Details : 
+
+**Name:** Inter-American Foundation - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/iaf-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** mysanismine 
+
+ **Points:** 0 
+
+ **Target:** ` *iaf.gov` 
+
+ **Reported:** 2023-01-10 15:56:16.925 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *iaf.gov** 
+
+### 19. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P2 
+
+ **Hacker:** sw33tLie 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-23 16:35:24.367 +0000 UTC 
+
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
 
 ### 20. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** Optimizely 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
+ **Link:** <https://bugcrowd.com/optimizely> 
 
- **Severity:** P0 
+ **Severity:** P3 
 
- **Hacker:** 0x_stein 
+ **Hacker:** saivelde 
 
  **Points:** 0 
 
- **Target:** `  Cisco Systems operational infrastructure` 
+ **Target:** ` https://app.welcomesoftware.com/` 
 
- **Reported:** 2022-12-26 08:20:48.218 +0000 UTC 
+ **Reported:** 2022-09-25 08:38:56.714 +0000 UTC 
 
- **Accepted:** 2023-01-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
 
-## End of Crowdstream for 2023-January-11 09:51:58
+## End of Crowdstream for 2023-January-12 09:52:06
