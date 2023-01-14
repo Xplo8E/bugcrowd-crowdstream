@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-January-13 09:51:53
+## BugCrowd Crowdstream | Date:  2023-January-14 09:51:41
                             
 ### 1. Program Details : 
+
+**Name:** Tesla 
+
+ **Link:** <https://bugcrowd.com/tesla> 
+
+ **Severity:** P3 
+
+ **Hacker:** sagarparmar121 
+
+ **Points:** 0 
+
+ **Target:** ` *.teslamotors.com` 
+
+ **Reported:** 2023-01-05 16:31:31.841 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.teslamotors.com** 
+
+### 2. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P3 
+
+ **Hacker:** nomanAli181 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-13 02:47:54.682 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 3. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://app.optimizely.com/` 
+
+ **Reported:** 2023-01-06 20:44:04.818 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.optimizely.com/** 
+
+### 4. Program Details : 
+
+**Name:** Bureau of Indian Affairs  
+
+ **Link:** <https://bugcrowd.com/bia-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bia.gov` 
+
+ **Reported:** 2022-12-31 18:54:43.134 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bia.gov** 
+
+### 5. Program Details : 
+
+**Name:** Bureau of Indian Affairs  
+
+ **Link:** <https://bugcrowd.com/bia-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** krkeeper 
+
+ **Points:** 0 
+
+ **Target:** ` *.bia.gov` 
+
+ **Reported:** 2023-01-02 01:56:33.082 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bia.gov** 
+
+### 6. Program Details : 
+
+**Name:** Optimizely 
+
+ **Link:** <https://bugcrowd.com/optimizely> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://app.welcomesoftware.com/` 
+
+ **Reported:** 2022-09-22 08:12:26.295 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://app.welcomesoftware.com/** 
+
+### 7. Program Details : 
+
+**Name:** Skyscanner 
+
+ **Link:** <https://bugcrowd.com/skyscanner> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.skyscanner.net` 
+
+ **Reported:** 2022-12-18 15:23:28.275 +0000 UTC 
+
+ **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.skyscanner.net** 
+
+### 8. Program Details : 
 
 **Name:** Xfinity Home & xFi 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Xfinity Home & xFi 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Bullish.com 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: https://bullish.com/** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** HubSpot 
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: *.hubspot.com** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** SEEK  
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: *.certsy.com** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** SEEK  
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: *.certsy.com** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** SEEK  
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: *.seek.com** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** SEEK  
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: *.seek.com** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** Atlassian 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: Crucible** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Atlassian 
 
@@ -221,7 +361,7 @@
 
  **Submission accepted on target: Atlassian Compass** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** Netflix 
 
@@ -241,7 +381,7 @@
 
  **Submission accepted** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** FoxyCart 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target: *-bugcrowd.foxycart.com (read below for details)** 
 
-### 14. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)` 
-
- **Reported:** 2022-11-17 08:58:39.026 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)** 
-
-### 15. Program Details : 
-
-**Name:** Cash App 
-
- **Link:** <https://bugcrowd.com/cashapp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.cash.app` 
-
- **Reported:** 2022-12-14 16:07:12.099 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.cash.app** 
-
-### 16. Program Details : 
-
-**Name:** Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata 
-
- **Link:** <https://bugcrowd.com/tyler-tech-data-insights> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-10-18 08:31:33.614 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 17. Program Details : 
-
-**Name:** U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/csb-vdp> 
-
- **Severity:** P1 
-
- **Hacker:** xSterben 
-
- **Points:** 0 
-
- **Target:** ` www.csb.gov` 
-
- **Reported:** 2022-12-28 22:50:40.777 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.csb.gov** 
-
-### 18. Program Details : 
-
-**Name:** ClickHouse 
-
- **Link:** <https://bugcrowd.com/clickhouse> 
-
- **Severity:** P4 
-
- **Hacker:** 403forbidden 
-
- **Points:** 5 
-
- **Target:** ` https://clickhouse.cloud/` 
-
- **Reported:** 2023-01-09 16:24:54.892 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://clickhouse.cloud/** 
-
-### 19. Program Details : 
-
-**Name:** Blue Jeans Network 
-
- **Link:** <https://bugcrowd.com/bluejeans> 
-
- **Severity:** P3 
-
- **Hacker:** NobleSix 
-
- **Points:** 10 
-
- **Target:** ` https://primetime.bluejeans.com` 
-
- **Reported:** 2020-12-07 11:21:35.652 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://primetime.bluejeans.com** 
-
-### 20. Program Details : 
-
-**Name:** Blue Jeans Network 
-
- **Link:** <https://bugcrowd.com/bluejeans> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 5 
-
- **Target:** ` BlueJeans Windows Client` 
-
- **Reported:** 2021-06-25 06:47:25.192 +0000 UTC 
-
- **Accepted:** 2023-01-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: BlueJeans Windows Client** 
-
-## End of Crowdstream for 2023-January-13 09:51:53
+## End of Crowdstream for 2023-January-14 09:51:41
