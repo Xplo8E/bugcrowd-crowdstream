@@ -1,311 +1,311 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-January-17 09:51:47
+## BugCrowd Crowdstream | Date:  2023-January-18 09:51:54
                             
 ### 1. Program Details : 
 
-**Name:** OLX Autos 
+**Name:** CoinDCX Managed Bug Bounty 
 
- **Link:** <https://bugcrowd.com/olxgroup> 
+ **Link:** <https://bugcrowd.com/coindcx-og> 
 
  **Severity:** P4 
 
- **Hacker:** sathishvjd 
+ **Hacker:** Elsfa7-110 
 
  **Points:** 0 
 
- **Target:** ` *.olxautos.cl` 
+ **Target:** ` https://coindcx.com/ - Main Webapp` 
 
- **Reported:** 2023-01-17 03:21:26.24 +0000 UTC 
+ **Reported:** 2023-01-06 13:58:34.139 +0000 UTC 
 
- **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.olxautos.cl** 
+ **Submission accepted on target: https://coindcx.com/ - Main Webapp** 
 
 ### 2. Program Details : 
 
-**Name:** OLX Autos 
+**Name:** Binance 
 
- **Link:** <https://bugcrowd.com/olxgroup> 
-
- **Severity:** P4 
-
- **Hacker:** ckalnarayan 
-
- **Points:** 0 
-
- **Target:** ` *.otoplus.com` 
-
- **Reported:** 2022-10-13 00:11:59.577 +0000 UTC 
-
- **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.otoplus.com** 
-
-### 3. Program Details : 
-
-**Name:** OLX Autos 
-
- **Link:** <https://bugcrowd.com/olxgroup> 
+ **Link:** <https://bugcrowd.com/binance> 
 
  **Severity:** P4 
 
  **Hacker:**  
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` *.olxautos.com.co` 
+ **Target:** ` *.binance.com` 
 
- **Reported:** 2023-01-07 04:51:21.024 +0000 UTC 
+ **Reported:** 2023-01-09 08:04:25.842 +0000 UTC 
 
- **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.olxautos.com.co** 
+ **Submission accepted on target: *.binance.com** 
+
+### 3. Program Details : 
+
+**Name:** Binance 
+
+ **Link:** <https://bugcrowd.com/binance> 
+
+ **Severity:** P4 
+
+ **Hacker:** naresheth 
+
+ **Points:** 5 
+
+ **Target:** ` Binance Connect` 
+
+ **Reported:** 2023-01-09 11:59:07.6 +0000 UTC 
+
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Binance Connect** 
 
 ### 4. Program Details : 
+
+**Name:** Binance 
+
+ **Link:** <https://bugcrowd.com/binance> 
+
+ **Severity:** P4 
+
+ **Hacker:** Gopal_ethical 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-03 16:25:15.818 +0000 UTC 
+
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 5. Program Details : 
 
 **Name:** Indeed 
 
  **Link:** <https://bugcrowd.com/indeed> 
 
- **Severity:** P4 
-
- **Hacker:** medusa_ 
-
- **Points:** 20 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2023-01-02 21:11:37.337 +0000 UTC 
-
- **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-### 5. Program Details : 
-
-**Name:** Arlo Cash Rewards 
-
- **Link:** <https://bugcrowd.com/arlo> 
-
  **Severity:** P2 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` https://employer.simplyhired-staging.com` 
 
- **Reported:** 2023-01-06 22:37:02.855 +0000 UTC 
+ **Reported:** 2023-01-13 04:54:23.191 +0000 UTC 
 
- **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://employer.simplyhired-staging.com** 
 
 ### 6. Program Details : 
 
-**Name:** Arlo Cash Rewards 
+**Name:** Cisco Meraki 
 
- **Link:** <https://bugcrowd.com/arlo> 
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
 
- **Severity:** P2 
+ **Severity:** P1 
 
- **Hacker:** BrandonReynolds 
+ **Hacker:**  
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` Arlo` 
+ **Target:** ` *.meraki.com` 
 
- **Reported:** 2023-01-10 04:50:45.55 +0000 UTC 
+ **Reported:** 2023-01-12 07:39:42.896 +0000 UTC 
 
  **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Arlo** 
+ **Submission accepted on target: *.meraki.com** 
 
 ### 7. Program Details : 
 
-**Name:** Facebook 
+**Name:** Etsy 
 
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/etsy> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** oli 
+ **Hacker:** KennY-S 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` ` 
+ **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
 
- **Reported:** 2023-01-16 17:55:07.263 +0000 UTC 
+ **Reported:** 2022-12-17 20:59:24.184 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
 
 ### 8. Program Details : 
 
-**Name:** FoxyCart 
+**Name:** Privacy and Civil Liberties Oversight Board: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/foxycart> 
+ **Link:** <https://bugcrowd.com/pclob-vdp> 
 
- **Severity:** P2 
+ **Severity:** P4 
 
- **Hacker:** nikhilkaushikop 
+ **Hacker:** chiara 
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` api.foxycart.com` 
+ **Target:** ` www.pclob.gov` 
 
- **Reported:** 2023-01-07 16:33:01.938 +0000 UTC 
+ **Reported:** 2021-07-30 13:24:37.956 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: api.foxycart.com** 
+ **Submission accepted on target: www.pclob.gov** 
 
 ### 9. Program Details : 
 
-**Name:** Netflix 
+**Name:** Privacy and Civil Liberties Oversight Board: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/netflix> 
+ **Link:** <https://bugcrowd.com/pclob-vdp> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` www.pclob.gov` 
 
- **Reported:** 2023-01-07 17:50:29.434 +0000 UTC 
+ **Reported:** 2021-08-20 19:00:46.268 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: www.pclob.gov** 
 
 ### 10. Program Details : 
 
-**Name:** Netflix 
+**Name:** Privacy and Civil Liberties Oversight Board: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/netflix> 
+ **Link:** <https://bugcrowd.com/pclob-vdp> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** Dhruval921 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` www.pclob.gov` 
 
- **Reported:** 2023-01-07 18:52:22.214 +0000 UTC 
+ **Reported:** 2021-07-31 14:51:04.268 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: www.pclob.gov** 
 
 ### 11. Program Details : 
 
-**Name:** Opera Public Bug Bounty 
+**Name:** The Scotts Miracle-Gro Company Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/opera> 
+ **Link:** <https://bugcrowd.com/thescottsmiraclerd> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** h_-_cker 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` marketplace.yoyogames.com` 
+ **Target:** ` *.bonniecabbageprogram.com` 
 
- **Reported:** 2022-12-21 19:59:37.809 +0000 UTC 
+ **Reported:** 2022-12-25 20:22:45.513 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: marketplace.yoyogames.com** 
+ **Submission accepted on target: *.bonniecabbageprogram.com** 
 
 ### 12. Program Details : 
 
-**Name:** Mastercard 
+**Name:** Pinterest 
 
- **Link:** <https://bugcrowd.com/mastercard> 
+ **Link:** <https://bugcrowd.com/pinterest> 
 
- **Severity:** P4 
+ **Severity:** P2 
 
- **Hacker:**  
+ **Hacker:** abitsec 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` donate.mastercard.com` 
+ **Target:** ` *.pinterest.com Web Apps` 
 
- **Reported:** 2023-01-05 13:59:00.362 +0000 UTC 
+ **Reported:** 2023-01-13 09:46:11.694 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: donate.mastercard.com** 
+ **Submission accepted on target: *.pinterest.com Web Apps** 
 
 ### 13. Program Details : 
 
-**Name:** Wise (ex-TransferWise) 
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/wise> 
+ **Link:** <https://bugcrowd.com/comcastvdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** valbrux 
+ **Hacker:** Deiz63 
 
- **Points:** 0 
+ **Points:** 40 
 
- **Target:** ` *.transferwise.com` 
+ **Target:** ` Mobile Apps	iOS and Android` 
 
- **Reported:** 2022-10-26 15:28:47.271 +0000 UTC 
+ **Reported:** 2022-12-22 02:42:28.598 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.transferwise.com** 
+ **Submission accepted on target: Mobile Apps	iOS and Android** 
 
 ### 14. Program Details : 
 
-**Name:** Bluehost  
+**Name:** United Airlines 
 
- **Link:** <https://bugcrowd.com/newfold-bluehost> 
+ **Link:** <https://bugcrowd.com/united-vdp> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** ahsan0007 
+ **Hacker:** GoatSniff 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` www.bluehost.com` 
+ **Target:** ` *.united.com` 
 
- **Reported:** 2022-12-27 14:47:09.524 +0000 UTC 
+ **Reported:** 2023-01-15 20:50:09.694 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.bluehost.com** 
+ **Submission accepted on target: *.united.com** 
 
 ### 15. Program Details : 
 
-**Name:** ClickHouse 
+**Name:** Facebook 
 
- **Link:** <https://bugcrowd.com/clickhouse> 
+ **Link:** <https://bugcrowd.com/facebook> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** 403forbidden 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` https://clickhouse.cloud/` 
+ **Target:** ` ` 
 
- **Reported:** 2023-01-14 08:38:36.307 +0000 UTC 
+ **Reported:** 2023-01-17 16:47:59.733 +0000 UTC 
 
- **Accepted:** 2023-01-16 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://clickhouse.cloud/** 
+ **Submission Claimed** 
 
 ### 16. Program Details : 
 
-**Name:** Facebook 
+**Name:** United Airlines 
 
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/united-vdp> 
 
  **Severity:** P4 
 
@@ -313,41 +313,21 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.united.com` 
 
- **Reported:** 2023-01-14 12:08:36.819 +0000 UTC 
+ **Reported:** 2023-01-12 16:13:14.581 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted on target: *.united.com** 
 
 ### 17. Program Details : 
 
-**Name:** Facebook 
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/comcastvdp> 
 
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-14 12:05:13.085 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 18. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
+ **Severity:** P2 
 
  **Hacker:**  
 
@@ -355,50 +335,70 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-14 12:06:38.365 +0000 UTC 
+ **Reported:** 2023-01-12 19:42:20.381 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 19. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P3 
-
- **Hacker:** sagarparmar121 
-
- **Points:** 0 
-
- **Target:** ` *.teslamotors.com` 
-
- **Reported:** 2023-01-05 16:31:31.841 +0000 UTC 
-
- **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.teslamotors.com** 
-
-### 20. Program Details : 
-
-**Name:** Optimizely 
-
- **Link:** <https://bugcrowd.com/optimizely> 
-
- **Severity:** P3 
-
- **Hacker:** nomanAli181 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-12-13 02:47:54.682 +0000 UTC 
-
- **Accepted:** 2023-01-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-## End of Crowdstream for 2023-January-17 09:51:47
+### 18. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-13 20:14:15.021 +0000 UTC 
+
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 19. Program Details : 
+
+**Name:** Telefónica Germany 
+
+ **Link:** <https://bugcrowd.com/telefonicavdp> 
+
+ **Severity:** P2 
+
+ **Hacker:** chrism22 
+
+ **Points:** 0 
+
+ **Target:** ` *.o2online.de` 
+
+ **Reported:** 2023-01-13 07:17:17.61 +0000 UTC 
+
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.o2online.de** 
+
+### 20. Program Details : 
+
+**Name:** Inter-American Foundation - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/iaf-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** 0xRAYAN 
+
+ **Points:** 0 
+
+ **Target:** ` *iaf.gov` 
+
+ **Reported:** 2023-01-10 22:50:05.588 +0000 UTC 
+
+ **Accepted:** 2023-01-17 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *iaf.gov** 
+
+## End of Crowdstream for 2023-January-18 09:51:54
