@@ -1,51 +1,131 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-January-20 09:51:57
+## BugCrowd Crowdstream | Date:  2023-January-21 09:51:41
                             
 ### 1. Program Details : 
 
-**Name:** Kistler Vulnerability Disclosure Program 
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/kistler-vdp> 
+ **Link:** <https://bugcrowd.com/datazoom> 
 
  **Severity:** P4 
 
- **Hacker:** ValluvarSploit 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` 91.223.79.0/24` 
+ **Target:** ` ` 
 
- **Reported:** 2022-09-07 10:38:19.667 +0000 UTC 
+ **Reported:** 2023-01-20 18:38:19.847 +0000 UTC 
 
- **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted on target: 91.223.79.0/24** 
+ **Submission Claimed** 
 
 ### 2. Program Details : 
 
-**Name:** Mastercard 
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/mastercard> 
+ **Link:** <https://bugcrowd.com/datazoom> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** JOKER_2020 
 
- **Points:** 0 
+ **Points:** 5 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-16 09:25:03.038 +0000 UTC 
+ **Reported:** 2023-01-20 18:38:19.762 +0000 UTC 
 
- **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission Claimed** 
 
 ### 3. Program Details : 
 
-**Name:** Xfinity Home & xFi 
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/xfinity-home> 
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P3 
+
+ **Hacker:** JOKER_2020 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-20 18:38:19.741 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 4. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P3 
+
+ **Hacker:** JOKER_2020 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-20 18:38:19.739 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 5. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P3 
+
+ **Hacker:** 2b2623 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-20 18:38:19.61 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 6. Program Details : 
+
+**Name:** Bureau of Land Management 
+
+ **Link:** <https://bugcrowd.com/blm-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** prok3z 
+
+ **Points:** 0 
+
+ **Target:** ` *.blm.gov` 
+
+ **Reported:** 2021-12-11 15:33:01.843 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.blm.gov** 
+
+### 7. Program Details : 
+
+**Name:** Tesla 
+
+ **Link:** <https://bugcrowd.com/tesla> 
 
  **Severity:** P4 
 
@@ -53,352 +133,272 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.tesla.com` 
 
- **Reported:** 2023-01-16 15:49:00.143 +0000 UTC 
-
- **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 4. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** rhack 
-
- **Points:** 0 
-
- **Target:** ` *.bedhead.com/uk/` 
-
- **Reported:** 2023-01-17 19:01:34.237 +0000 UTC 
+ **Reported:** 2023-01-04 22:40:38.889 +0000 UTC 
 
  **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.bedhead.com/uk/** 
-
-### 5. Program Details : 
-
-**Name:** Intercom 
-
- **Link:** <https://bugcrowd.com/intercom> 
-
- **Severity:** P3 
-
- **Hacker:** nikhilkaushikop 
-
- **Points:** 0 
-
- **Target:** ` https://api.intercom.io` 
-
- **Reported:** 2023-01-15 15:39:03.492 +0000 UTC 
-
- **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://api.intercom.io** 
-
-### 6. Program Details : 
-
-**Name:** Intercom 
-
- **Link:** <https://bugcrowd.com/intercom> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://api.intercom.io` 
-
- **Reported:** 2023-01-15 09:25:27.485 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://api.intercom.io** 
-
-### 7. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Credit Karma Canada iOS App` 
-
- **Reported:** 2022-07-26 14:15:15.746 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Credit Karma Canada iOS App** 
+ **Submission accepted on target: *.tesla.com** 
 
 ### 8. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/datazoom> 
 
  **Severity:** P3 
 
- **Hacker:** Heli9 
+ **Hacker:** Durvesh_Kolhe 
 
- **Points:** 0 
+ **Points:** 10 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-19 13:45:22.285 +0000 UTC 
+ **Reported:** 2023-01-20 18:38:19.819 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission Claimed** 
 
 ### 9. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** Okta 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/okta> 
 
  **Severity:** P3 
 
- **Hacker:** FalcoXYZ 
+ **Hacker:** aviel3185 
 
- **Points:** 0 
+ **Points:** 10 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-18 17:37:22.05 +0000 UTC 
+ **Reported:** 2023-01-16 14:47:07.433 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 10. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** Okta 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/okta> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** mysanismine 
+ **Hacker:** SnowflakeSmasher 
 
- **Points:** 0 
+ **Points:** 5 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-18 20:39:22.716 +0000 UTC 
+ **Reported:** 2022-11-30 22:16:13.004 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 11. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** Okta 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/okta> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
- **Hacker:** Heli9 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` bugcrowd-%username%-2.oktapreview.com` 
 
- **Reported:** 2023-01-19 13:35:02.215 +0000 UTC 
+ **Reported:** 2023-01-14 18:54:58.669 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: bugcrowd-%username%-2.oktapreview.com** 
 
 ### 12. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** Cengage VDP 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/cengage-vdp> 
 
  **Severity:** P3 
 
- **Hacker:** Heli9 
+ **Hacker:** sathishvjd 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` https://*.cengage.com` 
 
- **Reported:** 2023-01-19 14:20:56.314 +0000 UTC 
+ **Reported:** 2023-01-19 04:08:31.679 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://*.cengage.com** 
 
 ### 13. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/datazoom> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** Heli9 
+ **Hacker:** sa1tama0 
 
- **Points:** 0 
+ **Points:** 10 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-19 13:27:23.367 +0000 UTC 
+ **Reported:** 2023-01-20 18:38:19.616 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission Claimed** 
 
 ### 14. Program Details : 
 
-**Name:** Assa Abloy America's  
+**Name:** DataZoom Payment Processing 
 
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-18 23:32:27.413 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 15. Program Details : 
-
-**Name:** Assa Abloy America's  
-
- **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+ **Link:** <https://bugcrowd.com/datazoom> 
 
  **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** amitkh7888 
 
- **Points:** 0 
+ **Points:** 40 
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-18 17:14:37.056 +0000 UTC 
+ **Reported:** 2023-01-20 18:38:19.862 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 15. Program Details : 
+
+**Name:** Blue Jeans Network 
+
+ **Link:** <https://bugcrowd.com/bluejeans> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 20 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-16 21:58:50.786 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 16. Program Details : 
 
-**Name:** Pinterest 
+**Name:** Blue Jeans Network 
 
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P4 
-
- **Hacker:** abitsec 
-
- **Points:** 0 
-
- **Target:** ` *.pinterest.com Web Apps` 
-
- **Reported:** 2023-01-16 23:39:14.195 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.pinterest.com Web Apps** 
-
-### 17. Program Details : 
-
-**Name:** Step Public Applications 
-
- **Link:** <https://bugcrowd.com/step-public> 
+ **Link:** <https://bugcrowd.com/bluejeans> 
 
  **Severity:** P2 
 
  **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-08 00:28:19.371 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P4 
-
- **Hacker:** queenofcanada 
-
- **Points:** 5 
-
- **Target:** ` *.pinterest.com Web Apps` 
-
- **Reported:** 2023-01-13 12:14:34.989 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.pinterest.com Web Apps** 
-
-### 19. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Jira Cloud Mobile App for Android` 
-
- **Reported:** 2022-11-27 15:34:16.175 +0000 UTC 
-
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Cloud Mobile App for Android** 
-
-### 20. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:** Nagli 
 
  **Points:** 20 
 
- **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+ **Target:** ` ` 
 
- **Reported:** 2022-12-30 10:54:41.661 +0000 UTC 
+ **Reported:** 2023-01-16 22:06:47.37 +0000 UTC 
 
- **Accepted:** 2023-01-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+ **Submission accepted** 
 
-## End of Crowdstream for 2023-January-20 09:51:57
+### 17. Program Details : 
+
+**Name:** Department of Labor 
+
+ **Link:** <https://bugcrowd.com/dol-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** Lucaaasv 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.askjan.org` 
+
+ **Reported:** 2023-01-20 12:56:31.517 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.askjan.org** 
+
+### 18. Program Details : 
+
+**Name:** Aruba Networks Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:** lappsec 
+
+ **Points:** 10 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-01-09 22:58:08.217 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 19. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 5 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2022-09-21 17:56:44.269 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+### 20. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P3 
+
+ **Hacker:** queenofcanada 
+
+ **Points:** 10 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2022-10-14 23:34:33.268 +0000 UTC 
+
+ **Accepted:** 2023-01-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+## End of Crowdstream for 2023-January-21 09:51:41
