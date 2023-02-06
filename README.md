@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-February-05 09:52:00
+## BugCrowd Crowdstream | Date:  2023-February-06 09:51:50
                             
 ### 1. Program Details : 
+
+**Name:** Upwork 
+
+ **Link:** <https://bugcrowd.com/upwork> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-23 18:37:59.151 +0000 UTC 
+
+ **Accepted:** 2023-02-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 2. Program Details : 
+
+**Name:** Upwork 
+
+ **Link:** <https://bugcrowd.com/upwork> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-22 19:38:05.096 +0000 UTC 
+
+ **Accepted:** 2023-02-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 3. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P4 
+
+ **Hacker:** Chetanlakhara 
+
+ **Points:** 5 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-06 05:28:06.231 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 4. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P4 
+
+ **Hacker:** n00b1e 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-01 12:06:29.436 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 5. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P4 
+
+ **Hacker:** ranj3et 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-06 05:28:06.251 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 6. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P3 
+
+ **Hacker:** tejassss22 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-06 05:28:06.229 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 7. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any host/web property verified to be owned by Indeed` 
+
+ **Reported:** 2023-02-02 13:59:54.288 +0000 UTC 
+
+ **Accepted:** 2023-02-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+
+### 8. Program Details : 
 
 **Name:** Unity Technology 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: www.unity3d.com** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Unity Technology 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Unity Technology 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** Indeed 
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** Twilio 
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: app.segment.com** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** Opera Public Bug Bounty 
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: *.feednews.com** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** lululemon 
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target: *.lululemon.com** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** Netflix 
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: Netflix Mobile Application for Android** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** Assa Abloy America's  
 
@@ -181,7 +321,7 @@
 
  **Submission accepted** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** Atlassian 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Assa Abloy America's  
 
@@ -221,7 +361,7 @@
 
  **Submission accepted** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** iFood: Bug Bounty Program 
 
@@ -241,7 +381,7 @@
 
  **Submission accepted** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** iFood: Bug Bounty Program 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted** 
 
-### 14. Program Details : 
-
-**Name:** iFood: Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/ifood-og> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-28 21:29:37.524 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 15. Program Details : 
-
-**Name:** iFood: Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/ifood-og> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-28 21:47:39.1 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 16. Program Details : 
-
-**Name:** iFood: Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/ifood-og> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-28 21:39:23.451 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 17. Program Details : 
-
-**Name:** Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata 
-
- **Link:** <https://bugcrowd.com/tyler-tech-data-insights> 
-
- **Severity:** P1 
-
- **Hacker:** OrwaGodfather 
-
- **Points:** 40 
-
- **Target:** ` ` 
-
- **Reported:** 2023-01-28 01:22:14.443 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata 
-
- **Link:** <https://bugcrowd.com/tyler-tech-data-insights> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-01 21:39:28.24 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 19. Program Details : 
-
-**Name:** Takeaway.com 
-
- **Link:** <https://bugcrowd.com/takeaway> 
-
- **Severity:** P3 
-
- **Hacker:** 0x999 
-
- **Points:** 10 
-
- **Target:** ` *.justeattakeaway.com` 
-
- **Reported:** 2023-01-31 12:31:16.428 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.justeattakeaway.com** 
-
-### 20. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` www.tripadvisor.com` 
-
- **Reported:** 2023-01-25 00:27:30.037 +0000 UTC 
-
- **Accepted:** 2023-02-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.tripadvisor.com** 
-
-## End of Crowdstream for 2023-February-05 09:52:00
+## End of Crowdstream for 2023-February-06 09:51:50
