@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-February-12 09:51:55
+## BugCrowd Crowdstream | Date:  2023-February-13 09:51:52
                             
 ### 1. Program Details : 
+
+**Name:** SoundCloud 
+
+ **Link:** <https://bugcrowd.com/soundcloud> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 5 
+
+ **Target:** ` *.soundcloud.com` 
+
+ **Reported:** 2023-01-21 20:14:51.248 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.soundcloud.com** 
+
+### 2. Program Details : 
+
+**Name:** SoundCloud 
+
+ **Link:** <https://bugcrowd.com/soundcloud> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 5 
+
+ **Target:** ` *.soundcloud.com` 
+
+ **Reported:** 2023-01-21 20:20:40.476 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.soundcloud.com** 
+
+### 3. Program Details : 
+
+**Name:** SoundCloud 
+
+ **Link:** <https://bugcrowd.com/soundcloud> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 5 
+
+ **Target:** ` *.soundcloud.com` 
+
+ **Reported:** 2023-01-21 20:29:09.52 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.soundcloud.com** 
+
+### 4. Program Details : 
+
+**Name:** Cloudways 
+
+ **Link:** <https://bugcrowd.com/cloudways> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://www.cloudways.com/` 
+
+ **Reported:** 2023-01-03 18:40:16.108 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.cloudways.com/** 
+
+### 5. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:** Mr_JK 
+
+ **Points:** 5 
+
+ **Target:** ` https://clickhouse.cloud/` 
+
+ **Reported:** 2023-02-11 04:21:23.853 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://clickhouse.cloud/** 
+
+### 6. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:** Teles 
+
+ **Points:** 5 
+
+ **Target:** ` https://clickhouse.cloud/` 
+
+ **Reported:** 2023-02-07 11:54:06.475 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://clickhouse.cloud/** 
+
+### 7. Program Details : 
+
+**Name:** Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata 
+
+ **Link:** <https://bugcrowd.com/tyler-tech-data-insights> 
+
+ **Severity:** P3 
+
+ **Hacker:** AnupamAs1 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-12-30 19:14:58.828 +0000 UTC 
+
+ **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 8. Program Details : 
 
 **Name:** Keeper Security Public Bounty Program 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: Keeper Web Vault (EU)** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Twilio 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Kenna Security 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -221,7 +361,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -241,7 +381,7 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target: *.uspto.gov** 
 
-### 14. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-02-02 13:57:43.841 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 15. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-02-02 16:47:55.577 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 16. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** CyberKey 
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-01-30 15:58:58.298 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 17. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** Heli9 
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-01-30 17:37:41.767 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 18. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-02-02 17:53:05.558 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 19. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-01-30 22:46:23.23 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-### 20. Program Details : 
-
-**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
-
- **Link:** <https://bugcrowd.com/uspto-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** ravimahile 
-
- **Points:** 0 
-
- **Target:** ` *.uspto.gov` 
-
- **Reported:** 2023-01-31 10:59:21.436 +0000 UTC 
-
- **Accepted:** 2023-02-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.uspto.gov** 
-
-## End of Crowdstream for 2023-February-12 09:51:55
+## End of Crowdstream for 2023-February-13 09:51:52
