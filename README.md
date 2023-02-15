@@ -1,11 +1,131 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-February-14 09:51:54
+## BugCrowd Crowdstream | Date:  2023-February-15 09:51:49
                             
 ### 1. Program Details : 
 
-**Name:** Bitdefender 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/bitdefender> 
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** UpdateLap 
+
+ **Points:** 0 
+
+ **Target:** ` Jira Software Server` 
+
+ **Reported:** 2023-02-10 15:13:53.669 +0000 UTC 
+
+ **Accepted:** 2023-02-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Jira Software Server** 
+
+### 2. Program Details : 
+
+**Name:** OLX Autos 
+
+ **Link:** <https://bugcrowd.com/olxgroup> 
+
+ **Severity:** P3 
+
+ **Hacker:** RedFoxx 
+
+ **Points:** 0 
+
+ **Target:** ` *.olxautos.cl` 
+
+ **Reported:** 2023-02-13 23:50:15.523 +0000 UTC 
+
+ **Accepted:** 2023-02-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.olxautos.cl** 
+
+### 3. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://employer.simplyhired-staging.com` 
+
+ **Reported:** 2023-02-11 16:12:06.614 +0000 UTC 
+
+ **Accepted:** 2023-02-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://employer.simplyhired-staging.com** 
+
+### 4. Program Details : 
+
+**Name:** OLX Autos 
+
+ **Link:** <https://bugcrowd.com/olxgroup> 
+
+ **Severity:** P4 
+
+ **Hacker:** indupriya 
+
+ **Points:** 0 
+
+ **Target:** ` *.olxautos.co.id` 
+
+ **Reported:** 2023-01-29 16:39:42.027 +0000 UTC 
+
+ **Accepted:** 2023-02-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.olxautos.co.id** 
+
+### 5. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any Nine owned asset` 
+
+ **Reported:** 2023-02-11 16:13:27.305 +0000 UTC 
+
+ **Accepted:** 2023-02-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Nine owned asset** 
+
+### 6. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:** rahul117 
+
+ **Points:** 0 
+
+ **Target:** ` Any Nine owned asset` 
+
+ **Reported:** 2023-02-13 10:12:05.778 +0000 UTC 
+
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Nine owned asset** 
+
+### 7. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
 
  **Severity:** P3 
 
@@ -13,133 +133,13 @@
 
  **Points:** 0 
 
- **Target:** ` *.bitdefender.com` 
+ **Target:** ` Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance` 
 
- **Reported:** 2023-01-29 21:09:42.407 +0000 UTC 
-
- **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bitdefender.com** 
-
-### 2. Program Details : 
-
-**Name:** Bitdefender 
-
- **Link:** <https://bugcrowd.com/bitdefender> 
-
- **Severity:** P3 
-
- **Hacker:** 0xm7lk 
-
- **Points:** 10 
-
- **Target:** ` *.bitdefender.net` 
-
- **Reported:** 2023-02-05 17:31:27.096 +0000 UTC 
+ **Reported:** 2023-02-10 16:39:13.137 +0000 UTC 
 
  **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.bitdefender.net** 
-
-### 3. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:** gauravbhatia989 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-11-13 16:12:20.392 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 4. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** brahim_nah 
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2023-02-07 01:15:15.931 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 5. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P1 
-
- **Hacker:** deepmarketer666 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-10 08:23:10.381 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 6. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P3 
-
- **Hacker:** ToradaGamil 
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2023-02-10 13:08:36.174 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 7. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P3 
-
- **Hacker:** TU-Raiders 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-11 14:01:08.169 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted** 
+ **Submission accepted on target: Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance** 
 
 ### 8. Program Details : 
 
@@ -147,258 +147,258 @@
 
  **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** farhn0x 
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-11 12:58:39.017 +0000 UTC 
+ **Reported:** 2023-02-14 09:40:01.729 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 9. Program Details : 
 
-**Name:** Aruba Networks Public Program 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` *.arubanetworks.com` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-01-26 23:54:09.573 +0000 UTC 
+ **Reported:** 2023-02-13 19:25:40.466 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.arubanetworks.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 10. Program Details : 
 
-**Name:** Unilever Vulnerability Disclosure Program 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/unilever-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P2 
+ **Severity:** P1 
 
- **Hacker:** 0xgalal 
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` www.ushopbd.com` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-01 19:52:32.925 +0000 UTC 
+ **Reported:** 2023-02-14 09:25:25.643 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.ushopbd.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 11. Program Details : 
 
-**Name:** United Airlines 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-01-28 04:02:16.064 +0000 UTC 
+ **Reported:** 2023-02-14 13:05:01.685 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 12. Program Details : 
 
-**Name:** Unilever Vulnerability Disclosure Program 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/unilever-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-12 21:47:55.012 +0000 UTC 
+ **Reported:** 2023-02-14 09:34:59.744 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 13. Program Details : 
 
-**Name:** Sophos 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** Gee-netics 
+ **Hacker:** Dakuu 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Intercept X Endpoint` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-09 03:20:28.93 +0000 UTC 
+ **Reported:** 2023-02-14 12:51:51.817 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Intercept X Endpoint** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 14. Program Details : 
 
-**Name:** Facebook 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-13 12:03:48.204 +0000 UTC 
+ **Reported:** 2023-02-14 10:04:51.933 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 15. Program Details : 
 
-**Name:** Skyscanner 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/skyscanner> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` skyscanner.net/*` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-07 19:01:29.512 +0000 UTC 
+ **Reported:** 2023-02-14 09:55:09.045 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: skyscanner.net/*** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 16. Program Details : 
 
-**Name:** Opera Public Bug Bounty 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/opera> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
+
+ **Hacker:** Dakuu 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-14 08:39:29.678 +0000 UTC 
+
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 17. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Dakuu 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-14 08:12:13.302 +0000 UTC 
+
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 18. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Dakuu 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-14 09:13:02.477 +0000 UTC 
+
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 19. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Dakuu 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-14 09:01:14.493 +0000 UTC 
+
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 20. Program Details : 
+
+**Name:** Pinterest 
+
+ **Link:** <https://bugcrowd.com/pinterest> 
+
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` *.opera.com` 
+ **Target:** ` *.pinterest.com Web Apps` 
 
- **Reported:** 2023-02-10 01:20:39.208 +0000 UTC 
+ **Reported:** 2023-01-05 01:15:34.277 +0000 UTC 
 
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.opera.com** 
+ **Submission accepted on target: *.pinterest.com Web Apps** 
 
-### 17. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P3 
-
- **Hacker:** M7arm4n 
-
- **Points:** 10 
-
- **Target:** ` *.dailyadvent.com` 
-
- **Reported:** 2023-02-10 12:18:53.153 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.dailyadvent.com** 
-
-### 18. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 5 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2023-01-21 20:14:51.248 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-### 19. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 5 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2023-01-21 20:20:40.476 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-### 20. Program Details : 
-
-**Name:** SoundCloud 
-
- **Link:** <https://bugcrowd.com/soundcloud> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 5 
-
- **Target:** ` *.soundcloud.com` 
-
- **Reported:** 2023-01-21 20:29:09.52 +0000 UTC 
-
- **Accepted:** 2023-02-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.soundcloud.com** 
-
-## End of Crowdstream for 2023-February-14 09:51:54
+## End of Crowdstream for 2023-February-15 09:51:49
