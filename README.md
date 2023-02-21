@@ -1,404 +1,404 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-February-20 09:52:00
+## BugCrowd Crowdstream | Date:  2023-February-21 09:51:53
                             
 ### 1. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Western Union 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/westernunion> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** UpdateLap 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Jira Service Management Server` 
+ **Target:** ` wucare.westernunion.com` 
 
- **Reported:** 2021-12-27 11:57:53.672 +0000 UTC 
+ **Reported:** 2022-06-09 08:33:33.881 +0000 UTC 
 
- **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Service Management Server** 
+ **Submission accepted on target: wucare.westernunion.com** 
 
 ### 2. Program Details : 
 
-**Name:** Web.com 
+**Name:** Western Union 
 
- **Link:** <https://bugcrowd.com/webdotcom> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** `  www.web.com` 
-
- **Reported:** 2023-01-30 22:25:49.01 +0000 UTC 
-
- **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  www.web.com** 
-
-### 3. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/westernunion> 
 
  **Severity:** P4 
 
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-18 12:07:24.937 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 4. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-18 12:06:00.619 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 5. Program Details : 
-
-**Name:** Asana 
-
- **Link:** <https://bugcrowd.com/asana> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.asana.biz` 
-
- **Reported:** 2023-02-15 03:44:57.489 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.asana.biz** 
-
-### 6. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
-
- **Reported:** 2023-02-13 23:02:44.266 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
-
-### 7. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:** MBZ0x7 
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2023-02-13 11:05:25.724 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 8. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2023-01-25 23:53:28.872 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 9. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Authy Desktop app` 
-
- **Reported:** 2023-02-16 21:29:53.071 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Authy Desktop app** 
-
-### 10. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2023-01-28 11:27:45.145 +0000 UTC 
-
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 11. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P4 
-
- **Hacker:**  
+ **Hacker:** lemos 
 
  **Points:** 5 
 
- **Target:** ` https://sendgrid.com` 
+ **Target:** ` https://www.westernunion.com` 
 
- **Reported:** 2023-02-14 07:31:58.55 +0000 UTC 
+ **Reported:** 2022-07-19 19:38:11.208 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://sendgrid.com** 
+ **Submission accepted on target: https://www.westernunion.com** 
 
-### 12. Program Details : 
+### 3. Program Details : 
 
-**Name:** Twilio 
+**Name:** Western Union 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/westernunion> 
 
  **Severity:** P3 
+
+ **Hacker:** djojoe 
+
+ **Points:** 10 
+
+ **Target:** ` ` 
+
+ **Reported:** 2022-09-07 16:25:51.277 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Western Union 
+
+ **Link:** <https://bugcrowd.com/westernunion> 
+
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Twilio Console` 
+ **Target:** ` https://www.westernunion.com` 
 
- **Reported:** 2023-01-24 08:20:22.504 +0000 UTC 
+ **Reported:** 2022-09-02 15:36:12.216 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Twilio Console** 
+ **Submission accepted on target: https://www.westernunion.com** 
 
-### 13. Program Details : 
+### 5. Program Details : 
 
-**Name:** Square 
+**Name:** Western Union 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/westernunion> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
  **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://www.westernunion.com` 
+
+ **Reported:** 2022-06-10 11:53:31.131 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.westernunion.com** 
+
+### 6. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P2 
+
+ **Hacker:** naamane 
+
+ **Points:** 20 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-27 15:00:39.677 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 7. Program Details : 
+
+**Name:** Bullish.com 
+
+ **Link:** <https://bugcrowd.com/bullish> 
+
+ **Severity:** P4 
+
+ **Hacker:** sumgr0 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-02-08 10:44:53.22 +0000 UTC 
+ **Reported:** 2023-02-17 19:25:59.59 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 8. Program Details : 
+
+**Name:** Cengage VDP 
+
+ **Link:** <https://bugcrowd.com/cengage-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:** dk4trin 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.cengage.com` 
+
+ **Reported:** 2023-02-17 01:07:05.585 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.cengage.com** 
+
+### 9. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Dakuu 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-18 09:16:53.39 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 10. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** boyzdata0x01 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-18 11:39:37.98 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 11. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** elsokary0x00 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-18 19:10:19.572 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 12. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** Shroud 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-02-03 17:25:45.221 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 13. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** Foilman 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-16 05:26:04.474 +0000 UTC 
+
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 14. Program Details : 
 
-**Name:** Square 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** n00b1e 
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` Square Point of Sale Mobile Application for Android` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-01-06 08:21:46.594 +0000 UTC 
+ **Reported:** 2023-02-20 09:16:26.504 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-21 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Square Point of Sale Mobile Application for Android** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 15. Program Details : 
 
-**Name:** 23andMe 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/twentythree-and-me> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` you.cag.us-west-2.int.23andme.us` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-01-14 18:10:20.188 +0000 UTC 
+ **Reported:** 2023-02-20 07:27:46.04 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: you.cag.us-west-2.int.23andme.us** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 16. Program Details : 
 
-**Name:** Twilio 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P2 
+ **Severity:** P1 
 
- **Hacker:** danieloizo 
+ **Hacker:** Shroud 
 
  **Points:** 0 
 
- **Target:** ` app.segment.com` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-01-11 13:55:58.75 +0000 UTC 
+ **Reported:** 2023-01-28 11:50:23.733 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: app.segment.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 17. Program Details : 
 
-**Name:** Aruba Networks Public Program 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** Nagli 
+ **Hacker:** Dakuu 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` *.arubanetworks.com` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-17 11:35:35.389 +0000 UTC 
+ **Reported:** 2023-02-17 19:03:16.047 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.arubanetworks.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 18. Program Details : 
 
-**Name:** Cengage VDP 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/cengage-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` https://accounts-stage.infosec-iq.com/` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-16 07:23:03.167 +0000 UTC 
+ **Reported:** 2023-02-17 18:43:16.156 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://accounts-stage.infosec-iq.com/** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 19. Program Details : 
 
-**Name:** Cengage VDP 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/cengage-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:** HariHawks 
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` https://dev.infosec-skills.com/` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-16 05:43:29.929 +0000 UTC 
+ **Reported:** 2023-02-20 09:26:44.559 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://dev.infosec-skills.com/** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 20. Program Details : 
 
-**Name:** Cengage VDP 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/cengage-vdp> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** Dakuu 
 
  **Points:** 0 
 
- **Target:** ` https://dev.infosec-iq.com/` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-15 10:55:53.695 +0000 UTC 
+ **Reported:** 2023-02-18 07:55:46.649 +0000 UTC 
 
- **Accepted:** 2023-02-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-20 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://dev.infosec-iq.com/** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-## End of Crowdstream for 2023-February-20 09:52:00
+## End of Crowdstream for 2023-February-21 09:51:53
