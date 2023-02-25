@@ -1,107 +1,7 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-February-24 09:52:03
+## BugCrowd Crowdstream | Date:  2023-February-25 09:51:48
                             
 ### 1. Program Details : 
-
-**Name:** Rakuten VDP 
-
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
-
- **Severity:** P1 
-
- **Hacker:** bugoverflow 
-
- **Points:** 0 
-
- **Target:** ` *.rakuten.com` 
-
- **Reported:** 2023-02-23 13:56:03.823 +0000 UTC 
-
- **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.rakuten.com** 
-
-### 2. Program Details : 
-
-**Name:** Bugcrowd 
-
- **Link:** <https://bugcrowd.com/bugcrowd> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-16 04:54:09.656 +0000 UTC 
-
- **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 3. Program Details : 
-
-**Name:** Bugcrowd 
-
- **Link:** <https://bugcrowd.com/bugcrowd> 
-
- **Severity:** P4 
-
- **Hacker:** eugene1000x 
-
- **Points:** 5 
-
- **Target:** ` Crowdcontrol` 
-
- **Reported:** 2023-02-13 07:04:47.834 +0000 UTC 
-
- **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Crowdcontrol** 
-
-### 4. Program Details : 
-
-**Name:** Statuspage 
-
- **Link:** <https://bugcrowd.com/statuspage> 
-
- **Severity:** P3 
-
- **Hacker:** bananacake 
-
- **Points:** 0 
-
- **Target:** ` manage.statuspage.io` 
-
- **Reported:** 2023-02-09 21:47:15.144 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: manage.statuspage.io** 
-
-### 5. Program Details : 
-
-**Name:** Nine Entertainment Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** ferreira 
-
- **Points:** 0 
-
- **Target:** ` afr.com` 
-
- **Reported:** 2023-02-22 10:33:46.359 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: afr.com** 
-
-### 6. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -115,19 +15,19 @@
 
  **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-23 16:33:41.828 +0000 UTC 
+ **Reported:** 2023-02-22 15:30:08.559 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 7. Program Details : 
+### 2. Program Details : 
 
 **Name:** United Airlines 
 
  **Link:** <https://bugcrowd.com/united-vdp> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
  **Hacker:**  
 
@@ -135,57 +35,17 @@
 
  **Target:** ` *.ual.com` 
 
- **Reported:** 2023-02-10 17:46:07.45 +0000 UTC 
+ **Reported:** 2023-02-11 06:25:49.835 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ual.com** 
 
-### 8. Program Details : 
+### 3. Program Details : 
 
-**Name:** Twilio 
+**Name:** Netflix 
 
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P2 
-
- **Hacker:** danieloizo 
-
- **Points:** 0 
-
- **Target:** ` app.segment.com` 
-
- **Reported:** 2023-01-12 09:55:08.657 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: app.segment.com** 
-
-### 9. Program Details : 
-
-**Name:** DataZoom Payment Processing 
-
- **Link:** <https://bugcrowd.com/datazoom> 
-
- **Severity:** P1 
-
- **Hacker:** Kullai116 
-
- **Points:** 40 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-23 16:29:32.092 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 10. Program Details : 
-
-**Name:** Braze Public BB 
-
- **Link:** <https://bugcrowd.com/braze-bb> 
+ **Link:** <https://bugcrowd.com/netflix> 
 
  **Severity:** P4 
 
@@ -193,39 +53,19 @@
 
  **Points:** 0 
 
- **Target:** ` http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com` 
+ **Target:** ` www.netflix.com` 
 
- **Reported:** 2022-12-20 10:00:03.832 +0000 UTC 
+ **Reported:** 2023-02-16 10:43:54.365 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com** 
+ **Submission accepted on target: www.netflix.com** 
 
-### 11. Program Details : 
+### 4. Program Details : 
 
-**Name:** Aruba Networks Public Program 
+**Name:** Cengage VDP 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P3 
-
- **Hacker:** mizzleneupane 
-
- **Points:** 10 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2023-02-23 06:05:08.728 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 12. Program Details : 
-
-**Name:** Cloudways 
-
- **Link:** <https://bugcrowd.com/cloudways> 
+ **Link:** <https://bugcrowd.com/cengage-vdp> 
 
  **Severity:** P4 
 
@@ -233,172 +73,332 @@
 
  **Points:** 0 
 
- **Target:** ` https://www.cloudways.com/` 
+ **Target:** ` cengage.com.au` 
 
- **Reported:** 2022-10-24 21:30:07.931 +0000 UTC 
+ **Reported:** 2023-02-15 18:47:14.78 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://www.cloudways.com/** 
+ **Submission accepted on target: cengage.com.au** 
 
-### 13. Program Details : 
+### 5. Program Details : 
 
-**Name:** ClickHouse 
+**Name:** iFood: Bug Bounty Program 
 
- **Link:** <https://bugcrowd.com/clickhouse> 
+ **Link:** <https://bugcrowd.com/ifood-og> 
 
  **Severity:** P4 
 
- **Hacker:** danlark 
+ **Hacker:** bruzistico 
 
  **Points:** 5 
 
+ **Target:** ` https://www.ifood.com.br` 
+
+ **Reported:** 2022-12-31 00:20:43.479 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.ifood.com.br** 
+
+### 6. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2023-02-23 06:06:48.638 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 7. Program Details : 
+
+**Name:** Cengage VDP 
+
+ **Link:** <https://bugcrowd.com/cengage-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** dk4trin 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.cengage.com` 
+
+ **Reported:** 2023-02-23 16:23:43.318 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.cengage.com** 
+
+### 8. Program Details : 
+
+**Name:** Square 
+
+ **Link:** <https://bugcrowd.com/square> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.squareup.com` 
+
+ **Reported:** 2023-02-20 07:10:08.577 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.squareup.com** 
+
+### 9. Program Details : 
+
+**Name:** Cash App 
+
+ **Link:** <https://bugcrowd.com/cashapp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.joinverse.com` 
+
+ **Reported:** 2023-02-19 10:36:47.308 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.joinverse.com** 
+
+### 10. Program Details : 
+
+**Name:** Imperva Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.imperva.com` 
+
+ **Reported:** 2023-02-15 00:39:28.275 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.imperva.com** 
+
+### 11. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2023-02-11 06:29:38.598 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 12. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any localized version of www.tripadvisor.com available from the site's header or footer` 
+
+ **Reported:** 2023-02-22 23:36:43.239 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any localized version of www.tripadvisor.com available from the site's header or footer** 
+
+### 13. Program Details : 
+
+**Name:** Assa Abloy America's  
+
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** praveenrajn 
+
+ **Points:** 0 
+
  **Target:** ` ` 
 
- **Reported:** 2023-02-22 00:03:20.299 +0000 UTC 
+ **Reported:** 2023-02-01 12:17:02.515 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 14. Program Details : 
 
-**Name:** Sophos 
+**Name:** Assa Abloy America's  
 
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** shra1 
 
  **Points:** 0 
 
- **Target:** ` *.sophos.com` 
+ **Target:** ` ` 
 
- **Reported:** 2023-02-18 10:23:05.425 +0000 UTC 
+ **Reported:** 2023-02-14 11:47:43.521 +0000 UTC 
 
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.sophos.com** 
+ **Submission accepted** 
 
 ### 15. Program Details : 
 
-**Name:** Telefónica Germany 
+**Name:** Assa Abloy America's  
 
- **Link:** <https://bugcrowd.com/telefonicavdp> 
-
- **Severity:** P4 
-
- **Hacker:** Shroud 
-
- **Points:** 0 
-
- **Target:** ` *.telefonica.de` 
-
- **Reported:** 2023-02-13 11:03:15.745 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.telefonica.de** 
-
-### 16. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-02-19 09:03:36.223 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
-
-### 17. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-22 12:05:36.579 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 18. Program Details : 
-
-**Name:** Nine Entertainment Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** ferreira 
-
- **Points:** 0 
-
- **Target:** ` smh.com.au` 
-
- **Reported:** 2023-02-22 10:32:17.212 +0000 UTC 
-
- **Accepted:** 2023-02-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: smh.com.au** 
-
-### 19. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** rockysec 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-02-17 19:33:59.511 +0000 UTC 
+ **Reported:** 2023-01-26 05:11:23.346 +0000 UTC 
 
- **Accepted:** 2023-02-22 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 16. Program Details : 
+
+**Name:** Assa Abloy America's  
+
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** rockysec 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-23 01:32:51.039 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 17. Program Details : 
+
+**Name:** Assa Abloy America's  
+
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** rockysec 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-26 02:47:12.519 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 18. Program Details : 
+
+**Name:** Assa Abloy America's  
+
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** mysanismine 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-23 23:12:06.514 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 19. Program Details : 
+
+**Name:** Assa Abloy America's  
+
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** praveenrajn 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-03 12:40:56.334 +0000 UTC 
+
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 20. Program Details : 
 
-**Name:** Square 
+**Name:** Assa Abloy America's  
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/assaabloy-americas-vdp> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** mysanismine 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-02-17 18:55:14.127 +0000 UTC 
+ **Reported:** 2023-01-24 22:31:44.916 +0000 UTC 
 
- **Accepted:** 2023-02-22 00:00:00 +0000 UTC 
+ **Accepted:** 2023-02-24 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-## End of Crowdstream for 2023-February-24 09:52:03
+## End of Crowdstream for 2023-February-25 09:51:48
