@@ -1,131 +1,191 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-March-06 09:52:00
+## BugCrowd Crowdstream | Date:  2023-March-07 09:52:07
                             
 ### 1. Program Details : 
 
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
+**Name:** TripAdvisor  
 
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** flag_c0 
 
- **Points:** 0 
+ **Points:** 5 
 
- **Target:** ` Any Deutsche Bank Asset` 
+ **Target:** ` www.tripadvisor.com` 
 
- **Reported:** 2023-01-31 17:58:29.4 +0000 UTC 
+ **Reported:** 2023-03-02 07:11:27.642 +0000 UTC 
 
- **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any Deutsche Bank Asset** 
+ **Submission accepted on target: www.tripadvisor.com** 
 
 ### 2. Program Details : 
 
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
+**Name:** Opera Public Bug Bounty 
 
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+ **Link:** <https://bugcrowd.com/opera> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** h_-_cker 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` Any Deutsche Bank Asset` 
+ **Target:** ` marketplace.yoyogames.com` 
 
- **Reported:** 2023-02-08 09:14:21.879 +0000 UTC 
+ **Reported:** 2023-03-05 08:41:24.651 +0000 UTC 
 
- **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any Deutsche Bank Asset** 
+ **Submission accepted on target: marketplace.yoyogames.com** 
 
 ### 3. Program Details : 
 
-**Name:** Nine Entertainment Vulnerability Disclosure Program 
+**Name:** Xfinity Home & xFi 
 
- **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+ **Link:** <https://bugcrowd.com/xfinity-home> 
 
  **Severity:** P3 
 
- **Hacker:** ferreira 
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` smh.com.au` 
+ **Target:** ` ` 
 
- **Reported:** 2023-03-01 22:35:37.515 +0000 UTC 
+ **Reported:** 2023-03-02 15:56:54.923 +0000 UTC 
 
- **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted on target: smh.com.au** 
+ **Submission accepted** 
 
 ### 4. Program Details : 
 
-**Name:** SEEK  
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/seek> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
  **Severity:** P4 
 
- **Hacker:** automne 
+ **Hacker:** Prateek_Thakare 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` *.seek.com.au` 
+ **Target:** ` https://employer.simplyhired-staging.com` 
 
- **Reported:** 2023-02-26 02:46:33.132 +0000 UTC 
+ **Reported:** 2023-02-08 19:27:43.872 +0000 UTC 
 
- **Accepted:** 2023-03-05 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.seek.com.au** 
+ **Submission accepted on target: https://employer.simplyhired-staging.com** 
 
 ### 5. Program Details : 
 
-**Name:** SEEK  
+**Name:** ClickHouse 
 
- **Link:** <https://bugcrowd.com/seek> 
+ **Link:** <https://bugcrowd.com/clickhouse> 
 
- **Severity:** P4 
+ **Severity:** P5 
 
- **Hacker:** 0xdln 
+ **Hacker:** AadeshJain 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` https://clickhouse.cloud/` 
 
- **Reported:** 2023-02-26 11:08:27.274 +0000 UTC 
+ **Reported:** 2023-03-04 18:59:20.766 +0000 UTC 
 
- **Accepted:** 2023-03-05 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://clickhouse.cloud/** 
 
 ### 6. Program Details : 
 
-**Name:** SEEK  
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/seek> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
- **Severity:** P4 
+ **Severity:** P2 
 
- **Hacker:**  
+ **Hacker:** LxCrack 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Any host/web property verified to be owned by Indeed` 
 
- **Reported:** 2023-02-22 23:00:46.176 +0000 UTC 
+ **Reported:** 2023-02-24 17:12:54.394 +0000 UTC 
 
- **Accepted:** 2023-03-05 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
 
 ### 7. Program Details : 
 
-**Name:** Facebook 
+**Name:** U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/csb-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** H4K3R 
+
+ **Points:** 0 
+
+ **Target:** ` www.csb.gov` 
+
+ **Reported:** 2022-12-31 02:49:07.138 +0000 UTC 
+
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.csb.gov** 
+
+### 8. Program Details : 
+
+**Name:** U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/csb-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** JQR 
+
+ **Points:** 0 
+
+ **Target:** ` www.csb.gov` 
+
+ **Reported:** 2023-02-08 22:29:32.905 +0000 UTC 
+
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.csb.gov** 
+
+### 9. Program Details : 
+
+**Name:** U.S. Chemical Safety and Hazard Investigation Board - Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/csb-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** Satyam_22 
+
+ **Points:** 0 
+
+ **Target:** ` www.csb.gov` 
+
+ **Reported:** 2023-01-01 14:12:22.22 +0000 UTC 
+
+ **Accepted:** 2023-03-07 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.csb.gov** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
 
  **Severity:** P4 
 
@@ -133,59 +193,19 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
 
- **Reported:** 2023-03-03 12:03:03.175 +0000 UTC 
+ **Reported:** 2023-01-22 23:53:10.214 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 8. Program Details : 
+### 11. Program Details : 
 
-**Name:** Atlassian-Built Apps 
+**Name:** FoxyCart 
 
- **Link:** <https://bugcrowd.com/atlassianapps> 
-
- **Severity:** P3 
-
- **Hacker:** Captain_hook 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-13 13:09:06.497 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 9. Program Details : 
-
-**Name:** Atlassian-Built Apps 
-
- **Link:** <https://bugcrowd.com/atlassianapps> 
-
- **Severity:** P1 
-
- **Hacker:** dogwhohacks 
-
- **Points:** 40 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-03 00:59:00.303 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 10. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/foxycart> 
 
  **Severity:** P3 
 
@@ -193,15 +213,95 @@
 
  **Points:** 0 
 
- **Target:** ` Twilio Console` 
+ **Target:** ` *-bugcrowd.foxycart.com (read below for details)` 
 
- **Reported:** 2023-02-28 02:16:18.628 +0000 UTC 
+ **Reported:** 2023-01-29 16:58:09.314 +0000 UTC 
 
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Twilio Console** 
+ **Submission accepted on target: *-bugcrowd.foxycart.com (read below for details)** 
 
-### 11. Program Details : 
+### 12. Program Details : 
+
+**Name:** Empower Personal Wealth 
+
+ **Link:** <https://bugcrowd.com/personalcapital> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://devstaging.pcapcloud.com/*` 
+
+ **Reported:** 2023-02-26 15:17:30.046 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://devstaging.pcapcloud.com/*** 
+
+### 13. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
+
+ **Severity:** P4 
+
+ **Hacker:** sanshay88 
+
+ **Points:** 5 
+
+ **Target:** ` *.ikarem.io` 
+
+ **Reported:** 2023-02-23 12:47:18.062 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ikarem.io** 
+
+### 14. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2023-02-26 23:20:40.941 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 15. Program Details : 
+
+**Name:** Aruba Networks Infrastructure Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:** blakeobs 
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-02-19 13:52:44.798 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 16. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -215,117 +315,37 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-03-03 14:12:48.866 +0000 UTC 
+ **Reported:** 2023-03-06 17:57:07.854 +0000 UTC 
 
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
 
  **Submission accepted** 
-
-### 12. Program Details : 
-
-**Name:** US Environmental Protection Agency Vulnerability Disclosure  
-
- **Link:** <https://bugcrowd.com/epa-vdp> 
-
- **Severity:** P1 
-
- **Hacker:** bywalks 
-
- **Points:** 0 
-
- **Target:** ` *.epa.gov` 
-
- **Reported:** 2023-03-03 08:30:54.982 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.epa.gov** 
-
-### 13. Program Details : 
-
-**Name:** DataZoom Payment Processing 
-
- **Link:** <https://bugcrowd.com/datazoom> 
-
- **Severity:** P4 
-
- **Hacker:** zh 
-
- **Points:** 5 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-03 13:34:22.446 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 14. Program Details : 
-
-**Name:** DataZoom Payment Processing 
-
- **Link:** <https://bugcrowd.com/datazoom> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-03 13:34:22.451 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 15. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** xkaneiki 
-
- **Points:** 20 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-09-30 03:37:25.252 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 16. Program Details : 
-
-**Name:** Credit Karma 
-
- **Link:** <https://bugcrowd.com/creditkarma> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.creditkarma.com` 
-
- **Reported:** 2023-03-02 16:31:13.503 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.creditkarma.com** 
 
 ### 17. Program Details : 
 
-**Name:** FoxyCart 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/foxycart> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** farhn0x 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-03-06 13:09:36.654 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 18. Program Details : 
+
+**Name:** Opsgenie 
+
+ **Link:** <https://bugcrowd.com/opsgenie> 
 
  **Severity:** P3 
 
@@ -333,59 +353,19 @@
 
  **Points:** 0 
 
- **Target:** ` api.foxycart.com` 
+ **Target:** ` app.opsgenie.com` 
 
- **Reported:** 2023-01-23 17:57:52.873 +0000 UTC 
+ **Reported:** 2023-02-23 10:56:02.105 +0000 UTC 
 
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: api.foxycart.com** 
-
-### 18. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-23 07:47:32.515 +0000 UTC 
-
- **Accepted:** 2023-03-03 00:00:00 +0000 UTC 
-
- **Submission accepted** 
+ **Submission accepted on target: app.opsgenie.com** 
 
 ### 19. Program Details : 
 
-**Name:** Aruba Networks Infrastructure Public Program 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/aruba-public> 
-
- **Severity:** P4 
-
- **Hacker:** shaygrant 
-
- **Points:** 0 
-
- **Target:** ` *.arubanetworks.com` 
-
- **Reported:** 2023-02-28 01:35:47.022 +0000 UTC 
-
- **Accepted:** 2023-03-02 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.arubanetworks.com** 
-
-### 20. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
+ **Link:** <https://bugcrowd.com/atlassian> 
 
  **Severity:** P4 
 
@@ -393,12 +373,32 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
 
- **Reported:** 2023-03-01 12:07:00.603 +0000 UTC 
+ **Reported:** 2022-06-07 16:03:33.088 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
 
-## End of Crowdstream for 2023-March-06 09:52:00
+### 20. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Opera for Android ` 
+
+ **Reported:** 2023-02-06 16:59:52.847 +0000 UTC 
+
+ **Accepted:** 2023-03-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Opera for Android ** 
+
+## End of Crowdstream for 2023-March-07 09:52:07
