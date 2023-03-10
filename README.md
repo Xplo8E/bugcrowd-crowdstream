@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-March-09 09:52:48
+## BugCrowd Crowdstream | Date:  2023-March-10 09:52:00
                             
 ### 1. Program Details : 
+
+**Name:** Statuspage 
+
+ **Link:** <https://bugcrowd.com/statuspage> 
+
+ **Severity:** P3 
+
+ **Hacker:** mythos 
+
+ **Points:** 0 
+
+ **Target:** ` manage.statuspage.io` 
+
+ **Reported:** 2023-03-01 12:37:08.542 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: manage.statuspage.io** 
+
+### 2. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-23 07:49:09.516 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 3. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-03-01 19:12:15.076 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Department of Labor 
+
+ **Link:** <https://bugcrowd.com/dol-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** pphreak_1001 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.workforcegps.org` 
+
+ **Reported:** 2023-03-09 12:37:14.496 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.workforcegps.org** 
+
+### 5. Program Details : 
+
+**Name:** Federal Retirement Thrift Investment Board : Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/frtib-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** bywalks 
+
+ **Points:** 0 
+
+ **Target:** ` *.frtib.gov` 
+
+ **Reported:** 2023-02-28 04:00:10.709 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.frtib.gov** 
+
+### 6. Program Details : 
+
+**Name:** Rarible 
+
+ **Link:** <https://bugcrowd.com/rarible-ogmbb> 
+
+ **Severity:** P3 
+
+ **Hacker:** sjn_scythe 
+
+ **Points:** 10 
+
+ **Target:** ` rarible.com` 
+
+ **Reported:** 2023-01-29 16:57:54.748 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: rarible.com** 
+
+### 7. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** djurado 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-03-03 17:02:10.729 +0000 UTC 
+
+ **Accepted:** 2023-03-09 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 8. Program Details : 
 
 **Name:** Mastercard 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: donate.mastercard.com** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Arrow Electronics VDP 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted on target: *.arrow.com** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Square 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: *.squareup.com** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** Indeed 
 
@@ -81,7 +221,7 @@
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** Department of Labor 
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: https://*.workforcegps.org** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** Department of Labor 
 
@@ -121,7 +261,7 @@
 
  **Submission accepted on target: https://*.bonds4jobs.com** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** US Environmental Protection Agency Vulnerability Disclosure  
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target: *.epa.gov** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** Twilio 
 
@@ -161,7 +301,7 @@
 
  **Submission accepted on target: app.segment.com** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** Twilio 
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: app.segment.com** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** lululemon 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: *.lululemon.com** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Arrow Electronics VDP 
 
@@ -221,7 +361,7 @@
 
  **Submission accepted on target: *.transim.com** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** Skyscanner 
 
@@ -241,7 +381,7 @@
 
  **Submission accepted** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** Aruba Networks Infrastructure Public Program 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target: *.arubanetworks.com** 
 
-### 14. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.sys.comcast.net` 
-
- **Reported:** 2023-03-02 14:13:45.86 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sys.comcast.net** 
-
-### 15. Program Details : 
-
-**Name:** U.S. Fish and Wildlife Service  
-
- **Link:** <https://bugcrowd.com/fws-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.fws.gov` 
-
- **Reported:** 2023-03-05 07:43:08.09 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fws.gov** 
-
-### 16. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` www.tripadvisor.com` 
-
- **Reported:** 2023-03-05 05:57:25.412 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.tripadvisor.com** 
-
-### 17. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-02-08 08:58:44.895 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
-
-### 18. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-02-08 11:03:16.287 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
-
-### 19. Program Details : 
-
-**Name:** Nine Entertainment Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:** vrahand 
-
- **Points:** 0 
-
- **Target:** ` afr.com` 
-
- **Reported:** 2023-03-06 16:53:21.403 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: afr.com** 
-
-### 20. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2023-03-02 14:19:14.355 +0000 UTC 
-
- **Accepted:** 2023-03-08 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-## End of Crowdstream for 2023-March-09 09:52:48
+## End of Crowdstream for 2023-March-10 09:52:00
