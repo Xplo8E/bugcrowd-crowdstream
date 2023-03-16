@@ -1,73 +1,33 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-March-15 09:51:49
+## BugCrowd Crowdstream | Date:  2023-March-16 09:52:24
                             
 ### 1. Program Details : 
 
-**Name:** Bitdefender 
+**Name:** FoxyCart 
 
- **Link:** <https://bugcrowd.com/bitdefender> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.bitdefender.com` 
-
- **Reported:** 2023-02-28 23:39:30.589 +0000 UTC 
-
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bitdefender.com** 
-
-### 2. Program Details : 
-
-**Name:** Bitdefender 
-
- **Link:** <https://bugcrowd.com/bitdefender> 
+ **Link:** <https://bugcrowd.com/foxycart> 
 
  **Severity:** P5 
 
- **Hacker:**  
+ **Hacker:** as32342 
 
  **Points:** 0 
 
- **Target:** ` *.bitdefender.com` 
+ **Target:** ` https://admin.foxycart.com` 
 
- **Reported:** 2023-03-14 00:10:05.767 +0000 UTC 
+ **Reported:** 2023-03-15 16:29:55.101 +0000 UTC 
 
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.bitdefender.com** 
+ **Submission accepted on target: https://admin.foxycart.com** 
 
-### 3. Program Details : 
+### 2. Program Details : 
 
-**Name:** Indeed 
+**Name:** NETGEAR Kudos Rewards 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/netgearkudos> 
 
- **Severity:** P4 
-
- **Hacker:** Mr_Robert 
-
- **Points:** 5 
-
- **Target:** ` https://apis.indeed.com/graphql` 
-
- **Reported:** 2023-02-16 23:01:43.761 +0000 UTC 
-
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://apis.indeed.com/graphql** 
-
-### 4. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
+ **Severity:** P1 
 
  **Hacker:**  
 
@@ -75,13 +35,13 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-03-11 12:05:36.784 +0000 UTC 
+ **Reported:** 2022-08-07 01:06:21.161 +0000 UTC 
 
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
- **Submission Claimed** 
+ **Submission accepted** 
 
-### 5. Program Details : 
+### 3. Program Details : 
 
 **Name:** NETGEAR Kudos Rewards 
 
@@ -95,9 +55,49 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-24 19:41:00.431 +0000 UTC 
+ **Reported:** 2023-01-25 17:31:40.111 +0000 UTC 
 
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** NETGEAR Kudos Rewards 
+
+ **Link:** <https://bugcrowd.com/netgearkudos> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-26 09:56:07.153 +0000 UTC 
+
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 5. Program Details : 
+
+**Name:** NETGEAR Kudos Rewards 
+
+ **Link:** <https://bugcrowd.com/netgearkudos> 
+
+ **Severity:** P1 
+
+ **Hacker:** leetsun 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-01-20 11:35:43.97 +0000 UTC 
+
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
@@ -115,91 +115,91 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-01-23 02:14:05.817 +0000 UTC 
+ **Reported:** 2023-01-23 08:55:13.191 +0000 UTC 
 
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 7. Program Details : 
 
-**Name:** NETGEAR Kudos Rewards 
-
- **Link:** <https://bugcrowd.com/netgearkudos> 
-
- **Severity:** P3 
-
- **Hacker:** albert5888 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2022-09-20 14:40:02.747 +0000 UTC 
-
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 8. Program Details : 
-
 **Name:** Indeed 
 
  **Link:** <https://bugcrowd.com/indeed> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
- **Hacker:** game0v3r 
+ **Hacker:** amans 
 
- **Points:** 10 
+ **Points:** 20 
 
  **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2023-02-20 06:51:52.773 +0000 UTC 
+ **Reported:** 2023-02-15 22:32:12.451 +0000 UTC 
 
- **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
  **Submission accepted on target: https://*.indeed.com** 
 
-### 9. Program Details : 
+### 8. Program Details : 
 
-**Name:** Digistorm 
+**Name:** SEEK  
 
- **Link:** <https://bugcrowd.com/digistorm> 
+ **Link:** <https://bugcrowd.com/seek> 
 
  **Severity:** P4 
 
- **Hacker:** amitkh7888 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` http://app.sandbox.digistorm.com` 
+ **Target:** ` *.seek.com.au` 
 
- **Reported:** 2023-01-20 04:54:42.355 +0000 UTC 
+ **Reported:** 2023-03-06 03:38:15.336 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
- **Submission accepted on target: http://app.sandbox.digistorm.com** 
+ **Submission accepted on target: *.seek.com.au** 
 
-### 10. Program Details : 
+### 9. Program Details : 
 
-**Name:** FoxyCart 
+**Name:** Opera Public Bug Bounty 
 
- **Link:** <https://bugcrowd.com/foxycart> 
+ **Link:** <https://bugcrowd.com/opera> 
 
  **Severity:** P3 
 
- **Hacker:** Dharshan12 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` *-bugcrowd.foxycart.com (read below for details)` 
+ **Target:** ` www.gamemaker.io` 
 
- **Reported:** 2023-01-06 07:24:50.129 +0000 UTC 
+ **Reported:** 2023-03-11 20:07:57.482 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-16 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *-bugcrowd.foxycart.com (read below for details)** 
+ **Submission accepted on target: www.gamemaker.io** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** mythos 
+
+ **Points:** 0 
+
+ **Target:** ` Atlassian Admin (https://admin.atlassian.com/)` 
+
+ **Reported:** 2023-03-08 09:05:27.481 +0000 UTC 
+
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Atlassian Admin (https://admin.atlassian.com/)** 
 
 ### 11. Program Details : 
 
@@ -209,63 +209,63 @@
 
  **Severity:** P3 
 
- **Hacker:** MrHack 
-
- **Points:** 0 
-
- **Target:** ` Jira Service Management Server` 
-
- **Reported:** 2023-03-01 21:38:26.137 +0000 UTC 
-
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Service Management Server** 
-
-### 12. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P3 
-
- **Hacker:** Zere 
+ **Hacker:** Hx01 
 
  **Points:** 10 
 
- **Target:** ` *.opera.com` 
+ **Target:** ` Atlassian Access (https://admin.atlassian.com/atlassian-access)` 
 
- **Reported:** 2023-03-12 12:46:32.325 +0000 UTC 
+ **Reported:** 2023-02-14 16:29:25.39 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.opera.com** 
+ **Submission accepted on target: Atlassian Access (https://admin.atlassian.com/atlassian-access)** 
+
+### 12. Program Details : 
+
+**Name:** Netflix 
+
+ **Link:** <https://bugcrowd.com/netflix> 
+
+ **Severity:** P3 
+
+ **Hacker:** Hussein 
+
+ **Points:** 0 
+
+ **Target:** ` Content Authorization Findings` 
+
+ **Reported:** 2023-03-12 12:10:05.937 +0000 UTC 
+
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Content Authorization Findings** 
 
 ### 13. Program Details : 
 
-**Name:** Indeed 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:** lllcypherlll 
+ **Hacker:** Surya_S 
 
- **Points:** 40 
+ **Points:** 0 
 
- **Target:** ` https://my.zapinfo.io (Chrome Extension)` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-02-24 18:44:32.003 +0000 UTC 
+ **Reported:** 2023-03-15 03:10:02.932 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://my.zapinfo.io (Chrome Extension)** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
 ### 14. Program Details : 
 
-**Name:** Tesla 
+**Name:** iFood: Bug Bounty Program 
 
- **Link:** <https://bugcrowd.com/tesla> 
+ **Link:** <https://bugcrowd.com/ifood-og> 
 
  **Severity:** P3 
 
@@ -273,61 +273,21 @@
 
  **Points:** 0 
 
- **Target:** ` *.tesla.com` 
+ **Target:** ` https://www.ifood.com.br` 
 
- **Reported:** 2023-02-07 21:16:29.265 +0000 UTC 
+ **Reported:** 2023-03-03 00:17:50.22 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.tesla.com** 
+ **Submission accepted on target: https://www.ifood.com.br** 
 
 ### 15. Program Details : 
 
-**Name:** Tesla 
+**Name:** iFood: Bug Bounty Program 
 
- **Link:** <https://bugcrowd.com/tesla> 
+ **Link:** <https://bugcrowd.com/ifood-og> 
 
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)` 
-
- **Reported:** 2023-01-30 15:51:51.293 +0000 UTC 
-
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
-
- **Submission accepted on target: A hardware product that you own or are authorized to test against (Vehicle/PowerWall/etc.)** 
-
-### 16. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.tesla.com` 
-
- **Reported:** 2023-03-14 13:46:02.112 +0000 UTC 
-
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.tesla.com** 
-
-### 17. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
@@ -335,70 +295,110 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-02-25 15:57:01.742 +0000 UTC 
+ **Reported:** 2023-03-03 00:27:45.228 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
-### 18. Program Details : 
+### 16. Program Details : 
 
-**Name:** Tesla 
+**Name:** DICK'S Sporting Goods 
 
- **Link:** <https://bugcrowd.com/tesla> 
+ **Link:** <https://bugcrowd.com/dickssportinggoods> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** wizpig11 
 
  **Points:** 0 
 
- **Target:** ` *.tesla.com` 
+ **Target:** ` *.dickssportinggoods.com` 
 
- **Reported:** 2023-02-25 15:36:46.4 +0000 UTC 
+ **Reported:** 2023-03-10 12:47:03.63 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.tesla.com** 
+ **Submission accepted on target: *.dickssportinggoods.com** 
+
+### 17. Program Details : 
+
+**Name:** DICK'S Sporting Goods 
+
+ **Link:** <https://bugcrowd.com/dickssportinggoods> 
+
+ **Severity:** P1 
+
+ **Hacker:** wizpig11 
+
+ **Points:** 0 
+
+ **Target:** ` *.fieldandstreamshop.com` 
+
+ **Reported:** 2023-03-10 12:58:25.036 +0000 UTC 
+
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.fieldandstreamshop.com** 
+
+### 18. Program Details : 
+
+**Name:** DICK'S Sporting Goods 
+
+ **Link:** <https://bugcrowd.com/dickssportinggoods> 
+
+ **Severity:** P1 
+
+ **Hacker:** wizpig11 
+
+ **Points:** 0 
+
+ **Target:** ` *.dickssportinggoods.com` 
+
+ **Reported:** 2023-03-10 12:49:54.927 +0000 UTC 
+
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.dickssportinggoods.com** 
 
 ### 19. Program Details : 
 
-**Name:** Atlassian 
+**Name:** DICK'S Sporting Goods 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/dickssportinggoods> 
 
  **Severity:** P4 
 
- **Hacker:** UpdateLap 
+ **Hacker:** Mantra 
 
  **Points:** 0 
 
- **Target:** ` Jira Service Management Server` 
+ **Target:** ` *.dickssportinggoods.com` 
 
- **Reported:** 2023-03-06 12:39:09.379 +0000 UTC 
+ **Reported:** 2023-03-10 08:16:33.434 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Service Management Server** 
+ **Submission accepted on target: *.dickssportinggoods.com** 
 
 ### 20. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** UpdateLap 
+ **Hacker:** danieloizo 
 
  **Points:** 0 
 
- **Target:** ` Jira Service Management Server` 
+ **Target:** ` app.segment.com` 
 
- **Reported:** 2023-03-06 12:08:38.863 +0000 UTC 
+ **Reported:** 2023-03-13 10:43:39.718 +0000 UTC 
 
- **Accepted:** 2023-03-14 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-15 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Service Management Server** 
+ **Submission accepted on target: app.segment.com** 
 
-## End of Crowdstream for 2023-March-15 09:51:49
+## End of Crowdstream for 2023-March-16 09:52:24
