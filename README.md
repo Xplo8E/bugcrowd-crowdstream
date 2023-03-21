@@ -1,7 +1,307 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-March-20 09:51:59
+## BugCrowd Crowdstream | Date:  2023-March-21 09:51:53
                             
 ### 1. Program Details : 
+
+**Name:** Bluehost  
+
+ **Link:** <https://bugcrowd.com/newfold-bluehost> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` www.bluehost.com` 
+
+ **Reported:** 2023-02-11 01:22:52.133 +0000 UTC 
+
+ **Accepted:** 2023-03-21 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.bluehost.com** 
+
+### 2. Program Details : 
+
+**Name:** Asana 
+
+ **Link:** <https://bugcrowd.com/asana> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` asana.com` 
+
+ **Reported:** 2022-12-13 19:13:57.462 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: asana.com** 
+
+### 3. Program Details : 
+
+**Name:** Asana 
+
+ **Link:** <https://bugcrowd.com/asana> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` asana.com` 
+
+ **Reported:** 2022-12-13 19:27:32.589 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: asana.com** 
+
+### 4. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2023-02-11 06:44:24.426 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 5. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2023-02-11 08:35:00.493 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 6. Program Details : 
+
+**Name:** Statuspage 
+
+ **Link:** <https://bugcrowd.com/statuspage> 
+
+ **Severity:** P3 
+
+ **Hacker:** mythos 
+
+ **Points:** 0 
+
+ **Target:** ` *.statuspage.io` 
+
+ **Reported:** 2023-03-02 08:04:54.344 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.statuspage.io** 
+
+### 7. Program Details : 
+
+**Name:** Bitpanda Ongoing Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/bitpanda-og-bb> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://api.bitpanda.com` 
+
+ **Reported:** 2023-03-11 10:59:07.029 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://api.bitpanda.com** 
+
+### 8. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P3 
+
+ **Hacker:** DK999 
+
+ **Points:** 0 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2023-03-16 15:16:51.511 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+### 9. Program Details : 
+
+**Name:** iRobot 
+
+ **Link:** <https://bugcrowd.com/irobot> 
+
+ **Severity:** P4 
+
+ **Hacker:** Chetan_singh 
+
+ **Points:** 5 
+
+ **Target:** ` https://www.irobot.com` 
+
+ **Reported:** 2023-01-29 09:55:57.893 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.irobot.com** 
+
+### 10. Program Details : 
+
+**Name:** iRobot 
+
+ **Link:** <https://bugcrowd.com/irobot> 
+
+ **Severity:** P4 
+
+ **Hacker:** ferreira 
+
+ **Points:** 5 
+
+ **Target:** ` https://www.irobot.com` 
+
+ **Reported:** 2023-01-27 17:58:18.953 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.irobot.com** 
+
+### 11. Program Details : 
+
+**Name:** iRobot 
+
+ **Link:** <https://bugcrowd.com/irobot> 
+
+ **Severity:** P4 
+
+ **Hacker:** Chetan_singh 
+
+ **Points:** 5 
+
+ **Target:** ` https://www.irobot.com` 
+
+ **Reported:** 2023-01-29 05:54:29.68 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.irobot.com** 
+
+### 12. Program Details : 
+
+**Name:** iRobot 
+
+ **Link:** <https://bugcrowd.com/irobot> 
+
+ **Severity:** P3 
+
+ **Hacker:** fuomag9 
+
+ **Points:** 10 
+
+ **Target:** ` https://www.irobot.com` 
+
+ **Reported:** 2023-01-28 16:08:31.967 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.irobot.com** 
+
+### 13. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.hubspot.com` 
+
+ **Reported:** 2023-03-03 18:30:23.153 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.hubspot.com** 
+
+### 14. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.takeawayriders.com/ ` 
+
+ **Reported:** 2023-03-14 19:52:44.395 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.takeawayriders.com/ ** 
+
+### 15. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.takeaway.com` 
+
+ **Reported:** 2022-10-14 00:22:35.028 +0000 UTC 
+
+ **Accepted:** 2023-03-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.takeaway.com** 
+
+### 16. Program Details : 
 
 **Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
@@ -21,7 +321,7 @@
 
  **Submission accepted on target: *.xfinity.com	** 
 
-### 2. Program Details : 
+### 17. Program Details : 
 
 **Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
@@ -41,7 +341,7 @@
 
  **Submission accepted on target: *.xfinity.com	** 
 
-### 3. Program Details : 
+### 18. Program Details : 
 
 **Name:** Web.com 
 
@@ -61,7 +361,7 @@
 
  **Submission accepted on target:  www.web.com** 
 
-### 4. Program Details : 
+### 19. Program Details : 
 
 **Name:** Twilio 
 
@@ -81,7 +381,7 @@
 
  **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
 
-### 5. Program Details : 
+### 20. Program Details : 
 
 **Name:** NETGEAR Kudos Rewards 
 
@@ -101,304 +401,4 @@
 
  **Submission accepted** 
 
-### 6. Program Details : 
-
-**Name:** Netflix 
-
- **Link:** <https://bugcrowd.com/netflix> 
-
- **Severity:** P3 
-
- **Hacker:** delftoverlord 
-
- **Points:** 10 
-
- **Target:** ` Secondary Targets (read below)` 
-
- **Reported:** 2023-03-09 20:07:20.05 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Secondary Targets (read below)** 
-
-### 7. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P5 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Atlassian Admin (https://admin.atlassian.com/)` 
-
- **Reported:** 2023-03-15 14:50:11.472 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Atlassian Admin (https://admin.atlassian.com/)** 
-
-### 8. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` api.pinterest.com` 
-
- **Reported:** 2023-03-12 05:57:05.05 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: api.pinterest.com** 
-
-### 9. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** Oldie 
-
- **Points:** 10 
-
- **Target:** ` Crucible` 
-
- **Reported:** 2023-03-13 20:47:25.185 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Crucible** 
-
-### 10. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-03-15 13:43:52.167 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
-### 11. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-03-15 13:34:24.184 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
-### 12. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-03-15 13:00:07.058 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
-### 13. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-03-15 13:23:30.431 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
-### 14. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** RoyGunsen 
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2023-02-17 01:11:03.71 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 15. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
-
- **Severity:** P2 
-
- **Hacker:** mzamat 
-
- **Points:** 20 
-
- **Target:** ` *.squareup.com` 
-
- **Reported:** 2023-03-06 12:56:32.297 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.squareup.com** 
-
-### 16. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** Oxylis 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-11 14:09:46.836 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 17. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-12 04:56:14.41 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:** Oldie 
-
- **Points:** 20 
-
- **Target:** ` Crucible` 
-
- **Reported:** 2023-03-02 17:12:27.96 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Crucible** 
-
-### 19. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.sys.comcast.net` 
-
- **Reported:** 2023-03-13 23:36:10.12 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sys.comcast.net** 
-
-### 20. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:** felcity 
-
- **Points:** 10 
-
- **Target:** ` Any host / web property verified to be owned by Segment (domains/IP space/etc.)	` 
-
- **Reported:** 2023-03-14 11:15:17.56 +0000 UTC 
-
- **Accepted:** 2023-03-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host / web property verified to be owned by Segment (domains/IP space/etc.)	** 
-
-## End of Crowdstream for 2023-March-20 09:51:59
+## End of Crowdstream for 2023-March-21 09:51:53
