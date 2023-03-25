@@ -1,71 +1,51 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-March-24 09:52:07
+## BugCrowd Crowdstream | Date:  2023-March-25 09:51:51
                             
 ### 1. Program Details : 
 
-**Name:** Indeed 
+**Name:** Arlo Cash Rewards 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/arlo> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** BrandonReynolds 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` https://employer.simplyhired-staging.com` 
+ **Target:** ` Arlo Base Station` 
 
- **Reported:** 2023-02-23 10:14:29.691 +0000 UTC 
+ **Reported:** 2023-02-23 20:46:24.577 +0000 UTC 
 
- **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-25 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://employer.simplyhired-staging.com** 
+ **Submission accepted on target: Arlo Base Station** 
 
 ### 2. Program Details : 
 
-**Name:** Indeed 
+**Name:** Arlo Cash Rewards 
 
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:** game0v3r 
-
- **Points:** 5 
-
- **Target:** ` Any host/web property verified to be owned by Indeed` 
-
- **Reported:** 2023-02-23 07:54:50.354 +0000 UTC 
-
- **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
-
-### 3. Program Details : 
-
-**Name:** Keeper Security Public Bounty Program 
-
- **Link:** <https://bugcrowd.com/keepersecurity> 
+ **Link:** <https://bugcrowd.com/arlo> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** yousefmo15 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` KeeperChat for iOS` 
+ **Target:** ` https://*-prod.arlo.com` 
 
- **Reported:** 2023-03-23 20:28:38.728 +0000 UTC 
+ **Reported:** 2023-03-05 17:20:46.048 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-25 00:00:00 +0000 UTC 
 
- **Submission accepted on target: KeeperChat for iOS** 
+ **Submission accepted on target: https://*-prod.arlo.com** 
 
-### 4. Program Details : 
+### 3. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
  **Severity:** P1 
 
@@ -73,39 +53,59 @@
 
  **Points:** 0 
 
- **Target:** `  Cisco Systems operational infrastructure` 
+ **Target:** ` Any Other Sophos Product or Service` 
 
- **Reported:** 2023-03-23 10:10:06.6 +0000 UTC 
+ **Reported:** 2023-03-24 11:23:59.457 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
+ **Submission accepted on target: Any Other Sophos Product or Service** 
+
+### 4. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P2 
+
+ **Hacker:** avency 
+
+ **Points:** 20 
+
+ **Target:** ` XG Firewall` 
+
+ **Reported:** 2023-03-20 14:58:38.439 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: XG Firewall** 
 
 ### 5. Program Details : 
 
-**Name:** Cisco Meraki 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/ciscomeraki> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
  **Severity:** P3 
 
- **Hacker:** refaat1 
+ **Hacker:** 0xcharan 
 
  **Points:** 10 
 
- **Target:** ` *.meraki.com` 
+ **Target:** ` Sophos Central` 
 
- **Reported:** 2023-03-09 04:54:53.008 +0000 UTC 
+ **Reported:** 2023-02-01 09:36:41.15 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.meraki.com** 
+ **Submission accepted on target: Sophos Central** 
 
 ### 6. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
  **Severity:** P3 
 
@@ -113,19 +113,19 @@
 
  **Points:** 0 
 
- **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+ **Target:** ` Sophos Central` 
 
- **Reported:** 2023-03-23 12:52:12.835 +0000 UTC 
+ **Reported:** 2023-03-15 11:49:27.346 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+ **Submission accepted on target: Sophos Central** 
 
 ### 7. Program Details : 
 
-**Name:** Opsgenie 
+**Name:** Intercom 
 
- **Link:** <https://bugcrowd.com/opsgenie> 
+ **Link:** <https://bugcrowd.com/intercom> 
 
  **Severity:** P3 
 
@@ -133,19 +133,19 @@
 
  **Points:** 0 
 
- **Target:** ` app.opsgenie.com` 
+ **Target:** ` https://app.intercom.com` 
 
- **Reported:** 2023-03-04 10:57:06.383 +0000 UTC 
+ **Reported:** 2023-02-17 17:13:59.211 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: app.opsgenie.com** 
+ **Submission accepted on target: https://app.intercom.com** 
 
 ### 8. Program Details : 
 
-**Name:** United Airlines 
+**Name:** Intercom 
 
- **Link:** <https://bugcrowd.com/united-vdp> 
+ **Link:** <https://bugcrowd.com/intercom> 
 
  **Severity:** P4 
 
@@ -153,99 +153,219 @@
 
  **Points:** 0 
 
- **Target:** ` *.united.com` 
+ **Target:** ` https://app.intercom.com` 
 
- **Reported:** 2023-02-11 00:52:19.186 +0000 UTC 
+ **Reported:** 2023-03-18 12:52:24.66 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.united.com** 
+ **Submission accepted on target: https://app.intercom.com** 
 
 ### 9. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:** TusharGohel 
-
- **Points:** 10 
-
- **Target:** ` Jira Software Server` 
-
- **Reported:** 2023-01-26 08:11:17.828 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Software Server** 
-
-### 10. Program Details : 
-
-**Name:** Opera Public Bug Bounty 
-
- **Link:** <https://bugcrowd.com/opera> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Opera GX for Android` 
-
- **Reported:** 2023-03-22 19:56:42.936 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Opera GX for Android** 
-
-### 11. Program Details : 
 
 **Name:** Netflix 
 
  **Link:** <https://bugcrowd.com/netflix> 
 
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` www.netflix.com` 
+
+ **Reported:** 2023-03-19 12:26:19.974 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.netflix.com** 
+
+### 10. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-13 08:59:57.521 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 11. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** Sachin_V3rma 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-02-24 09:55:58.746 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 12. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** Sachin_V3rma 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-02-18 17:46:05.902 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 13. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
  **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** `  meechum.netflix.com` 
+ **Target:** ` Sophos Central` 
 
- **Reported:** 2023-03-07 16:35:49.844 +0000 UTC 
+ **Reported:** 2023-02-15 20:59:15.85 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  meechum.netflix.com** 
+ **Submission accepted on target: Sophos Central** 
 
-### 12. Program Details : 
+### 14. Program Details : 
 
-**Name:** Twilio 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/sophos> 
 
  **Severity:** P3 
 
- **Hacker:** evild03r 
+ **Hacker:** 0xcharan 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-02-01 10:01:53.4 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 15. Program Details : 
+
+**Name:** Under Armour AppSec 
+
+ **Link:** <https://bugcrowd.com/underarmour> 
+
+ **Severity:** P3 
+
+ **Hacker:** Gorddo 
+
+ **Points:** 10 
+
+ **Target:** ` https://www.mapmyrun.com` 
+
+ **Reported:** 2023-03-22 13:36:20.111 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.mapmyrun.com** 
+
+### 16. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** Sachin_V3rma 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-02-18 18:09:06.703 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 17. Program Details : 
+
+**Name:** Intercom 
+
+ **Link:** <https://bugcrowd.com/intercom> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` app.segment.com` 
+ **Target:** ` *.intercomassets.com / *.intercomcdn.com` 
 
- **Reported:** 2023-02-04 18:50:10.383 +0000 UTC 
+ **Reported:** 2023-02-22 13:29:29.583 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: app.segment.com** 
+ **Submission accepted on target: *.intercomassets.com / *.intercomcdn.com** 
 
-### 13. Program Details : 
+### 18. Program Details : 
 
-**Name:** Twilio 
+**Name:** Sophos 
 
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** 0xcharan 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-02-01 09:49:45.585 +0000 UTC 
+
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 19. Program Details : 
+
+**Name:** Intercom 
+
+ **Link:** <https://bugcrowd.com/intercom> 
 
  **Severity:** P2 
 
@@ -253,152 +373,32 @@
 
  **Points:** 0 
 
- **Target:** ` Authy Desktop app` 
+ **Target:** ` https://app.intercom.com` 
 
- **Reported:** 2023-03-03 17:33:08.264 +0000 UTC 
+ **Reported:** 2023-02-18 15:05:03.659 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Authy Desktop app** 
-
-### 14. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P4 
-
- **Hacker:** felcity 
-
- **Points:** 5 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2023-03-18 08:45:27.905 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 15. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2023-03-05 17:29:54.257 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 16. Program Details : 
-
-**Name:** Federal Communications Commission: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/fcc-vdp> 
-
- **Severity:** P1 
-
- **Hacker:** gchomp 
-
- **Points:** 0 
-
- **Target:** ` *.fcc.gov` 
-
- **Reported:** 2023-03-15 00:09:05.096 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.fcc.gov** 
-
-### 17. Program Details : 
-
-**Name:** United States Department of Agriculture: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/usda-vdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-22 18:33:47.003 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 18. Program Details : 
-
-**Name:** Phrase Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/phrase-vdp> 
-
- **Severity:** P4 
-
- **Hacker:** usamahafeez 
-
- **Points:** 0 
-
- **Target:** ` http://phrase.com/` 
-
- **Reported:** 2023-03-06 15:57:55.188 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: http://phrase.com/** 
-
-### 19. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:** liih 
-
- **Points:** 10 
-
- **Target:** ` www.tripadvisor.com` 
-
- **Reported:** 2023-03-21 15:18:11.482 +0000 UTC 
-
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.tripadvisor.com** 
+ **Submission accepted on target: https://app.intercom.com** 
 
 ### 20. Program Details : 
 
-**Name:** Tamedia 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/tamedia> 
+ **Link:** <https://bugcrowd.com/atlassian> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
- **Hacker:**  
+ **Hacker:** Hx01 
 
- **Points:** 0 
+ **Points:** 20 
 
- **Target:** ` ` 
+ **Target:** ` Atlassian Atlas` 
 
- **Reported:** 2023-03-20 16:16:38.426 +0000 UTC 
+ **Reported:** 2023-03-14 21:28:33.101 +0000 UTC 
 
- **Accepted:** 2023-03-23 00:00:00 +0000 UTC 
+ **Accepted:** 2023-03-24 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Atlassian Atlas** 
 
-## End of Crowdstream for 2023-March-24 09:52:07
+## End of Crowdstream for 2023-March-25 09:51:51
