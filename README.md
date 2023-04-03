@@ -1,7 +1,147 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-02 09:51:53
+## BugCrowd Crowdstream | Date:  2023-April-03 09:52:31
                             
 ### 1. Program Details : 
+
+**Name:** Skroutz Public Managed Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/skroutz> 
+
+ **Severity:** P4 
+
+ **Hacker:** amjadali110 
+
+ **Points:** 5 
+
+ **Target:** ` https://www.skroutz.gr/` 
+
+ **Reported:** 2023-04-03 07:07:44.547 +0000 UTC 
+
+ **Accepted:** 2023-04-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.skroutz.gr/** 
+
+### 2. Program Details : 
+
+**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/comcastvdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** winteri3coming 
+
+ **Points:** 10 
+
+ **Target:** ` *.comcast.com` 
+
+ **Reported:** 2023-03-29 23:39:27.478 +0000 UTC 
+
+ **Accepted:** 2023-04-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.comcast.com** 
+
+### 3. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P4 
+
+ **Hacker:** bugnotify 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-03 06:07:49.746 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 4. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:** utk_yadav 
+
+ **Points:** 0 
+
+ **Target:** ` https://clickhouse.cloud/` 
+
+ **Reported:** 2023-03-31 10:25:48.213 +0000 UTC 
+
+ **Accepted:** 2023-04-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://clickhouse.cloud/** 
+
+### 5. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.jobapi.net` 
+
+ **Reported:** 2023-02-26 07:47:49.369 +0000 UTC 
+
+ **Accepted:** 2023-04-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.jobapi.net** 
+
+### 6. Program Details : 
+
+**Name:** SEEK  
+
+ **Link:** <https://bugcrowd.com/seek> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.jobapi.net` 
+
+ **Reported:** 2023-03-15 12:04:47.65 +0000 UTC 
+
+ **Accepted:** 2023-04-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.jobapi.net** 
+
+### 7. Program Details : 
+
+**Name:** CyberGhost 
+
+ **Link:** <https://bugcrowd.com/cyberghost> 
+
+ **Severity:** P1 
+
+ **Hacker:** mmmdspl 
+
+ **Points:** 0 
+
+ **Target:** ` CyberGhost Linux application` 
+
+ **Reported:** 2022-12-01 10:55:36.808 +0000 UTC 
+
+ **Accepted:** 2022-12-07 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: CyberGhost Linux application** 
+
+### 8. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -21,7 +161,7 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 2. Program Details : 
+### 9. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -41,7 +181,7 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 3. Program Details : 
+### 10. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -61,7 +201,7 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 4. Program Details : 
+### 11. Program Details : 
 
 **Name:** Facebook 
 
@@ -81,7 +221,7 @@
 
  **Submission Claimed** 
 
-### 5. Program Details : 
+### 12. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -101,7 +241,7 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 6. Program Details : 
+### 13. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -121,7 +261,7 @@
 
  **Submission accepted** 
 
-### 7. Program Details : 
+### 14. Program Details : 
 
 **Name:** Okta 
 
@@ -141,7 +281,7 @@
 
  **Submission accepted on target: bugcrowd-%username%-1.oktapreview.com** 
 
-### 8. Program Details : 
+### 15. Program Details : 
 
 **Name:** Facebook 
 
@@ -161,7 +301,7 @@
 
  **Submission Claimed** 
 
-### 9. Program Details : 
+### 16. Program Details : 
 
 **Name:** Atlassian 
 
@@ -181,7 +321,7 @@
 
  **Submission accepted on target: Atlassian Start (https://start.atlassian.com)** 
 
-### 10. Program Details : 
+### 17. Program Details : 
 
 **Name:** Atlassian 
 
@@ -201,7 +341,7 @@
 
  **Submission accepted on target: Bitbucket Server** 
 
-### 11. Program Details : 
+### 18. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -221,7 +361,7 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 12. Program Details : 
+### 19. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -241,7 +381,7 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 13. Program Details : 
+### 20. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -261,144 +401,4 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 14. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2023-03-30 17:16:40.516 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 15. Program Details : 
-
-**Name:** Keeper Security Public Bounty Program 
-
- **Link:** <https://bugcrowd.com/keepersecurity> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Keeper for iOS` 
-
- **Reported:** 2023-03-30 08:28:46.265 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Keeper for iOS** 
-
-### 16. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P4 
-
- **Hacker:** valbrux 
-
- **Points:** 0 
-
- **Target:** ` *.comcast.com` 
-
- **Reported:** 2023-03-28 01:49:21.432 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.comcast.com** 
-
-### 17. Program Details : 
-
-**Name:** Wise (ex-TransferWise) 
-
- **Link:** <https://bugcrowd.com/wise> 
-
- **Severity:** P4 
-
- **Hacker:** DoTV3N 
-
- **Points:** 5 
-
- **Target:** ` wise.com` 
-
- **Reported:** 2023-03-27 00:47:39.708 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: wise.com** 
-
-### 18. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://mc.sendgrid.com/` 
-
- **Reported:** 2023-03-08 06:11:04.882 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://mc.sendgrid.com/** 
-
-### 19. Program Details : 
-
-**Name:** Xfinity Home & xFi 
-
- **Link:** <https://bugcrowd.com/xfinity-home> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.xfinityhome.com` 
-
- **Reported:** 2023-03-20 07:07:02.341 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.xfinityhome.com** 
-
-### 20. Program Details : 
-
-**Name:** Xfinity Home & xFi 
-
- **Link:** <https://bugcrowd.com/xfinity-home> 
-
- **Severity:** P1 
-
- **Hacker:** lappsec 
-
- **Points:** 40 
-
- **Target:** ` *.xfinityhome.com` 
-
- **Reported:** 2023-03-20 15:15:32.231 +0000 UTC 
-
- **Accepted:** 2023-03-31 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.xfinityhome.com** 
-
-## End of Crowdstream for 2023-April-02 09:51:53
+## End of Crowdstream for 2023-April-03 09:52:31
