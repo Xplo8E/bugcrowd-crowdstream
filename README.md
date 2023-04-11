@@ -1,31 +1,71 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-10 09:51:55
+## BugCrowd Crowdstream | Date:  2023-April-11 09:51:58
                             
 ### 1. Program Details : 
 
-**Name:** Cloudways 
+**Name:** MasterCard VDP 
 
- **Link:** <https://bugcrowd.com/cloudways> 
+ **Link:** <https://bugcrowd.com/mastercard-vdp> 
 
- **Severity:** P1 
+ **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** Dpakmrya 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-04-08 19:37:33.1 +0000 UTC 
+ **Reported:** 2023-04-05 11:35:35.452 +0000 UTC 
 
- **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 2. Program Details : 
 
-**Name:** Indeed 
+**Name:** OLX Autos 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/olxgroup> 
+
+ **Severity:** P4 
+
+ **Hacker:** adhotyul 
+
+ **Points:** 0 
+
+ **Target:** ` *.olxautos.co.id` 
+
+ **Reported:** 2023-02-20 17:15:54.512 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.olxautos.co.id** 
+
+### 3. Program Details : 
+
+**Name:** Kistler Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/kistler-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** fiii82 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-02 14:22:53.37 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Kistler Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/kistler-vdp> 
 
  **Severity:** P2 
 
@@ -33,15 +73,215 @@
 
  **Points:** 0 
 
- **Target:** ` https://employer.simplyhired-staging.com` 
+ **Target:** ` ` 
 
- **Reported:** 2023-03-09 00:36:30.29 +0000 UTC 
+ **Reported:** 2022-12-01 14:04:38.717 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 5. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://github.com/ClickHouse/ClickHouse` 
+
+ **Reported:** 2023-04-08 10:49:04.74 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://github.com/ClickHouse/ClickHouse** 
+
+### 6. Program Details : 
+
+**Name:** ClickHouse 
+
+ **Link:** <https://bugcrowd.com/clickhouse> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ClickHouse Cloud environment hosted by ClickHouse` 
+
+ **Reported:** 2023-04-02 10:56:33.627 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: ClickHouse Cloud environment hosted by ClickHouse** 
+
+### 7. Program Details : 
+
+**Name:** Kistler Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/kistler-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-02-09 14:16:14.336 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 8. Program Details : 
+
+**Name:** CyberGhost 
+
+ **Link:** <https://bugcrowd.com/cyberghost> 
+
+ **Severity:** P1 
+
+ **Hacker:** mmmdspl 
+
+ **Points:** 0 
+
+ **Target:** ` CyberGhost Linux application` 
+
+ **Reported:** 2022-12-01 10:59:07.55 +0000 UTC 
+
+ **Accepted:** 2022-12-06 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: CyberGhost Linux application** 
+
+### 9. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:** 01-hunter 
+
+ **Points:** 5 
+
+ **Target:** ` Any host/web property verified to be owned by Indeed` 
+
+ **Reported:** 2023-03-29 03:54:12.334 +0000 UTC 
+
+ **Accepted:** 2023-04-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+
+### 10. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-03-30 17:54:32.639 +0000 UTC 
 
  **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://employer.simplyhired-staging.com** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 3. Program Details : 
+### 11. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-03-23 23:15:43.277 +0000 UTC 
+
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 12. Program Details : 
+
+**Name:** Keeper Security Public Bounty Program 
+
+ **Link:** <https://bugcrowd.com/keepersecurity> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Keeper for Android` 
+
+ **Reported:** 2023-04-04 18:26:37.279 +0000 UTC 
+
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Keeper for Android** 
+
+### 13. Program Details : 
+
+**Name:** United States Patent and Trademark Office - Vulnerability Disclosure Program  
+
+ **Link:** <https://bugcrowd.com/uspto-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** gr4y_r0se 
+
+ **Points:** 0 
+
+ **Target:** ` *.uspto.gov` 
+
+ **Reported:** 2023-04-02 14:11:58.067 +0000 UTC 
+
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.uspto.gov** 
+
+### 14. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P1 
+
+ **Hacker:** suryadev-707 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-04-08 21:06:34.214 +0000 UTC 
+
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
+
+### 15. Program Details : 
 
 **Name:** United Airlines 
 
@@ -55,350 +295,110 @@
 
  **Target:** ` *.united.com` 
 
- **Reported:** 2023-03-16 21:01:05.222 +0000 UTC 
+ **Reported:** 2023-03-12 20:48:02.089 +0000 UTC 
 
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.united.com** 
 
-### 4. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** khalidmeister 
-
- **Points:** 0 
-
- **Target:** ` *.ual.com` 
-
- **Reported:** 2023-04-01 00:28:24.541 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ual.com** 
-
-### 5. Program Details : 
-
-**Name:** Xfinity Home & xFi 
-
- **Link:** <https://bugcrowd.com/xfinity-home> 
-
- **Severity:** P3 
-
- **Hacker:** lappsec 
-
- **Points:** 10 
-
- **Target:** ` *.xfinityhome.com` 
-
- **Reported:** 2023-03-27 20:08:45.254 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.xfinityhome.com** 
-
-### 6. Program Details : 
-
-**Name:** Xfinity Home & xFi 
-
- **Link:** <https://bugcrowd.com/xfinity-home> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.xfinityhome.com` 
-
- **Reported:** 2023-04-01 15:18:08.183 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.xfinityhome.com** 
-
-### 7. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P4 
-
- **Hacker:** swdb 
-
- **Points:** 0 
-
- **Target:** ` *.bnbchain.org` 
-
- **Reported:** 2023-04-04 14:23:43.054 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bnbchain.org** 
-
-### 8. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-03-28 09:21:43.755 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 9. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-03-20 12:19:05.067 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 10. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-03-11 02:28:34.357 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 11. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-03-12 22:58:04.021 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 12. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Binance Connect` 
-
- **Reported:** 2023-02-20 22:51:30.57 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Binance Connect** 
-
-### 13. Program Details : 
-
-**Name:** WOO Network: Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/woo-network> 
-
- **Severity:** P3 
-
- **Hacker:** swdb 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-02 20:11:12.149 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 14. Program Details : 
-
-**Name:** WOO Network: Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/woo-network> 
-
- **Severity:** P3 
-
- **Hacker:** Zere 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-04 19:05:20.022 +0000 UTC 
-
- **Accepted:** 2023-04-07 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 15. Program Details : 
-
-**Name:** Atlassian-Built Apps 
-
- **Link:** <https://bugcrowd.com/atlassianapps> 
-
- **Severity:** P2 
-
- **Hacker:** UpdateLap 
-
- **Points:** 0 
-
- **Target:** ` GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud` 
-
- **Reported:** 2023-03-27 02:06:19.567 +0000 UTC 
-
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
-
- **Submission accepted on target: GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud** 
-
 ### 16. Program Details : 
 
-**Name:** Atlassian-Built Apps 
+**Name:** Statuspage 
 
- **Link:** <https://bugcrowd.com/atlassianapps> 
+ **Link:** <https://bugcrowd.com/statuspage> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:** Captain_hook 
+ **Hacker:** bananacake 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` manage.statuspage.io` 
 
- **Reported:** 2023-03-13 06:32:37.751 +0000 UTC 
+ **Reported:** 2023-03-25 12:03:09.364 +0000 UTC 
 
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: manage.statuspage.io** 
 
 ### 17. Program Details : 
 
-**Name:** Atlassian-Built Apps 
+**Name:** lululemon 
 
- **Link:** <https://bugcrowd.com/atlassianapps> 
+ **Link:** <https://bugcrowd.com/lululemon> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:** Captain_hook 
+ **Hacker:**  
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-04-02 13:34:39.044 +0000 UTC 
+ **Reported:** 2023-04-02 16:49:28.682 +0000 UTC 
 
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 18. Program Details : 
 
-**Name:** U.S International Development Finance Corporation - Vulnerability Disclosure Program 
+**Name:** Cisco Meraki 
 
- **Link:** <https://bugcrowd.com/dfc-vdp> 
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` *.dfc.gov` 
+ **Target:** ` meraki.cisco.com` 
 
- **Reported:** 2023-04-06 17:48:02.972 +0000 UTC 
+ **Reported:** 2023-03-26 07:41:45.18 +0000 UTC 
 
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.dfc.gov** 
+ **Submission accepted on target: meraki.cisco.com** 
 
 ### 19. Program Details : 
 
-**Name:** Indeed 
+**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/cigie-vdp> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
- **Hacker:** Shree_kamboj 
+ **Hacker:** nynan 
 
- **Points:** 40 
+ **Points:** 0 
 
- **Target:** ` Any host/web property verified to be owned by Indeed` 
+ **Target:** ` *.oversight.gov` 
 
- **Reported:** 2023-04-04 10:52:17.114 +0000 UTC 
+ **Reported:** 2023-03-08 15:04:03.817 +0000 UTC 
 
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+ **Submission accepted on target: *.oversight.gov** 
 
 ### 20. Program Details : 
 
-**Name:** Bugcrowd 
+**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/bugcrowd> 
+ **Link:** <https://bugcrowd.com/cigie-vdp> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:** MadamZ 
+ **Hacker:** nynan 
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` Crowdcontrol` 
+ **Target:** ` *.oversight.gov` 
 
- **Reported:** 2023-03-28 08:52:52.985 +0000 UTC 
+ **Reported:** 2023-03-08 14:53:33.561 +0000 UTC 
 
- **Accepted:** 2023-04-06 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-10 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Crowdcontrol** 
+ **Submission accepted on target: *.oversight.gov** 
 
-## End of Crowdstream for 2023-April-10 09:51:55
+## End of Crowdstream for 2023-April-11 09:51:58
