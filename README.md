@@ -1,7 +1,67 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-13 09:52:00
+## BugCrowd Crowdstream | Date:  2023-April-14 09:51:46
                             
 ### 1. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** ahmedmehtab 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-03-14 01:33:09.642 +0000 UTC 
+
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 2. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P2 
+
+ **Hacker:** ahmedmehtab 
+
+ **Points:** 20 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-03-13 22:21:00.804 +0000 UTC 
+
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 3. Program Details : 
+
+**Name:** DataZoom Payment Processing 
+
+ **Link:** <https://bugcrowd.com/datazoom> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-12 12:05:14.462 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 4. Program Details : 
 
 **Name:** Skyscanner 
 
@@ -15,77 +75,17 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-03-09 05:39:57.748 +0000 UTC 
+ **Reported:** 2023-03-09 05:56:54.308 +0000 UTC 
 
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
  **Submission accepted** 
-
-### 2. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-04-01 01:09:54.639 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
-
-### 3. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-03-29 05:45:33.853 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
-
-### 4. Program Details : 
-
-**Name:** Deutsche Bank Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/deutschebank-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any Deutsche Bank Asset` 
-
- **Reported:** 2023-03-18 02:31:37.298 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any Deutsche Bank Asset** 
 
 ### 5. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/netgear> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
  **Severity:** P4 
 
@@ -93,193 +93,193 @@
 
  **Points:** 0 
 
- **Target:** ` Nighthawk Router` 
+ **Target:** ` Any host/web property verified to be owned by Indeed` 
 
- **Reported:** 2023-03-19 23:17:23.484 +0000 UTC 
+ **Reported:** 2023-03-21 18:33:25.162 +0000 UTC 
 
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Nighthawk Router** 
+ **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
 
 ### 6. Program Details : 
 
-**Name:** NETGEAR Cash Rewards 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** fin41x 
-
- **Points:** 10 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2023-03-06 09:11:23.177 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 7. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** kisimre 
-
- **Points:** 0 
-
- **Target:** ` Nighthawk Pro Gaming Router` 
-
- **Reported:** 2023-03-01 22:24:21.755 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Pro Gaming Router** 
-
-### 8. Program Details : 
-
-**Name:** NETGEAR Cash Rewards 
-
- **Link:** <https://bugcrowd.com/netgear> 
-
- **Severity:** P3 
-
- **Hacker:** fin41x 
-
- **Points:** 10 
-
- **Target:** ` Nighthawk Router` 
-
- **Reported:** 2022-07-29 10:56:15.382 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Nighthawk Router** 
-
-### 9. Program Details : 
-
-**Name:** ExpressVPN 
-
- **Link:** <https://bugcrowd.com/expressvpn> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
  **Severity:** P4 
 
- **Hacker:** zonduu 
+ **Hacker:**  
 
  **Points:** 5 
 
- **Target:** ` *.xvtest.net` 
+ **Target:** ` https://interviews.indeed.com` 
 
- **Reported:** 2023-04-11 18:50:39.393 +0000 UTC 
+ **Reported:** 2023-02-27 10:14:35.924 +0000 UTC 
 
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.xvtest.net** 
+ **Submission accepted on target: https://interviews.indeed.com** 
+
+### 7. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:** sayin 
+
+ **Points:** 0 
+
+ **Target:** ` businessinsider.com.au` 
+
+ **Reported:** 2023-04-06 06:47:43.432 +0000 UTC 
+
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: businessinsider.com.au** 
+
+### 8. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:** sey1 
+
+ **Points:** 0 
+
+ **Target:** ` theage.com.au` 
+
+ **Reported:** 2023-04-06 12:55:23.47 +0000 UTC 
+
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: theage.com.au** 
+
+### 9. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:** harrmahar 
+
+ **Points:** 0 
+
+ **Target:** ` businessinsider.com.au` 
+
+ **Reported:** 2023-04-06 14:02:28.901 +0000 UTC 
+
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: businessinsider.com.au** 
 
 ### 10. Program Details : 
 
-**Name:** Trello 
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/trello> 
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
 
- **Severity:** P2 
+ **Severity:** P4 
 
- **Hacker:** Hx01 
+ **Hacker:** sayin 
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` Microsoft Teams Integration` 
+ **Target:** ` brisbanetimes.com.au` 
 
- **Reported:** 2023-03-15 19:34:55.68 +0000 UTC 
+ **Reported:** 2023-04-05 12:49:22.574 +0000 UTC 
 
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Microsoft Teams Integration** 
+ **Submission accepted on target: brisbanetimes.com.au** 
 
 ### 11. Program Details : 
 
-**Name:** SEEK  
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/seek> 
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** sayin 
 
  **Points:** 0 
 
- **Target:** ` *.seek.com` 
+ **Target:** ` businessinsider.com.au` 
 
- **Reported:** 2023-03-28 12:38:32.978 +0000 UTC 
+ **Reported:** 2023-04-06 01:25:35.081 +0000 UTC 
 
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.seek.com** 
+ **Submission accepted on target: businessinsider.com.au** 
 
 ### 12. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P4 
-
- **Hacker:** UpdateLap 
-
- **Points:** 0 
-
- **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
-
- **Reported:** 2023-03-21 12:47:45.439 +0000 UTC 
-
- **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
-
-### 13. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-02-26 09:51:58.791 +0000 UTC 
-
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 14. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
 
  **Severity:** P3 
 
- **Hacker:** refaat1 
+ **Hacker:** sayin 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` app.segment.com` 
+ **Target:** ` businessinsider.com.au` 
 
- **Reported:** 2023-03-24 01:36:32.77 +0000 UTC 
+ **Reported:** 2023-04-05 13:13:55.755 +0000 UTC 
 
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-14 00:00:00 +0000 UTC 
 
- **Submission accepted on target: app.segment.com** 
+ **Submission accepted on target: businessinsider.com.au** 
+
+### 13. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
+
+ **Severity:** P2 
+
+ **Hacker:** ex7lted 
+
+ **Points:** 20 
+
+ **Target:** ` *.meraki.com` 
+
+ **Reported:** 2023-04-06 23:44:16.935 +0000 UTC 
+
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.meraki.com** 
+
+### 14. Program Details : 
+
+**Name:** OpenAI 
+
+ **Link:** <https://bugcrowd.com/openai> 
+
+ **Severity:** P4 
+
+ **Hacker:** cry_baby 
+
+ **Points:** 5 
+
+ **Target:** ` *.openai.com` 
+
+ **Reported:** 2023-04-13 14:01:26.462 +0000 UTC 
+
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.openai.com** 
 
 ### 15. Program Details : 
 
@@ -289,99 +289,59 @@
 
  **Severity:** P4 
 
- **Hacker:**  
+ **Hacker:** b11r1m 
 
  **Points:** 0 
 
- **Target:** ` ChatGPT` 
+ **Target:** ` openai.com` 
 
- **Reported:** 2023-04-12 12:02:03.376 +0000 UTC 
+ **Reported:** 2023-04-13 01:17:34.958 +0000 UTC 
 
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: ChatGPT** 
+ **Submission accepted on target: openai.com** 
 
 ### 16. Program Details : 
 
-**Name:** Cisco Responsible Disclosure 
+**Name:** OpenAI 
 
- **Link:** <https://bugcrowd.com/ciscosecurity> 
+ **Link:** <https://bugcrowd.com/openai> 
 
- **Severity:** P1 
+ **Severity:** P5 
 
- **Hacker:** Shroud 
+ **Hacker:** Golu369 
 
  **Points:** 0 
 
- **Target:** `  Cisco Systems operational infrastructure` 
+ **Target:** ` api.openai.com` 
 
- **Reported:** 2023-04-10 07:49:47.816 +0000 UTC 
+ **Reported:** 2023-04-12 19:13:15.726 +0000 UTC 
 
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
+ **Submission accepted on target: api.openai.com** 
 
 ### 17. Program Details : 
 
-**Name:** Intercom 
+**Name:** Unity Technology 
 
- **Link:** <https://bugcrowd.com/intercom> 
+ **Link:** <https://bugcrowd.com/unity> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` https://app.intercom.com` 
+ **Target:** ` ` 
 
- **Reported:** 2022-12-02 04:12:14.25 +0000 UTC 
+ **Reported:** 2023-04-08 05:43:24.61 +0000 UTC 
 
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://app.intercom.com** 
+ **Submission accepted** 
 
 ### 18. Program Details : 
-
-**Name:** Intercom 
-
- **Link:** <https://bugcrowd.com/intercom> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://api.intercom.io` 
-
- **Reported:** 2023-01-20 17:09:03.493 +0000 UTC 
-
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://api.intercom.io** 
-
-### 19. Program Details : 
-
-**Name:** Intercom 
-
- **Link:** <https://bugcrowd.com/intercom> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://api.intercom.io` 
-
- **Reported:** 2023-01-20 14:21:27.451 +0000 UTC 
-
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://api.intercom.io** 
-
-### 20. Program Details : 
 
 **Name:** OpenAI 
 
@@ -389,16 +349,56 @@
 
  **Severity:** P4 
 
- **Hacker:** Nagli 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Other` 
+ **Target:** ` *.openai.org` 
 
- **Reported:** 2023-04-11 17:42:14.268 +0000 UTC 
+ **Reported:** 2023-04-12 19:32:12.324 +0000 UTC 
 
- **Accepted:** 2023-04-12 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Other** 
+ **Submission accepted on target: *.openai.org** 
 
-## End of Crowdstream for 2023-April-13 09:52:00
+### 19. Program Details : 
+
+**Name:** Unity Technology 
+
+ **Link:** <https://bugcrowd.com/unity> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-03-12 17:56:14.59 +0000 UTC 
+
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 20. Program Details : 
+
+**Name:** Unity Technology 
+
+ **Link:** <https://bugcrowd.com/unity> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-03-12 17:58:03.566 +0000 UTC 
+
+ **Accepted:** 2023-04-13 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+## End of Crowdstream for 2023-April-14 09:51:46
