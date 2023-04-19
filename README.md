@@ -1,5 +1,5 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-18 09:51:53
+## BugCrowd Crowdstream | Date:  2023-April-19 09:52:23
                             
 ### 1. Program Details : 
 
@@ -7,361 +7,61 @@
 
  **Link:** <https://bugcrowd.com/unilever-vdp> 
 
- **Severity:** P1 
-
- **Hacker:** nynan 
-
- **Points:** 0 
-
- **Target:** ` *.bedhead.com/uk/` 
-
- **Reported:** 2023-04-17 15:50:57.648 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bedhead.com/uk/** 
-
-### 2. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
  **Severity:** P3 
-
- **Hacker:** c4ng4c3ir0 
-
- **Points:** 0 
-
- **Target:** ` https://www.simpleskincare.in/` 
-
- **Reported:** 2023-04-12 21:13:32.213 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.simpleskincare.in/** 
-
-### 3. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** c4ng4c3ir0 
-
- **Points:** 0 
-
- **Target:** ` https://www.simpleskincare.in/` 
-
- **Reported:** 2023-04-12 20:44:17.482 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.simpleskincare.in/** 
-
-### 4. Program Details : 
-
-**Name:** Telefónica Germany 
-
- **Link:** <https://bugcrowd.com/telefonicavdp> 
-
- **Severity:** P1 
-
- **Hacker:** n0_Be3r 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-17 13:33:15.027 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 5. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
-
- **Severity:** P3 
-
- **Hacker:** MBZ0x7 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-11 16:16:51.169 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 6. Program Details : 
-
-**Name:** Cisco Meraki 
-
- **Link:** <https://bugcrowd.com/ciscomeraki> 
-
- **Severity:** P4 
-
- **Hacker:** ex7lted 
-
- **Points:** 5 
-
- **Target:** ` *.meraki.com` 
-
- **Reported:** 2023-04-04 16:46:00.358 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.meraki.com** 
-
-### 7. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:** Hx01 
-
- **Points:** 20 
-
- **Target:** ` Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
-
- **Reported:** 2023-04-14 10:17:24.292 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
-
-### 8. Program Details : 
-
-**Name:** Twilio 
-
- **Link:** <https://bugcrowd.com/twilio> 
-
- **Severity:** P4 
-
- **Hacker:** Roberto99 
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Twilio` 
-
- **Reported:** 2023-04-01 08:47:16.591 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
-
-### 9. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any host/web property verified to be owned by Indeed` 
-
- **Reported:** 2023-03-23 16:12:02.545 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
-
-### 10. Program Details : 
-
-**Name:** OpenAI 
-
- **Link:** <https://bugcrowd.com/openai> 
-
- **Severity:** P4 
-
- **Hacker:** Nagli 
-
- **Points:** 5 
-
- **Target:** ` api.openai.com` 
-
- **Reported:** 2023-04-15 17:32:33.609 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: api.openai.com** 
-
-### 11. Program Details : 
-
-**Name:** OpenAI 
-
- **Link:** <https://bugcrowd.com/openai> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.openai.org` 
-
- **Reported:** 2023-04-14 12:54:01.281 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.openai.org** 
-
-### 12. Program Details : 
-
-**Name:** Square 
-
- **Link:** <https://bugcrowd.com/square> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-02 12:36:10.192 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 13. Program Details : 
-
-**Name:** Council of the Inspectors General on Integrity and Efficiency Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/cigie-vdp> 
-
- **Severity:** P5 
-
- **Hacker:** mohit_1 
-
- **Points:** 0 
-
- **Target:** ` *.oversight.gov` 
-
- **Reported:** 2022-10-02 05:22:14.077 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.oversight.gov** 
-
-### 14. Program Details : 
-
-**Name:** OneTrust 
-
- **Link:** <https://bugcrowd.com/onetrust> 
-
- **Severity:** P4 
-
- **Hacker:** Codermak 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-15 23:30:44.367 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 15. Program Details : 
-
-**Name:** Electroneum 
-
- **Link:** <https://bugcrowd.com/electroneum> 
-
- **Severity:** P4 
 
  **Hacker:** ArielRachamim 
 
- **Points:** 5 
-
- **Target:** ` https://electroneum.com/` 
-
- **Reported:** 2023-04-06 20:57:03.923 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://electroneum.com/** 
-
-### 16. Program Details : 
-
-**Name:** TripAdvisor  
-
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
  **Points:** 0 
 
- **Target:** ` Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below` 
+ **Target:** ` https://www.murad.com.my` 
 
- **Reported:** 2023-04-12 18:14:06.99 +0000 UTC 
+ **Reported:** 2023-04-13 16:36:24.512 +0000 UTC 
 
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for what’s explicitly listed as Out-of-Scope below** 
+ **Submission accepted on target: https://www.murad.com.my** 
 
-### 17. Program Details : 
+### 2. Program Details : 
 
-**Name:** Newfold Vdeck VDP 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/newfold-vdeck-vdp> 
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P2 
+
+ **Hacker:** Th3Pr0xyB0y 
+
+ **Points:** 20 
+
+ **Target:** ` Any host/web property verified to be owned by Indeed` 
+
+ **Reported:** 2023-04-09 17:19:35.103 +0000 UTC 
+
+ **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+
+### 3. Program Details : 
+
+**Name:** Bugcrowd 
+
+ **Link:** <https://bugcrowd.com/bugcrowd> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** MuhammadKhizerJaved 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` www1.ipage.com` 
+ **Target:** ` bugcrowd.com` 
 
- **Reported:** 2023-04-08 06:31:31.164 +0000 UTC 
+ **Reported:** 2022-06-07 21:54:10.662 +0000 UTC 
 
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
+ **Accepted:** 2022-06-27 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www1.ipage.com** 
+ **Submission accepted on target: bugcrowd.com** 
 
-### 18. Program Details : 
-
-**Name:** Newfold Vdeck VDP 
-
- **Link:** <https://bugcrowd.com/newfold-vdeck-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` www1.mydomain.com` 
-
- **Reported:** 2023-04-08 08:26:20.401 +0000 UTC 
-
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www1.mydomain.com** 
-
-### 19. Program Details : 
+### 4. Program Details : 
 
 **Name:** Indeed 
 
@@ -369,36 +69,336 @@
 
  **Severity:** P4 
 
- **Hacker:** Udhay03 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` https://*.indeed.com` 
+ **Target:** ` https://*.indeed.tech` 
 
- **Reported:** 2023-03-16 16:08:27.829 +0000 UTC 
+ **Reported:** 2023-04-06 08:07:26.61 +0000 UTC 
 
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://*.indeed.com** 
+ **Submission accepted on target: https://*.indeed.tech** 
 
-### 20. Program Details : 
+### 5. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Cisco Responsible Disclosure 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
 
  **Severity:** P4 
 
  **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)` 
+ **Target:** `  Cisco Systems operational infrastructure` 
 
- **Reported:** 2023-04-01 18:04:09.613 +0000 UTC 
+ **Reported:** 2023-03-26 19:21:15.255 +0000 UTC 
 
- **Accepted:** 2023-04-17 00:00:00 +0000 UTC 
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-## End of Crowdstream for 2023-April-18 09:51:53
+### 6. Program Details : 
+
+**Name:** Acorns Grow, Inc. 
+
+ **Link:** <https://bugcrowd.com/acorns> 
+
+ **Severity:** P3 
+
+ **Hacker:** catw0rld 
+
+ **Points:** 0 
+
+ **Target:** ` *.acorns.com` 
+
+ **Reported:** 2023-04-06 03:21:55.794 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.acorns.com** 
+
+### 7. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2023-03-26 06:19:29.526 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 8. Program Details : 
+
+**Name:** Etsy 
+
+ **Link:** <https://bugcrowd.com/etsy> 
+
+ **Severity:** P2 
+
+ **Hacker:** GeneralEG 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-06 21:05:34.054 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 9. Program Details : 
+
+**Name:** Etsy 
+
+ **Link:** <https://bugcrowd.com/etsy> 
+
+ **Severity:** P4 
+
+ **Hacker:** kadusantiago 
+
+ **Points:** 0 
+
+ **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
+
+ **Reported:** 2023-03-27 19:01:04.808 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
+
+### 10. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.hubspot.com` 
+
+ **Reported:** 2023-04-09 16:20:24.576 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.hubspot.com** 
+
+### 11. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-14 22:22:24.953 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 12. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-14 22:10:31.942 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 13. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-14 22:03:00.034 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 14. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** c4ng4c3ir0 
+
+ **Points:** 0 
+
+ **Target:** ` https://www.tatcha.co.uk/` 
+
+ **Reported:** 2023-04-12 19:11:41.738 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.tatcha.co.uk/** 
+
+### 15. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-13 17:38:41.979 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 16. Program Details : 
+
+**Name:** SpaceX/Starlink 
+
+ **Link:** <https://bugcrowd.com/spacex> 
+
+ **Severity:** P4 
+
+ **Hacker:** ibrahimnet 
+
+ **Points:** 0 
+
+ **Target:** ` SpaceX and Starlink assets (target information and rewards detailed above on the brief)` 
+
+ **Reported:** 2023-01-18 11:18:00.469 +0000 UTC 
+
+ **Accepted:** 2023-01-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: SpaceX and Starlink assets (target information and rewards detailed above on the brief)** 
+
+### 17. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Shroud 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-12 18:11:33.913 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 18. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P1 
+
+ **Hacker:** Shroud 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-06 18:36:46.687 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 19. Program Details : 
+
+**Name:** Cisco Responsible Disclosure 
+
+ **Link:** <https://bugcrowd.com/ciscosecurity> 
+
+ **Severity:** P3 
+
+ **Hacker:** xplo1t 
+
+ **Points:** 0 
+
+ **Target:** `  Cisco Systems operational infrastructure` 
+
+ **Reported:** 2023-04-14 16:14:02.441 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target:  Cisco Systems operational infrastructure** 
+
+### 20. Program Details : 
+
+**Name:** Rapyd 
+
+ **Link:** <https://bugcrowd.com/rapyd-og> 
+
+ **Severity:** P4 
+
+ **Hacker:** PuneetLucknowi 
+
+ **Points:** 0 
+
+ **Target:** ` jointhemoment.net` 
+
+ **Reported:** 2023-04-06 16:16:04.175 +0000 UTC 
+
+ **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: jointhemoment.net** 
+
+## End of Crowdstream for 2023-April-19 09:52:23
