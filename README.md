@@ -1,7 +1,167 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-20 09:52:02
+## BugCrowd Crowdstream | Date:  2023-April-21 09:51:50
                             
 ### 1. Program Details : 
+
+**Name:** iFood: Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/ifood-og> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-20 04:38:40.251 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 2. Program Details : 
+
+**Name:** Asana 
+
+ **Link:** <https://bugcrowd.com/asana> 
+
+ **Severity:** P4 
+
+ **Hacker:** iambouali 
+
+ **Points:** 0 
+
+ **Target:** ` app.asana.com` 
+
+ **Reported:** 2023-01-13 11:19:24.772 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: app.asana.com** 
+
+### 3. Program Details : 
+
+**Name:** Asana 
+
+ **Link:** <https://bugcrowd.com/asana> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` app.asana.com` 
+
+ **Reported:** 2023-02-07 07:19:53.957 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: app.asana.com** 
+
+### 4. Program Details : 
+
+**Name:** Square 
+
+ **Link:** <https://bugcrowd.com/square> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-13 14:45:32.609 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 5. Program Details : 
+
+**Name:** HubSpot 
+
+ **Link:** <https://bugcrowd.com/hubspot> 
+
+ **Severity:** P3 
+
+ **Hacker:** minhtuanact 
+
+ **Points:** 0 
+
+ **Target:** ` *.hubspot.com` 
+
+ **Reported:** 2023-04-14 04:23:52.776 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.hubspot.com** 
+
+### 6. Program Details : 
+
+**Name:** Aruba Networks Infrastructure Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-04-15 13:30:40.373 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 7. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P3 
+
+ **Hacker:** shanta-gharti 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-19 11:04:01.182 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 8. Program Details : 
+
+**Name:** Reseller Club VDP Pro 
+
+ **Link:** <https://bugcrowd.com/newfold-resellerclub-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://obmobileapp.com` 
+
+ **Reported:** 2023-03-22 16:15:55.209 +0000 UTC 
+
+ **Accepted:** 2023-04-20 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://obmobileapp.com** 
+
+### 9. Program Details : 
 
 **Name:** OLX Autos 
 
@@ -21,7 +181,7 @@
 
  **Submission accepted on target: *.olxautos.com.mx** 
 
-### 2. Program Details : 
+### 10. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -41,7 +201,7 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 3. Program Details : 
+### 11. Program Details : 
 
 **Name:** Docusign: Vulnerability Disclosure Program 
 
@@ -61,7 +221,7 @@
 
  **Submission accepted on target: All Docusign apps and assets not listed under the Out of Scope list ** 
 
-### 4. Program Details : 
+### 12. Program Details : 
 
 **Name:** OpenAI 
 
@@ -81,7 +241,7 @@
 
  **Submission accepted on target: *.openai.com** 
 
-### 5. Program Details : 
+### 13. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -101,7 +261,7 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 6. Program Details : 
+### 14. Program Details : 
 
 **Name:** Cisco Responsible Disclosure 
 
@@ -121,7 +281,7 @@
 
  **Submission accepted on target:  Cisco Systems operational infrastructure** 
 
-### 7. Program Details : 
+### 15. Program Details : 
 
 **Name:** AMEX - Global Business Travel Vulnerability Disclosure Program 
 
@@ -141,7 +301,7 @@
 
  **Submission accepted on target: *.amexgbt.com** 
 
-### 8. Program Details : 
+### 16. Program Details : 
 
 **Name:** AMEX - Global Business Travel Vulnerability Disclosure Program 
 
@@ -161,7 +321,7 @@
 
  **Submission accepted on target: *.gbtspain.com** 
 
-### 9. Program Details : 
+### 17. Program Details : 
 
 **Name:** AMEX - Global Business Travel Vulnerability Disclosure Program 
 
@@ -181,7 +341,7 @@
 
  **Submission accepted on target: *.hrgworldwide.com** 
 
-### 10. Program Details : 
+### 18. Program Details : 
 
 **Name:**  1Password 
 
@@ -201,7 +361,7 @@
 
  **Submission accepted on target: <Your own 1Pasword Personal Account> --> https://my.1password.com/** 
 
-### 11. Program Details : 
+### 19. Program Details : 
 
 **Name:** Unilever Vulnerability Disclosure Program 
 
@@ -221,7 +381,7 @@
 
  **Submission accepted on target: *.br.recepedia.com/** 
 
-### 12. Program Details : 
+### 20. Program Details : 
 
 **Name:** Cengage VDP 
 
@@ -241,164 +401,4 @@
 
  **Submission accepted on target: https://*.cengage.com** 
 
-### 13. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-19 11:05:46.758 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 14. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** ArielRachamim 
-
- **Points:** 0 
-
- **Target:** ` https://www.murad.com.my` 
-
- **Reported:** 2023-04-13 16:36:24.512 +0000 UTC 
-
- **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://www.murad.com.my** 
-
-### 15. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P2 
-
- **Hacker:** Th3Pr0xyB0y 
-
- **Points:** 20 
-
- **Target:** ` Any host/web property verified to be owned by Indeed` 
-
- **Reported:** 2023-04-09 17:19:35.103 +0000 UTC 
-
- **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
-
-### 16. Program Details : 
-
-**Name:** Bugcrowd 
-
- **Link:** <https://bugcrowd.com/bugcrowd> 
-
- **Severity:** P3 
-
- **Hacker:** MuhammadKhizerJaved 
-
- **Points:** 10 
-
- **Target:** ` bugcrowd.com` 
-
- **Reported:** 2022-06-07 21:54:10.662 +0000 UTC 
-
- **Accepted:** 2022-06-27 00:00:00 +0000 UTC 
-
- **Submission accepted on target: bugcrowd.com** 
-
-### 17. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://*.indeed.tech` 
-
- **Reported:** 2023-04-06 08:07:26.61 +0000 UTC 
-
- **Accepted:** 2023-04-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.tech** 
-
-### 18. Program Details : 
-
-**Name:** Cisco Responsible Disclosure 
-
- **Link:** <https://bugcrowd.com/ciscosecurity> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** `  Cisco Systems operational infrastructure` 
-
- **Reported:** 2023-03-26 19:21:15.255 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target:  Cisco Systems operational infrastructure** 
-
-### 19. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2023-03-26 06:19:29.526 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 20. Program Details : 
-
-**Name:** Etsy 
-
- **Link:** <https://bugcrowd.com/etsy> 
-
- **Severity:** P2 
-
- **Hacker:** GeneralEG 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-06 21:05:34.054 +0000 UTC 
-
- **Accepted:** 2023-04-18 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-## End of Crowdstream for 2023-April-20 09:52:02
+## End of Crowdstream for 2023-April-21 09:51:50
