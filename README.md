@@ -1,7 +1,307 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-April-24 09:52:06
+## BugCrowd Crowdstream | Date:  2023-April-25 09:51:56
                             
 ### 1. Program Details : 
+
+**Name:** Rarible 
+
+ **Link:** <https://bugcrowd.com/rarible-ogmbb> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-11 15:39:51.801 +0000 UTC 
+
+ **Accepted:** 2023-04-25 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 2. Program Details : 
+
+**Name:** CoinDCX Managed Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/coindcx-og> 
+
+ **Severity:** P2 
+
+ **Hacker:** khammad93 
+
+ **Points:** 0 
+
+ **Target:** ` https://*.coindcx.com` 
+
+ **Reported:** 2023-04-21 22:44:27.413 +0000 UTC 
+
+ **Accepted:** 2023-04-25 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.coindcx.com** 
+
+### 3. Program Details : 
+
+**Name:** Bitdefender 
+
+ **Link:** <https://bugcrowd.com/bitdefender> 
+
+ **Severity:** P1 
+
+ **Hacker:** Mikey96 
+
+ **Points:** 40 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-13 13:48:18.356 +0000 UTC 
+
+ **Accepted:** 2023-04-25 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 4. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://*.indeed.com` 
+
+ **Reported:** 2023-04-02 23:44:21.134 +0000 UTC 
+
+ **Accepted:** 2023-04-25 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.indeed.com** 
+
+### 5. Program Details : 
+
+**Name:** OpenAI 
+
+ **Link:** <https://bugcrowd.com/openai> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.openai.com` 
+
+ **Reported:** 2023-04-19 06:52:47.076 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.openai.com** 
+
+### 6. Program Details : 
+
+**Name:** OpenAI 
+
+ **Link:** <https://bugcrowd.com/openai> 
+
+ **Severity:** P2 
+
+ **Hacker:** Codermak 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-14 09:21:15.465 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 7. Program Details : 
+
+**Name:** Netflix 
+
+ **Link:** <https://bugcrowd.com/netflix> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Secondary Targets (read below)` 
+
+ **Reported:** 2023-04-23 23:41:47.528 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Secondary Targets (read below)** 
+
+### 8. Program Details : 
+
+**Name:** Kenna Security 
+
+ **Link:** <https://bugcrowd.com/kennasecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:** Shroud 
+
+ **Points:** 5 
+
+ **Target:** ` Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)` 
+
+ **Reported:** 2023-04-19 15:02:09.727 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)** 
+
+### 9. Program Details : 
+
+**Name:** Binance 
+
+ **Link:** <https://bugcrowd.com/binance> 
+
+ **Severity:** P1 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` binance.us` 
+
+ **Reported:** 2023-04-23 14:02:51.691 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: binance.us** 
+
+### 10. Program Details : 
+
+**Name:** lululemon 
+
+ **Link:** <https://bugcrowd.com/lululemon> 
+
+ **Severity:** P3 
+
+ **Hacker:** corraldev 
+
+ **Points:** 0 
+
+ **Target:** ` *.lululemon.com` 
+
+ **Reported:** 2023-04-17 08:57:27.867 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.lululemon.com** 
+
+### 11. Program Details : 
+
+**Name:** Kenna Security 
+
+ **Link:** <https://bugcrowd.com/kennasecurity> 
+
+ **Severity:** P4 
+
+ **Hacker:** kabukimr 
+
+ **Points:** 0 
+
+ **Target:** ` https://api.kennasecurity.com` 
+
+ **Reported:** 2023-03-11 14:03:44.741 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://api.kennasecurity.com** 
+
+### 12. Program Details : 
+
+**Name:** Aruba Networks Infrastructure Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-04-19 08:00:34.856 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+### 13. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P3 
+
+ **Hacker:** Youstin 
+
+ **Points:** 10 
+
+ **Target:** ` *.opera.com` 
+
+ **Reported:** 2023-04-04 15:58:15.714 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.opera.com** 
+
+### 14. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P4 
+
+ **Hacker:** narenda_security 
+
+ **Points:** 5 
+
+ **Target:** ` *.operafootball.com` 
+
+ **Reported:** 2023-04-13 16:23:54.242 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.operafootball.com** 
+
+### 15. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P4 
+
+ **Hacker:** Malcolmx 
+
+ **Points:** 5 
+
+ **Target:** ` *.takeaway.com` 
+
+ **Reported:** 2023-04-22 23:34:35.723 +0000 UTC 
+
+ **Accepted:** 2023-04-24 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.takeaway.com** 
+
+### 16. Program Details : 
 
 **Name:** WOO Network: Bug Bounty Program 
 
@@ -21,7 +321,7 @@
 
  **Submission accepted on target: https://x.woo.org/** 
 
-### 2. Program Details : 
+### 17. Program Details : 
 
 **Name:** Atlassian 
 
@@ -41,7 +341,7 @@
 
  **Submission accepted on target: Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)** 
 
-### 3. Program Details : 
+### 18. Program Details : 
 
 **Name:** Atlassian-Built Apps 
 
@@ -61,7 +361,7 @@
 
  **Submission accepted** 
 
-### 4. Program Details : 
+### 19. Program Details : 
 
 **Name:** Twilio 
 
@@ -81,7 +381,7 @@
 
  **Submission accepted on target: app.segment.com** 
 
-### 5. Program Details : 
+### 20. Program Details : 
 
 **Name:** Dell Technologies' Products Bug Bounty Program 
 
@@ -101,304 +401,4 @@
 
  **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
 
-### 6. Program Details : 
-
-**Name:** United Airlines 
-
- **Link:** <https://bugcrowd.com/united-vdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.united.com` 
-
- **Reported:** 2023-04-17 05:18:54.152 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.united.com** 
-
-### 7. Program Details : 
-
-**Name:** Cisco Meraki 
-
- **Link:** <https://bugcrowd.com/ciscomeraki> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` meraki.cisco.com` 
-
- **Reported:** 2023-04-19 11:28:33.173 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: meraki.cisco.com** 
-
-### 8. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Sophos Central` 
-
- **Reported:** 2023-04-17 03:16:59.476 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Sophos Central** 
-
-### 9. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P3 
-
- **Hacker:** mmg 
-
- **Points:** 0 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2023-04-05 12:00:16.725 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 10. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2023-04-11 07:07:53.335 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 11. Program Details : 
-
-**Name:** Tesla 
-
- **Link:** <https://bugcrowd.com/tesla> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.tesla.com` 
-
- **Reported:** 2023-04-13 22:51:39.129 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.tesla.com** 
-
-### 12. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2023-04-12 10:20:12.289 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 13. Program Details : 
-
-**Name:** Dell Technologies' Products Bug Bounty Program 
-
- **Link:** <https://bugcrowd.com/dell-product> 
-
- **Severity:** P2 
-
- **Hacker:** mmg 
-
- **Points:** 0 
-
- **Target:** ` Actively Supported, Bounty Eligible Dell Products` 
-
- **Reported:** 2023-04-06 19:48:02.566 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Actively Supported, Bounty Eligible Dell Products** 
-
-### 14. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P4 
-
- **Hacker:** null1433 
-
- **Points:** 0 
-
- **Target:** ` Sophos Central` 
-
- **Reported:** 2023-04-21 07:00:12.461 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Sophos Central** 
-
-### 15. Program Details : 
-
-**Name:** 20 Minuten 
-
- **Link:** <https://bugcrowd.com/twentyminuten> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://myshop.20min.ch` 
-
- **Reported:** 2023-04-18 19:39:12.967 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://myshop.20min.ch** 
-
-### 16. Program Details : 
-
-**Name:** OLX Autos 
-
- **Link:** <https://bugcrowd.com/olxgroup> 
-
- **Severity:** P1 
-
- **Hacker:** shamim_12_ 
-
- **Points:** 0 
-
- **Target:** ` *.olx.in` 
-
- **Reported:** 2023-04-20 07:50:54.026 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.olx.in** 
-
-### 17. Program Details : 
-
-**Name:** DICK'S Sporting Goods 
-
- **Link:** <https://bugcrowd.com/dickssportinggoods> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.dcsg.com` 
-
- **Reported:** 2023-04-18 21:14:12.961 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.dcsg.com** 
-
-### 18. Program Details : 
-
-**Name:** Netflix 
-
- **Link:** <https://bugcrowd.com/netflix> 
-
- **Severity:** P1 
-
- **Hacker:** Ebrietas 
-
- **Points:** 40 
-
- **Target:** ` Secondary Targets (read below)` 
-
- **Reported:** 2023-04-14 00:15:11.639 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Secondary Targets (read below)** 
-
-### 19. Program Details : 
-
-**Name:** Stiltsoft 
-
- **Link:** <https://bugcrowd.com/stiltsoft> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud` 
-
- **Reported:** 2023-04-21 11:45:47.047 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud** 
-
-### 20. Program Details : 
-
-**Name:** 20 Minuten 
-
- **Link:** <https://bugcrowd.com/twentyminuten> 
-
- **Severity:** P3 
-
- **Hacker:** Cold_R 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-16 16:18:13.765 +0000 UTC 
-
- **Accepted:** 2023-04-21 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-## End of Crowdstream for 2023-April-24 09:52:06
+## End of Crowdstream for 2023-April-25 09:51:56
