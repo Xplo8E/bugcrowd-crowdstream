@@ -1,71 +1,71 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-02 09:52:07
+## BugCrowd Crowdstream | Date:  2023-May-03 09:51:57
                             
 ### 1. Program Details : 
 
-**Name:** Binance 
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P4 
-
- **Hacker:** alicanact60 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-03-27 13:15:10.052 +0000 UTC 
-
- **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 2. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
  **Severity:** P3 
 
- **Hacker:** qu4ker 
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.bitdefender.com` 
+
+ **Reported:** 2023-04-01 23:02:53.285 +0000 UTC 
+
+ **Accepted:** 2023-05-03 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.bitdefender.com** 
+
+### 2. Program Details : 
+
+**Name:** Takeaway.com 
+
+ **Link:** <https://bugcrowd.com/takeaway> 
+
+ **Severity:** P3 
+
+ **Hacker:** theWeertic 
 
  **Points:** 10 
 
- **Target:** ` Any host/web property verified to be owned by Indeed` 
+ **Target:** ` *.takeaway.com` 
 
- **Reported:** 2023-04-11 20:58:50.822 +0000 UTC 
+ **Reported:** 2023-05-01 09:08:44.154 +0000 UTC 
 
- **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-03 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property verified to be owned by Indeed** 
+ **Submission accepted on target: *.takeaway.com** 
 
 ### 3. Program Details : 
 
-**Name:** OpenAI 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/openai> 
+ **Link:** <https://bugcrowd.com/atlassian> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** Oldie 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` *.openai.com` 
+ **Target:** ` Jira Software Server` 
 
- **Reported:** 2023-04-27 11:17:11.507 +0000 UTC 
+ **Reported:** 2023-03-29 18:45:04.623 +0000 UTC 
 
- **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-03 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.openai.com** 
+ **Submission accepted on target: Jira Software Server** 
 
 ### 4. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** Octopus 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/octopus-og> 
 
  **Severity:** P1 
 
@@ -73,33 +73,33 @@
 
  **Points:** 0 
 
- **Target:** ` *.ca.gov` 
+ **Target:** ` octopus.com` 
 
- **Reported:** 2023-05-01 21:15:17.313 +0000 UTC 
+ **Reported:** 2023-04-28 10:42:00.529 +0000 UTC 
 
- **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-03 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.ca.gov** 
+ **Submission accepted on target: octopus.com** 
 
 ### 5. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
 
- **Severity:** P1 
+ **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` *.ca.gov` 
+ **Target:** ` Any Nine owned asset` 
 
- **Reported:** 2023-05-01 21:38:56.902 +0000 UTC 
+ **Reported:** 2023-04-28 11:56:40.517 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-03 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.ca.gov** 
+ **Submission accepted on target: Any Nine owned asset** 
 
 ### 6. Program Details : 
 
@@ -107,26 +107,6 @@
 
  **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-04-29 14:08:29.518 +0000 UTC 
-
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 7. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
  **Severity:** P3 
 
  **Hacker:**  
@@ -135,17 +115,17 @@
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-28 16:38:33.898 +0000 UTC 
+ **Reported:** 2023-04-29 12:40:17.008 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
-### 8. Program Details : 
+### 7. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** Department of Labor 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/dol-vdp> 
 
  **Severity:** P1 
 
@@ -153,19 +133,39 @@
 
  **Points:** 0 
 
+ **Target:** ` https://*.dol.gov` 
+
+ **Reported:** 2023-05-02 10:51:19.319 +0000 UTC 
+
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://*.dol.gov** 
+
+### 8. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+
+ **Severity:** P3 
+
+ **Hacker:** h0rus77 
+
+ **Points:** 0 
+
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-28 23:20:19.444 +0000 UTC 
+ **Reported:** 2023-04-29 02:11:18.537 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
 ### 9. Program Details : 
 
-**Name:** Keeper Security Public Bounty Program 
+**Name:** State of California VDP 
 
- **Link:** <https://bugcrowd.com/keepersecurity> 
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
  **Severity:** P3 
 
@@ -173,13 +173,13 @@
 
  **Points:** 0 
 
- **Target:** ` Keeper Web Vault (US)` 
+ **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-29 09:55:59.806 +0000 UTC 
+ **Reported:** 2023-04-30 12:25:15.524 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Keeper Web Vault (US)** 
+ **Submission accepted on target: *.ca.gov** 
 
 ### 10. Program Details : 
 
@@ -189,15 +189,15 @@
 
  **Severity:** P3 
 
- **Hacker:** LeNgocHoa 
+ **Hacker:**  
 
  **Points:** 0 
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-05-01 12:03:09.796 +0000 UTC 
+ **Reported:** 2023-04-28 17:36:05.979 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
@@ -215,9 +215,9 @@
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-28 18:15:33.739 +0000 UTC 
+ **Reported:** 2023-04-28 16:53:18.479 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
@@ -235,97 +235,17 @@
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-28 10:36:29.829 +0000 UTC 
+ **Reported:** 2023-04-28 23:29:56.721 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
 ### 13. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** United States Department of Agriculture: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-04-28 17:51:39.815 +0000 UTC 
-
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 14. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-04-28 17:46:25.968 +0000 UTC 
-
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 15. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-04-28 22:53:09.627 +0000 UTC 
-
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 16. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-04-28 18:22:19.347 +0000 UTC 
-
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 17. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/usda-vdp> 
 
  **Severity:** P1 
 
@@ -333,72 +253,152 @@
 
  **Points:** 0 
 
- **Target:** ` *.ca.gov` 
+ **Target:** ` ` 
 
- **Reported:** 2023-04-28 13:22:56.977 +0000 UTC 
+ **Reported:** 2023-05-02 10:25:38.495 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.ca.gov** 
+ **Submission accepted** 
 
-### 18. Program Details : 
+### 14. Program Details : 
 
-**Name:** Trello 
+**Name:** Imperva Bug Bounty 
 
- **Link:** <https://bugcrowd.com/trello> 
+ **Link:** <https://bugcrowd.com/imperva-mbb> 
 
- **Severity:** P2 
+ **Severity:** P4 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` trello.com` 
+ **Target:** ` https://*.imperva.com` 
 
- **Reported:** 2023-04-26 20:40:44.194 +0000 UTC 
+ **Reported:** 2023-05-02 08:11:33.136 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
- **Submission accepted on target: trello.com** 
+ **Submission accepted on target: https://*.imperva.com** 
+
+### 15. Program Details : 
+
+**Name:** Etsy 
+
+ **Link:** <https://bugcrowd.com/etsy> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` www.etsy.com` 
+
+ **Reported:** 2023-04-25 10:39:42.099 +0000 UTC 
+
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.etsy.com** 
+
+### 16. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** st4nly0n 
+
+ **Points:** 10 
+
+ **Target:** ` Bitbucket Server` 
+
+ **Reported:** 2023-04-12 20:53:56.096 +0000 UTC 
+
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Bitbucket Server** 
+
+### 17. Program Details : 
+
+**Name:** Square 
+
+ **Link:** <https://bugcrowd.com/square> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-20 18:25:16.893 +0000 UTC 
+
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 18. Program Details : 
+
+**Name:** Square 
+
+ **Link:** <https://bugcrowd.com/square> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-20 18:46:01.013 +0000 UTC 
+
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
 
 ### 19. Program Details : 
 
-**Name:** Square 
+**Name:** Etsy 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/etsy> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:** mzamat 
+ **Hacker:**  
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` *.squareup.com` 
+ **Target:** ` Any publicly facing host owned by Etsy, including the below:` 
 
- **Reported:** 2023-04-19 23:06:34.928 +0000 UTC 
+ **Reported:** 2023-04-10 05:04:20.584 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.squareup.com** 
+ **Submission accepted on target: Any publicly facing host owned by Etsy, including the below:** 
 
 ### 20. Program Details : 
 
-**Name:** Square 
+**Name:** Etsy 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/etsy> 
 
- **Severity:** P2 
+ **Severity:** P1 
 
- **Hacker:** mzamat 
+ **Hacker:** MRX149 
 
- **Points:** 20 
+ **Points:** 40 
 
- **Target:** ` *.squareup.com` 
+ **Target:** ` www.etsy.com` 
 
- **Reported:** 2023-04-17 19:30:12.142 +0000 UTC 
+ **Reported:** 2023-04-24 02:21:01.944 +0000 UTC 
 
- **Accepted:** 2023-05-01 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-02 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.squareup.com** 
+ **Submission accepted on target: www.etsy.com** 
 
-## End of Crowdstream for 2023-May-02 09:52:07
+## End of Crowdstream for 2023-May-03 09:51:57
