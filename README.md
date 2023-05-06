@@ -1,31 +1,31 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-05 09:51:56
+## BugCrowd Crowdstream | Date:  2023-May-06 09:52:10
                             
 ### 1. Program Details : 
 
-**Name:** codefortynine 
+**Name:** Arlo Cash Rewards 
 
- **Link:** <https://bugcrowd.com/codefortynine> 
+ **Link:** <https://bugcrowd.com/arlo> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
- **Hacker:**  
+ **Hacker:** BrandonReynolds 
 
- **Points:** 0 
+ **Points:** 20 
 
- **Target:** ` https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud` 
+ **Target:** ` *.arlo.com (production servers only)` 
 
- **Reported:** 2023-04-27 09:10:45.855 +0000 UTC 
+ **Reported:** 2023-03-30 21:30:18.694 +0000 UTC 
 
- **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-06 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud** 
+ **Submission accepted on target: *.arlo.com (production servers only)** 
 
 ### 2. Program Details : 
 
-**Name:** Victoria's Secret - VDP Pro 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/victoriassecret-vdp> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
  **Severity:** P4 
 
@@ -33,39 +33,19 @@
 
  **Points:** 0 
 
- **Target:** ` https://www.victoriassecret.com/us/` 
+ **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2023-05-02 05:11:15.09 +0000 UTC 
+ **Reported:** 2023-04-09 10:08:00.958 +0000 UTC 
 
  **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://www.victoriassecret.com/us/** 
+ **Submission accepted on target: https://*.indeed.com** 
 
 ### 3. Program Details : 
 
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
+**Name:** Indeed 
 
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.comcast.com` 
-
- **Reported:** 2023-04-25 19:36:41.874 +0000 UTC 
-
- **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.comcast.com** 
-
-### 4. Program Details : 
-
-**Name:** Digistorm 
-
- **Link:** <https://bugcrowd.com/digistorm> 
+ **Link:** <https://bugcrowd.com/indeed> 
 
  **Severity:** P3 
 
@@ -73,35 +53,15 @@
 
  **Points:** 0 
 
- **Target:** ` https://{account-code}-1.app.pentest.digistorm.com/admin` 
+ **Target:** ` https://*.indeed.com` 
 
- **Reported:** 2023-05-01 17:34:16.586 +0000 UTC 
+ **Reported:** 2023-04-09 13:52:18.741 +0000 UTC 
 
  **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://{account-code}-1.app.pentest.digistorm.com/admin** 
+ **Submission accepted on target: https://*.indeed.com** 
 
-### 5. Program Details : 
-
-**Name:** OpenAI 
-
- **Link:** <https://bugcrowd.com/openai> 
-
- **Severity:** P5 
-
- **Hacker:** Malcolmx 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-29 17:49:04.066 +0000 UTC 
-
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 6. Program Details : 
+### 4. Program Details : 
 
 **Name:** Netflix 
 
@@ -109,143 +69,103 @@
 
  **Severity:** P4 
 
- **Hacker:** psych012 
+ **Hacker:** Hussein 
 
- **Points:** 5 
+ **Points:** 0 
 
  **Target:** ` Secondary Targets (read below)` 
 
- **Reported:** 2023-04-29 18:58:51.656 +0000 UTC 
+ **Reported:** 2023-04-27 15:06:14.154 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
  **Submission accepted on target: Secondary Targets (read below)** 
 
-### 7. Program Details : 
+### 5. Program Details : 
 
-**Name:** Atlassian-Built Apps 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/atlassianapps> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server` 
-
- **Reported:** 2023-04-17 14:11:01.915 +0000 UTC 
-
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server** 
-
-### 8. Program Details : 
-
-**Name:** Cash App 
-
- **Link:** <https://bugcrowd.com/cashapp> 
-
- **Severity:** P2 
-
- **Hacker:** nikitastupin 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-05-01 09:18:15.461 +0000 UTC 
-
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 9. Program Details : 
-
-**Name:** Atlassian-Built Apps 
-
- **Link:** <https://bugcrowd.com/atlassianapps> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
  **Severity:** P3 
 
- **Hacker:** tn2_bugs 
+ **Hacker:** zeb0x01 
 
  **Points:** 10 
 
- **Target:** ` ` 
+ **Target:** ` Any host/web property verified to be owned by Twilio` 
 
- **Reported:** 2023-04-30 07:41:32.731 +0000 UTC 
+ **Reported:** 2023-03-22 17:11:40.658 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Any host/web property verified to be owned by Twilio** 
 
-### 10. Program Details : 
+### 6. Program Details : 
 
-**Name:** iFood: Bug Bounty Program 
+**Name:** Department of Labor 
 
- **Link:** <https://bugcrowd.com/ifood-og> 
+ **Link:** <https://bugcrowd.com/dol-vdp> 
 
- **Severity:** P2 
+ **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** Cyber_World 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` https://*.epolicyworks.org` 
 
- **Reported:** 2023-05-01 17:37:01.813 +0000 UTC 
+ **Reported:** 2023-05-04 08:21:00.006 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://*.epolicyworks.org** 
 
-### 11. Program Details : 
+### 7. Program Details : 
 
 **Name:** Atlassian 
 
  **Link:** <https://bugcrowd.com/atlassian> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:** Roberto99 
+ **Hacker:** khammad93 
 
- **Points:** 5 
+ **Points:** 0 
 
  **Target:** ` Other - (all other Atlassian targets)` 
 
- **Reported:** 2023-04-26 08:17:55.124 +0000 UTC 
+ **Reported:** 2023-04-29 00:12:10.366 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
  **Submission accepted on target: Other - (all other Atlassian targets)** 
 
-### 12. Program Details : 
+### 8. Program Details : 
 
-**Name:** Atlassian 
+**Name:** Twilio 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/twilio> 
 
- **Severity:** P3 
+ **Severity:** P0 
 
- **Hacker:** Th3Pr0xyB0y 
+ **Hacker:** evild03r 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` app.segment.com` 
 
- **Reported:** 2023-04-22 10:39:59.517 +0000 UTC 
+ **Reported:** 2023-02-06 17:40:45.648 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: app.segment.com** 
 
-### 13. Program Details : 
+### 9. Program Details : 
 
-**Name:** Braze Public BB 
+**Name:** Pinterest 
 
- **Link:** <https://bugcrowd.com/braze-bb> 
+ **Link:** <https://bugcrowd.com/pinterest> 
 
  **Severity:** P4 
 
@@ -253,152 +173,232 @@
 
  **Points:** 0 
 
- **Target:** ` http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com` 
+ **Target:** ` *.pinterest.com Web Apps` 
 
- **Reported:** 2023-05-02 18:33:55.355 +0000 UTC 
+ **Reported:** 2023-04-28 04:56:16.086 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com** 
+ **Submission accepted on target: *.pinterest.com Web Apps** 
 
-### 14. Program Details : 
+### 10. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** Department of Interior: Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/doi-vdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** shari7a0x 
+ **Hacker:** rodnt 
 
  **Points:** 0 
 
- **Target:** ` *.ca.gov` 
+ **Target:** ` *.doi.gov` 
 
- **Reported:** 2023-04-27 13:37:10.408 +0000 UTC 
+ **Reported:** 2023-04-16 20:48:22.125 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.ca.gov** 
+ **Submission accepted on target: *.doi.gov** 
 
-### 15. Program Details : 
+### 11. Program Details : 
+
+**Name:** Department of Interior: Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/doi-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** BugHuntar 
+
+ **Points:** 0 
+
+ **Target:** ` https://www.doioig.gov` 
+
+ **Reported:** 2023-05-01 17:12:05.274 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.doioig.gov** 
+
+### 12. Program Details : 
 
 **Name:** lululemon 
 
  **Link:** <https://bugcrowd.com/lululemon> 
 
- **Severity:** P1 
-
- **Hacker:** sheryar 
-
- **Points:** 0 
-
- **Target:** ` shop.lululemon.com` 
-
- **Reported:** 2023-04-15 22:41:38.36 +0000 UTC 
-
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: shop.lululemon.com** 
-
-### 16. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
  **Severity:** P3 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance` 
+ **Target:** ` *.lululemon.com` 
 
- **Reported:** 2023-04-26 07:57:02.771 +0000 UTC 
+ **Reported:** 2023-05-02 11:48:32.803 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance** 
+ **Submission accepted on target: *.lululemon.com** 
+
+### 13. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** alemarn 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-05-01 10:41:58.138 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
+
+### 14. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** alemarn 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-04-27 15:35:39.967 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
+
+### 15. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** alemarn 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-04-27 15:29:54.913 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
+
+### 16. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** alemarn 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-04-28 10:30:59.974 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
 
 ### 17. Program Details : 
 
-**Name:** Square 
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** Roberto99 
+ **Hacker:** alemarn 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Any Deutsche Bank Asset` 
 
- **Reported:** 2023-04-25 09:05:24.318 +0000 UTC 
+ **Reported:** 2023-04-25 14:42:07.984 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Any Deutsche Bank Asset** 
 
 ### 18. Program Details : 
 
-**Name:** Square 
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/square> 
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
 
  **Severity:** P3 
 
- **Hacker:** Roberto99 
+ **Hacker:** alemarn 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` Any Deutsche Bank Asset` 
 
- **Reported:** 2023-04-25 08:45:55.923 +0000 UTC 
+ **Reported:** 2023-04-24 14:47:19.301 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: Any Deutsche Bank Asset** 
 
 ### 19. Program Details : 
 
-**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
 
- **Link:** <https://bugcrowd.com/dhs-vdp> 
-
- **Severity:** P1 
-
- **Hacker:** bugclliper 
-
- **Points:** 0 
-
- **Target:** ` *.dhs.gov` 
-
- **Reported:** 2023-01-13 13:13:56.33 +0000 UTC 
-
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.dhs.gov** 
-
-### 20. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
 
  **Severity:** P3 
 
- **Hacker:** Hitroi 
+ **Hacker:** alemarn 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` *.sophos.com` 
+ **Target:** ` Any Deutsche Bank Asset` 
 
- **Reported:** 2023-04-24 02:02:05.573 +0000 UTC 
+ **Reported:** 2023-04-26 19:10:44.707 +0000 UTC 
 
- **Accepted:** 2023-05-04 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.sophos.com** 
+ **Submission accepted on target: Any Deutsche Bank Asset** 
 
-## End of Crowdstream for 2023-May-05 09:51:56
+### 20. Program Details : 
+
+**Name:** Deutsche Bank Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/deutschebank-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** alemarn 
+
+ **Points:** 0 
+
+ **Target:** ` Any Deutsche Bank Asset` 
+
+ **Reported:** 2023-04-26 19:28:44.765 +0000 UTC 
+
+ **Accepted:** 2023-05-05 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any Deutsche Bank Asset** 
+
+## End of Crowdstream for 2023-May-06 09:52:10
