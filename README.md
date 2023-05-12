@@ -1,27 +1,107 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-11 09:51:56
+## BugCrowd Crowdstream | Date:  2023-May-12 09:51:55
                             
 ### 1. Program Details : 
 
-**Name:** Bybit 
+**Name:** Atlassian 
 
- **Link:** <https://bugcrowd.com/bybit> 
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Atlassian Identity (https://id.atlassian.com/login)` 
+
+ **Reported:** 2023-05-11 07:53:23.917 +0000 UTC 
+
+ **Accepted:** 2023-05-12 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Atlassian Identity (https://id.atlassian.com/login)** 
+
+### 2. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
  **Severity:** P4 
 
- **Hacker:** vintage 
+ **Hacker:** ibrahim_0x 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-05-09 10:51:19.934 +0000 UTC 
+ **Reported:** 2023-05-11 14:08:37.62 +0000 UTC 
 
  **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.ca.gov** 
 
-### 2. Program Details : 
+### 3. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:** ibrahim_0x 
+
+ **Points:** 0 
+
+ **Target:** ` *.ca.gov` 
+
+ **Reported:** 2023-05-11 14:20:16.269 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ca.gov** 
+
+### 4. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
+
+ **Severity:** P2 
+
+ **Hacker:** ex7lted 
+
+ **Points:** 20 
+
+ **Target:** ` *.meraki.com` 
+
+ **Reported:** 2023-04-18 21:23:44.916 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.meraki.com** 
+
+### 5. Program Details : 
+
+**Name:** Cisco Meraki 
+
+ **Link:** <https://bugcrowd.com/ciscomeraki> 
+
+ **Severity:** P2 
+
+ **Hacker:** ex7lted 
+
+ **Points:** 20 
+
+ **Target:** ` *.meraki.com` 
+
+ **Reported:** 2023-04-18 15:17:46.145 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.meraki.com** 
+
+### 6. Program Details : 
 
 **Name:** Atlassian 
 
@@ -33,159 +113,79 @@
 
  **Points:** 0 
 
- **Target:** ` GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)` 
+ **Target:** ` Atlassian Atlas` 
 
- **Reported:** 2023-05-02 03:44:19.987 +0000 UTC 
-
- **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)** 
-
-### 3. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-21 07:33:21.069 +0000 UTC 
+ **Reported:** 2023-05-05 17:20:21.147 +0000 UTC 
 
  **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
-
-### 4. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
-
- **Severity:** P2 
-
- **Hacker:** c4tf1sh 
-
- **Points:** 20 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2023-05-03 23:49:34.156 +0000 UTC 
-
- **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-### 5. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:** Mikey96 
-
- **Points:** 10 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-20 17:46:39.973 +0000 UTC 
-
- **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 6. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-19 16:38:18.275 +0000 UTC 
-
- **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
-
- **Submission accepted** 
+ **Submission accepted on target: Atlassian Atlas** 
 
 ### 7. Program Details : 
 
-**Name:** Indeed 
+**Name:** Tyler Technologies Data & Insights – Tyler Data Platform, powered by Socrata 
 
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/tyler-tech-data-insights> 
 
- **Severity:** P3 
+ **Severity:** P2 
 
- **Hacker:** game0v3r 
-
- **Points:** 10 
-
- **Target:** ` https://*.indeed.com` 
-
- **Reported:** 2023-04-10 11:12:42.506 +0000 UTC 
-
- **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.indeed.com** 
-
-### 8. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P3 
-
- **Hacker:** corraldev 
+ **Hacker:** anilxx 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` https://opendata.test-socrata.com` 
 
- **Reported:** 2023-04-17 12:07:26.022 +0000 UTC 
+ **Reported:** 2023-04-08 09:05:05.07 +0000 UTC 
 
  **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: https://opendata.test-socrata.com** 
 
-### 9. Program Details : 
+### 8. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** iRobot 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/irobot> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
  **Hacker:**  
 
  **Points:** 0 
 
+ **Target:** ` https://www.irobot.com` 
+
+ **Reported:** 2023-05-05 17:32:58.344 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.irobot.com** 
+
+### 9. Program Details : 
+
+**Name:** Intercom 
+
+ **Link:** <https://bugcrowd.com/intercom> 
+
+ **Severity:** P2 
+
+ **Hacker:** b1ank 
+
+ **Points:** 20 
+
  **Target:** ` ` 
 
- **Reported:** 2023-04-16 15:26:26.003 +0000 UTC 
+ **Reported:** 2023-05-11 14:18:35.524 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 10. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** Trello 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/trello> 
 
  **Severity:** P3 
 
@@ -193,73 +193,73 @@
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` trello.com` 
 
- **Reported:** 2023-04-28 04:42:45.622 +0000 UTC 
+ **Reported:** 2023-05-08 10:41:39.433 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: trello.com** 
 
 ### 11. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** Bureau of Land Management 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/blm-vdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** abison_binoy 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.nifc.gov` 
 
- **Reported:** 2023-04-29 20:17:35.459 +0000 UTC 
+ **Reported:** 2023-05-10 00:25:38.225 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.nifc.gov** 
 
 ### 12. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** Bureau of Land Management 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/blm-vdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** 3th1c_yuk1 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.blm.gov` 
 
- **Reported:** 2023-04-17 12:05:07.186 +0000 UTC 
+ **Reported:** 2023-05-10 06:30:18.644 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.blm.gov** 
 
 ### 13. Program Details : 
 
-**Name:** Unity Technology 
+**Name:** Bureau of Land Management 
 
- **Link:** <https://bugcrowd.com/unity> 
+ **Link:** <https://bugcrowd.com/blm-vdp> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:**  
+ **Hacker:** abison_binoy 
 
  **Points:** 0 
 
- **Target:** ` ` 
+ **Target:** ` *.nifc.gov` 
 
- **Reported:** 2023-04-29 19:02:12.091 +0000 UTC 
+ **Reported:** 2023-05-10 00:28:59.666 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted** 
+ **Submission accepted on target: *.nifc.gov** 
 
 ### 14. Program Details : 
 
@@ -267,39 +267,39 @@
 
  **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:** xssor 
+ **Hacker:** 0x4m 
 
  **Points:** 0 
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-05-10 09:25:38.424 +0000 UTC 
+ **Reported:** 2023-05-10 19:51:50.145 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
 ### 15. Program Details : 
 
-**Name:** State of California VDP 
+**Name:** Wise (ex-TransferWise) 
 
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+ **Link:** <https://bugcrowd.com/wise> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** xssor 
+ **Hacker:** timuriunusov 
 
- **Points:** 0 
+ **Points:** 10 
 
- **Target:** ` *.ca.gov` 
+ **Target:** ` Latest version of Wise iOS App` 
 
- **Reported:** 2023-05-10 00:39:51.899 +0000 UTC 
+ **Reported:** 2023-05-11 14:32:44.998 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.ca.gov** 
+ **Submission accepted on target: Latest version of Wise iOS App** 
 
 ### 16. Program Details : 
 
@@ -307,17 +307,17 @@
 
  **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
- **Severity:** P4 
+ **Severity:** P1 
 
- **Hacker:** mikaalif 
+ **Hacker:** 0x4m 
 
  **Points:** 0 
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-05-10 12:54:35.98 +0000 UTC 
+ **Reported:** 2023-05-10 14:46:41.521 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
@@ -327,6 +327,46 @@
 
  **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
+ **Severity:** P1 
+
+ **Hacker:** KerolesMagdy 
+
+ **Points:** 0 
+
+ **Target:** ` *.ca.gov` 
+
+ **Reported:** 2023-05-10 21:04:21.185 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ca.gov** 
+
+### 18. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.ca.gov` 
+
+ **Reported:** 2023-05-10 11:22:16.745 +0000 UTC 
+
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ca.gov** 
+
+### 19. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+
  **Severity:** P4 
 
  **Hacker:** xssor 
@@ -335,70 +375,30 @@
 
  **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-05-10 09:37:59.469 +0000 UTC 
+ **Reported:** 2023-05-10 00:32:44.854 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
  **Submission accepted on target: *.ca.gov** 
 
-### 18. Program Details : 
-
-**Name:** Unity Technology 
-
- **Link:** <https://bugcrowd.com/unity> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` www.unity3d.com` 
-
- **Reported:** 2022-12-16 23:53:32.971 +0000 UTC 
-
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.unity3d.com** 
-
-### 19. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)` 
-
- **Reported:** 2023-05-06 20:03:20.461 +0000 UTC 
-
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)** 
-
 ### 20. Program Details : 
 
-**Name:** Atlassian 
+**Name:** State of California VDP 
 
- **Link:** <https://bugcrowd.com/atlassian> 
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** 0x4m 
 
  **Points:** 0 
 
- **Target:** ` Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)` 
+ **Target:** ` *.ca.gov` 
 
- **Reported:** 2023-04-27 17:56:14.262 +0000 UTC 
+ **Reported:** 2023-05-10 19:56:28.409 +0000 UTC 
 
- **Accepted:** 2023-05-10 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-11 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)** 
+ **Submission accepted on target: *.ca.gov** 
 
-## End of Crowdstream for 2023-May-11 09:51:56
+## End of Crowdstream for 2023-May-12 09:51:55
