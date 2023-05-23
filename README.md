@@ -1,404 +1,404 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-22 09:51:50
+## BugCrowd Crowdstream | Date:  2023-May-23 09:52:09
                             
 ### 1. Program Details : 
 
-**Name:** Mastercard 
-
- **Link:** <https://bugcrowd.com/mastercard> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://developer.mastercard.com` 
-
- **Reported:** 2023-04-23 17:59:14.249 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://developer.mastercard.com** 
-
-### 2. Program Details : 
-
 **Name:**  Comcast Xfinity Vulnerability Disclosure Program 
 
  **Link:** <https://bugcrowd.com/comcastvdp> 
 
- **Severity:** P2 
-
- **Hacker:** pr0x33f1 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-07 19:29:43.794 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 3. Program Details : 
-
-**Name:** Skroutz Public Managed Bug Bounty 
-
- **Link:** <https://bugcrowd.com/skroutz> 
-
  **Severity:** P3 
 
- **Hacker:** DontSeeMe 
+ **Hacker:** SchizoDuckie 
 
  **Points:** 10 
 
- **Target:** ` https://www.skroutz.gr/` 
+ **Target:** ` *.sys.comcast.net` 
 
- **Reported:** 2023-05-19 19:21:46.472 +0000 UTC 
+ **Reported:** 2023-04-14 09:37:36.806 +0000 UTC 
 
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://www.skroutz.gr/** 
+ **Submission accepted on target: *.sys.comcast.net** 
+
+### 2. Program Details : 
+
+**Name:** CoinDCX Managed Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/coindcx-og> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://blog.coindcx.com` 
+
+ **Reported:** 2023-04-25 12:00:48.513 +0000 UTC 
+
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://blog.coindcx.com** 
+
+### 3. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://www.dermalogica.com ` 
+
+ **Reported:** 2023-05-17 09:32:10.965 +0000 UTC 
+
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://www.dermalogica.com ** 
 
 ### 4. Program Details : 
-
-**Name:**  Comcast Xfinity Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/comcastvdp> 
-
- **Severity:** P2 
-
- **Hacker:** venom26 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-05-03 19:16:04.773 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 5. Program Details : 
-
-**Name:** Bitdefender 
-
- **Link:** <https://bugcrowd.com/bitdefender> 
-
- **Severity:** P4 
-
- **Hacker:** vaxo94 
-
- **Points:** 0 
-
- **Target:** ` *.bitdefender.net` 
-
- **Reported:** 2023-05-20 14:49:40.034 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.bitdefender.net** 
-
-### 6. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-05-18 10:19:55.999 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 7. Program Details : 
-
-**Name:** SEEK  
-
- **Link:** <https://bugcrowd.com/seek> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` SEEK mobile app for Android` 
-
- **Reported:** 2023-03-20 14:19:25.603 +0000 UTC 
-
- **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
-
- **Submission accepted on target: SEEK mobile app for Android** 
-
-### 8. Program Details : 
-
-**Name:** Rakuten VDP 
-
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** sakyb7 
-
- **Points:** 0 
-
- **Target:** ` *.rakuten.com` 
-
- **Reported:** 2023-04-12 23:41:45.71 +0000 UTC 
-
- **Accepted:** 2023-05-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.rakuten.com** 
-
-### 9. Program Details : 
-
-**Name:** Rakuten VDP 
-
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.rakuten.com` 
-
- **Reported:** 2023-05-03 00:08:48.897 +0000 UTC 
-
- **Accepted:** 2023-05-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.rakuten.com** 
-
-### 10. Program Details : 
-
-**Name:** Rakuten VDP 
-
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** Cold_R 
-
- **Points:** 0 
-
- **Target:** ` *.rakuten.com` 
-
- **Reported:** 2023-04-19 01:10:50.373 +0000 UTC 
-
- **Accepted:** 2023-05-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.rakuten.com** 
-
-### 11. Program Details : 
-
-**Name:** Rakuten VDP 
-
- **Link:** <https://bugcrowd.com/rakuten-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** Cold_R 
-
- **Points:** 0 
-
- **Target:** ` *.rakuten.com` 
-
- **Reported:** 2023-04-19 01:18:27.787 +0000 UTC 
-
- **Accepted:** 2023-05-21 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.rakuten.com** 
-
-### 12. Program Details : 
-
-**Name:** Facebook 
-
- **Link:** <https://bugcrowd.com/facebook> 
-
- **Severity:** P4 
-
- **Hacker:** shanta-gharti 
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-05-18 14:26:56.132 +0000 UTC 
-
- **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
-
- **Submission Claimed** 
-
-### 13. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P1 
-
- **Hacker:** Lucqs 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-18 20:46:18.636 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 14. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P1 
-
- **Hacker:** Lucqs 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-18 17:48:40.038 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 15. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P1 
-
- **Hacker:** Lucqs 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-19 00:45:14.67 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 16. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** xssor 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-16 19:23:46.869 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 17. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** xssor 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-17 23:37:57.931 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 18. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** erengsec 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-17 12:07:44.885 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 19. Program Details : 
-
-**Name:** Department of Labor 
-
- **Link:** <https://bugcrowd.com/dol-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** h3xit 
-
- **Points:** 0 
-
- **Target:** ` https://*.jobcorps.org` 
-
- **Reported:** 2023-05-17 17:45:03.791 +0000 UTC 
-
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://*.jobcorps.org** 
-
-### 20. Program Details : 
 
 **Name:** Atlassian 
 
  **Link:** <https://bugcrowd.com/atlassian> 
 
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 10 
+
+ **Target:** ` Forge Platform` 
+
+ **Reported:** 2023-05-04 13:32:57.381 +0000 UTC 
+
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Forge Platform** 
+
+### 5. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Forge Platform` 
+
+ **Reported:** 2023-04-27 20:32:22.812 +0000 UTC 
+
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Forge Platform** 
+
+### 6. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
  **Severity:** P2 
 
- **Hacker:** Hx01 
+ **Hacker:** danieloizo 
 
- **Points:** 20 
+ **Points:** 0 
 
- **Target:** ` Atlassian Atlas` 
+ **Target:** ` app.segment.com` 
 
- **Reported:** 2023-05-14 17:22:23.945 +0000 UTC 
+ **Reported:** 2023-05-09 11:30:52.991 +0000 UTC 
 
- **Accepted:** 2023-05-19 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-23 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Atlassian Atlas** 
+ **Submission accepted on target: app.segment.com** 
 
-## End of Crowdstream for 2023-May-22 09:51:50
+### 7. Program Details : 
+
+**Name:** OpenAI 
+
+ **Link:** <https://bugcrowd.com/openai> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ChatGPT` 
+
+ **Reported:** 2023-04-28 23:11:42.673 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: ChatGPT** 
+
+### 8. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** SnowflakeSmasher 
+
+ **Points:** 0 
+
+ **Target:** ` *.ual.com` 
+
+ **Reported:** 2023-05-10 20:17:00.004 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ual.com** 
+
+### 9. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2023-05-01 23:19:56.22 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 10. Program Details : 
+
+**Name:** Nine Entertainment Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/nine-entertainment-vdp-pro> 
+
+ **Severity:** P1 
+
+ **Hacker:** amahrou1 
+
+ **Points:** 0 
+
+ **Target:** ` gizmodo.com.au` 
+
+ **Reported:** 2023-05-19 12:03:59.086 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: gizmodo.com.au** 
+
+### 11. Program Details : 
+
+**Name:** Statuspage 
+
+ **Link:** <https://bugcrowd.com/statuspage> 
+
+ **Severity:** P3 
+
+ **Hacker:** bananacake 
+
+ **Points:** 0 
+
+ **Target:** ` manage.statuspage.io` 
+
+ **Reported:** 2023-03-13 13:01:19.061 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: manage.statuspage.io** 
+
+### 12. Program Details : 
+
+**Name:** Statuspage 
+
+ **Link:** <https://bugcrowd.com/statuspage> 
+
+ **Severity:** P3 
+
+ **Hacker:** bananacake 
+
+ **Points:** 0 
+
+ **Target:** ` manage.statuspage.io` 
+
+ **Reported:** 2023-03-01 16:41:20.569 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: manage.statuspage.io** 
+
+### 13. Program Details : 
+
+**Name:** Statuspage 
+
+ **Link:** <https://bugcrowd.com/statuspage> 
+
+ **Severity:** P3 
+
+ **Hacker:** bananacake 
+
+ **Points:** 0 
+
+ **Target:** ` manage.statuspage.io` 
+
+ **Reported:** 2023-03-13 10:45:24.038 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: manage.statuspage.io** 
+
+### 14. Program Details : 
+
+**Name:** United Airlines 
+
+ **Link:** <https://bugcrowd.com/united-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` *.united.com` 
+
+ **Reported:** 2023-05-02 17:00:04.982 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.united.com** 
+
+### 15. Program Details : 
+
+**Name:** iFood: Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/ifood-og> 
+
+ **Severity:** P5 
+
+ **Hacker:** MBZ0x7 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-05-17 17:43:36.668 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 16. Program Details : 
+
+**Name:** iFood: Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/ifood-og> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-05-11 07:30:32.149 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 17. Program Details : 
+
+**Name:** iFood: Bug Bounty Program 
+
+ **Link:** <https://bugcrowd.com/ifood-og> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-05-11 07:12:30.319 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 18. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P3 
+
+ **Hacker:** newohah 
+
+ **Points:** 0 
+
+ **Target:** ` Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)` 
+
+ **Reported:** 2023-03-30 11:12:01.183 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)** 
+
+### 19. Program Details : 
+
+**Name:** Twilio 
+
+ **Link:** <https://bugcrowd.com/twilio> 
+
+ **Severity:** P1 
+
+ **Hacker:** calvis 
+
+ **Points:** 40 
+
+ **Target:** ` Twilio Console` 
+
+ **Reported:** 2023-05-22 11:28:51.168 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Twilio Console** 
+
+### 20. Program Details : 
+
+**Name:** Aruba Networks Infrastructure Public Program 
+
+ **Link:** <https://bugcrowd.com/aruba-public> 
+
+ **Severity:** P1 
+
+ **Hacker:** lappsec 
+
+ **Points:** 40 
+
+ **Target:** ` *.arubanetworks.com` 
+
+ **Reported:** 2023-05-17 15:21:48.635 +0000 UTC 
+
+ **Accepted:** 2023-05-22 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arubanetworks.com** 
+
+## End of Crowdstream for 2023-May-23 09:52:09
