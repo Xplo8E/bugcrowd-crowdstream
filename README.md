@@ -1,7 +1,187 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-26 09:51:56
+## BugCrowd Crowdstream | Date:  2023-May-27 09:52:02
                             
 ### 1. Program Details : 
+
+**Name:** Indeed 
+
+ **Link:** <https://bugcrowd.com/indeed> 
+
+ **Severity:** P4 
+
+ **Hacker:** jtran 
+
+ **Points:** 5 
+
+ **Target:** ` Any host/web property/ mobile app verified to be owned by Indeed` 
+
+ **Reported:** 2023-03-28 18:35:22.321 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any host/web property/ mobile app verified to be owned by Indeed** 
+
+### 2. Program Details : 
+
+**Name:** Netflix 
+
+ **Link:** <https://bugcrowd.com/netflix> 
+
+ **Severity:** P3 
+
+ **Hacker:** qu4ker 
+
+ **Points:** 10 
+
+ **Target:** ` Microsites` 
+
+ **Reported:** 2023-05-25 00:34:46.275 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Microsites** 
+
+### 3. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P4 
+
+ **Hacker:** ahmedmehtab 
+
+ **Points:** 5 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-03-07 22:36:17.669 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 4. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P4 
+
+ **Hacker:** ahmedmehtab 
+
+ **Points:** 5 
+
+ **Target:** ` *.sophos.com` 
+
+ **Reported:** 2023-03-18 22:09:34.616 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sophos.com** 
+
+### 5. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P4 
+
+ **Hacker:** dingus99 
+
+ **Points:** 5 
+
+ **Target:** ` *.sophos.com` 
+
+ **Reported:** 2023-02-18 23:58:28.09 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.sophos.com** 
+
+### 6. Program Details : 
+
+**Name:** Sophos 
+
+ **Link:** <https://bugcrowd.com/sophos> 
+
+ **Severity:** P3 
+
+ **Hacker:** ahmedmehtab 
+
+ **Points:** 10 
+
+ **Target:** ` Sophos Central` 
+
+ **Reported:** 2023-03-18 21:29:31.111 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Sophos Central** 
+
+### 7. Program Details : 
+
+**Name:** Atlassian 
+
+ **Link:** <https://bugcrowd.com/atlassian> 
+
+ **Severity:** P2 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
+
+ **Reported:** 2023-05-19 05:16:42.446 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
+
+### 8. Program Details : 
+
+**Name:** Cloudways 
+
+ **Link:** <https://bugcrowd.com/cloudways> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 10 
+
+ **Target:** ` platform.cloudways.com` 
+
+ **Reported:** 2023-05-09 02:01:38.23 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: platform.cloudways.com** 
+
+### 9. Program Details : 
+
+**Name:** Cloudways 
+
+ **Link:** <https://bugcrowd.com/cloudways> 
+
+ **Severity:** P5 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-11 22:02:02.155 +0000 UTC 
+
+ **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 10. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -21,7 +201,7 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 2. Program Details : 
+### 11. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -41,13 +221,13 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 3. Program Details : 
+### 12. Program Details : 
 
 **Name:** Pinterest 
 
  **Link:** <https://bugcrowd.com/pinterest> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
  **Hacker:**  
 
@@ -61,7 +241,7 @@
 
  **Submission accepted on target: *.pinterest.com Web Apps** 
 
-### 4. Program Details : 
+### 13. Program Details : 
 
 **Name:** You Need a Budget (YNAB) 
 
@@ -81,7 +261,7 @@
 
  **Submission accepted on target: https://staging-app.youneedabudget.com/** 
 
-### 5. Program Details : 
+### 14. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -101,7 +281,7 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 6. Program Details : 
+### 15. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -121,7 +301,7 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 7. Program Details : 
+### 16. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -141,7 +321,7 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 8. Program Details : 
+### 17. Program Details : 
 
 **Name:** Trello 
 
@@ -161,7 +341,7 @@
 
  **Submission accepted on target: *.trello.services** 
 
-### 9. Program Details : 
+### 18. Program Details : 
 
 **Name:** Trello 
 
@@ -181,7 +361,7 @@
 
  **Submission accepted** 
 
-### 10. Program Details : 
+### 19. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -201,7 +381,7 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 11. Program Details : 
+### 20. Program Details : 
 
 **Name:** State of California VDP 
 
@@ -221,184 +401,4 @@
 
  **Submission accepted on target: *.ca.gov** 
 
-### 12. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-05-24 12:23:24.985 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 13. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-25 08:38:50.176 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 14. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P1 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-25 08:42:44.779 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 15. Program Details : 
-
-**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/dhs-vdp> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.dhs.gov` 
-
- **Reported:** 2023-05-24 07:55:39.491 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.dhs.gov** 
-
-### 16. Program Details : 
-
-**Name:** Unilever Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/unilever-vdp> 
-
- **Severity:** P3 
-
- **Hacker:** akankshaverma 
-
- **Points:** 0 
-
- **Target:** ` *.unox.nl` 
-
- **Reported:** 2023-05-23 12:34:06.28 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.unox.nl** 
-
-### 17. Program Details : 
-
-**Name:** Department of Homeland Security: Vulnerability Disclosure Program 
-
- **Link:** <https://bugcrowd.com/dhs-vdp> 
-
- **Severity:** P2 
-
- **Hacker:** bugclliper 
-
- **Points:** 0 
-
- **Target:** ` *.dhs.gov` 
-
- **Reported:** 2023-05-11 18:21:38.114 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.dhs.gov** 
-
-### 18. Program Details : 
-
-**Name:** Xfinity Home & xFi 
-
- **Link:** <https://bugcrowd.com/xfinity-home> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-11 17:48:40.404 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 19. Program Details : 
-
-**Name:** Telefónica Germany 
-
- **Link:** <https://bugcrowd.com/telefonicavdp> 
-
- **Severity:** P4 
-
- **Hacker:** ali_0x11 
-
- **Points:** 0 
-
- **Target:** ` *.o2.de` 
-
- **Reported:** 2023-05-22 17:01:15.356 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.o2.de** 
-
-### 20. Program Details : 
-
-**Name:** Telefónica Germany 
-
- **Link:** <https://bugcrowd.com/telefonicavdp> 
-
- **Severity:** P4 
-
- **Hacker:** ali_0x11 
-
- **Points:** 0 
-
- **Target:** ` *.o2.de` 
-
- **Reported:** 2023-05-22 16:20:42.611 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.o2.de** 
-
-## End of Crowdstream for 2023-May-26 09:51:56
+## End of Crowdstream for 2023-May-27 09:52:02
