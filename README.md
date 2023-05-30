@@ -1,7 +1,267 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-29 09:51:57
+## BugCrowd Crowdstream | Date:  2023-May-30 09:52:05
                             
 ### 1. Program Details : 
+
+**Name:** Bluehost  
+
+ **Link:** <https://bugcrowd.com/newfold-bluehost> 
+
+ **Severity:** P2 
+
+ **Hacker:** aroly 
+
+ **Points:** 20 
+
+ **Target:** ` my.bluehost.com` 
+
+ **Reported:** 2023-03-27 12:27:23.973 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: my.bluehost.com** 
+
+### 2. Program Details : 
+
+**Name:** Opera Public Bug Bounty 
+
+ **Link:** <https://bugcrowd.com/opera> 
+
+ **Severity:** P3 
+
+ **Hacker:** HammadAhmed 
+
+ **Points:** 10 
+
+ **Target:** ` *.operafootball.com` 
+
+ **Reported:** 2023-05-26 23:49:03.172 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.operafootball.com** 
+
+### 3. Program Details : 
+
+**Name:** Rarible 
+
+ **Link:** <https://bugcrowd.com/rarible-ogmbb> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` rarible.com` 
+
+ **Reported:** 2023-05-27 12:03:28.846 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: rarible.com** 
+
+### 4. Program Details : 
+
+**Name:** LastPass 
+
+ **Link:** <https://bugcrowd.com/lastpass> 
+
+ **Severity:** P5 
+
+ **Hacker:** mmg 
+
+ **Points:** 0 
+
+ **Target:** ` Local computer apps (UWP application / Windows installer (MSI))` 
+
+ **Reported:** 2023-01-17 15:56:23.58 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Local computer apps (UWP application / Windows installer (MSI))** 
+
+### 5. Program Details : 
+
+**Name:** Rapyd 
+
+ **Link:** <https://bugcrowd.com/rapyd> 
+
+ **Severity:** P3 
+
+ **Hacker:** danzajork 
+
+ **Points:** 10 
+
+ **Target:** ` dashboard.rapyd.net` 
+
+ **Reported:** 2023-05-20 14:27:41.514 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: dashboard.rapyd.net** 
+
+### 6. Program Details : 
+
+**Name:** Newfold Vdeck VDP 
+
+ **Link:** <https://bugcrowd.com/newfold-vdeck-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` ipage.com` 
+
+ **Reported:** 2023-04-08 08:53:30.962 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: ipage.com** 
+
+### 7. Program Details : 
+
+**Name:** Facebook 
+
+ **Link:** <https://bugcrowd.com/facebook> 
+
+ **Severity:** P4 
+
+ **Hacker:** shanta-gharti 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-05-29 15:07:10.137 +0000 UTC 
+
+ **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
+
+ **Submission Claimed** 
+
+### 8. Program Details : 
+
+**Name:** Sisu Data 
+
+ **Link:** <https://bugcrowd.com/sisu> 
+
+ **Severity:** P4 
+
+ **Hacker:** bodhendu17 
+
+ **Points:** 5 
+
+ **Target:** ` https://vip.sisu.ai` 
+
+ **Reported:** 2023-04-04 16:37:00.961 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://vip.sisu.ai** 
+
+### 9. Program Details : 
+
+**Name:** Sisu Data 
+
+ **Link:** <https://bugcrowd.com/sisu> 
+
+ **Severity:** P3 
+
+ **Hacker:**  
+
+ **Points:** 0 
+
+ **Target:** ` https://vip.sisu.ai` 
+
+ **Reported:** 2022-07-04 01:06:11.535 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://vip.sisu.ai** 
+
+### 10. Program Details : 
+
+**Name:** Sisu Data 
+
+ **Link:** <https://bugcrowd.com/sisu> 
+
+ **Severity:** P3 
+
+ **Hacker:** zh 
+
+ **Points:** 10 
+
+ **Target:** ` https://vip.sisu.ai` 
+
+ **Reported:** 2022-10-27 21:53:37.936 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://vip.sisu.ai** 
+
+### 11. Program Details : 
+
+**Name:** Unilever Vulnerability Disclosure Program 
+
+ **Link:** <https://bugcrowd.com/unilever-vdp> 
+
+ **Severity:** P3 
+
+ **Hacker:** HammadAhmed 
+
+ **Points:** 0 
+
+ **Target:** ` ` 
+
+ **Reported:** 2023-04-13 02:07:31.035 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted** 
+
+### 12. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P3 
+
+ **Hacker:** smhtahsin33 
+
+ **Points:** 10 
+
+ **Target:** ` www.tripadvisor.com` 
+
+ **Reported:** 2023-05-21 17:12:59.611 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.tripadvisor.com** 
+
+### 13. Program Details : 
+
+**Name:** TripAdvisor  
+
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+
+ **Severity:** P3 
+
+ **Hacker:** smhtahsin33 
+
+ **Points:** 10 
+
+ **Target:** ` www.tripadvisor.com` 
+
+ **Reported:** 2023-04-13 22:09:16.85 +0000 UTC 
+
+ **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: www.tripadvisor.com** 
+
+### 14. Program Details : 
 
 **Name:** Binance 
 
@@ -21,7 +281,7 @@
 
  **Submission accepted on target: *.binance.com** 
 
-### 2. Program Details : 
+### 15. Program Details : 
 
 **Name:** Binance 
 
@@ -41,7 +301,7 @@
 
  **Submission accepted on target: *.binance.com** 
 
-### 3. Program Details : 
+### 16. Program Details : 
 
 **Name:** Binance 
 
@@ -61,7 +321,7 @@
 
  **Submission accepted on target: *.binance.com** 
 
-### 4. Program Details : 
+### 17. Program Details : 
 
 **Name:** Indeed 
 
@@ -81,7 +341,7 @@
 
  **Submission accepted on target: Any host/web property/ mobile app verified to be owned by Indeed** 
 
-### 5. Program Details : 
+### 18. Program Details : 
 
 **Name:** Netflix 
 
@@ -101,7 +361,7 @@
 
  **Submission accepted on target: Microsites** 
 
-### 6. Program Details : 
+### 19. Program Details : 
 
 **Name:** Sophos 
 
@@ -121,7 +381,7 @@
 
  **Submission accepted on target: Sophos Central** 
 
-### 7. Program Details : 
+### 20. Program Details : 
 
 **Name:** Sophos 
 
@@ -141,264 +401,4 @@
 
  **Submission accepted on target: *.sophos.com** 
 
-### 8. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P4 
-
- **Hacker:** dingus99 
-
- **Points:** 5 
-
- **Target:** ` *.sophos.com` 
-
- **Reported:** 2023-02-18 23:58:28.09 +0000 UTC 
-
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.sophos.com** 
-
-### 9. Program Details : 
-
-**Name:** Sophos 
-
- **Link:** <https://bugcrowd.com/sophos> 
-
- **Severity:** P3 
-
- **Hacker:** ahmedmehtab 
-
- **Points:** 10 
-
- **Target:** ` Sophos Central` 
-
- **Reported:** 2023-03-18 21:29:31.111 +0000 UTC 
-
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Sophos Central** 
-
-### 10. Program Details : 
-
-**Name:** Atlassian 
-
- **Link:** <https://bugcrowd.com/atlassian> 
-
- **Severity:** P2 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance` 
-
- **Reported:** 2023-05-19 05:16:42.446 +0000 UTC 
-
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance** 
-
-### 11. Program Details : 
-
-**Name:** Cloudways 
-
- **Link:** <https://bugcrowd.com/cloudways> 
-
- **Severity:** P5 
-
- **Hacker:**  
-
- **Points:** 10 
-
- **Target:** ` platform.cloudways.com` 
-
- **Reported:** 2023-05-09 02:01:38.23 +0000 UTC 
-
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
-
- **Submission accepted on target: platform.cloudways.com** 
-
-### 12. Program Details : 
-
-**Name:** Cloudways 
-
- **Link:** <https://bugcrowd.com/cloudways> 
-
- **Severity:** P5 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` ` 
-
- **Reported:** 2023-04-11 22:02:02.155 +0000 UTC 
-
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
-
- **Submission accepted** 
-
-### 13. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:** ryuku 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-16 03:23:27.613 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 14. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P3 
-
- **Hacker:** ryuku 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-16 04:09:32.803 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 15. Program Details : 
-
-**Name:** Pinterest 
-
- **Link:** <https://bugcrowd.com/pinterest> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.pinterest.com Web Apps` 
-
- **Reported:** 2023-05-16 10:10:10.112 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.pinterest.com Web Apps** 
-
-### 16. Program Details : 
-
-**Name:** You Need a Budget (YNAB) 
-
- **Link:** <https://bugcrowd.com/ynab> 
-
- **Severity:** P4 
-
- **Hacker:** george-devasia 
-
- **Points:** 5 
-
- **Target:** ` https://staging-app.youneedabudget.com/` 
-
- **Reported:** 2023-05-09 15:13:00.962 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://staging-app.youneedabudget.com/** 
-
-### 17. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** dantehbbh 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-24 16:14:08.543 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 18. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:** Tobirame 
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-23 07:15:59.156 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 19. Program Details : 
-
-**Name:** State of California VDP 
-
- **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
-
- **Severity:** P4 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.ca.gov` 
-
- **Reported:** 2023-05-24 18:18:20.217 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.ca.gov** 
-
-### 20. Program Details : 
-
-**Name:** Trello 
-
- **Link:** <https://bugcrowd.com/trello> 
-
- **Severity:** P3 
-
- **Hacker:** corraldev 
-
- **Points:** 0 
-
- **Target:** ` *.trello.services` 
-
- **Reported:** 2023-05-24 19:08:13.135 +0000 UTC 
-
- **Accepted:** 2023-05-25 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.trello.services** 
-
-## End of Crowdstream for 2023-May-29 09:51:57
+## End of Crowdstream for 2023-May-30 09:52:05
