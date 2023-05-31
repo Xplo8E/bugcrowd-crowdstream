@@ -1,127 +1,87 @@
 [![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)
-## BugCrowd Crowdstream | Date:  2023-May-30 09:52:05
+## BugCrowd Crowdstream | Date:  2023-May-31 09:51:50
                             
 ### 1. Program Details : 
 
-**Name:** Bluehost  
+**Name:** Bitdefender 
 
- **Link:** <https://bugcrowd.com/newfold-bluehost> 
+ **Link:** <https://bugcrowd.com/bitdefender> 
 
- **Severity:** P2 
+ **Severity:** P4 
 
- **Hacker:** aroly 
+ **Hacker:** JIF2R 
 
- **Points:** 20 
+ **Points:** 5 
 
- **Target:** ` my.bluehost.com` 
+ **Target:** ` *.bitdefender.com` 
 
- **Reported:** 2023-03-27 12:27:23.973 +0000 UTC 
+ **Reported:** 2023-05-28 19:39:33.89 +0000 UTC 
 
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: my.bluehost.com** 
+ **Submission accepted on target: *.bitdefender.com** 
 
 ### 2. Program Details : 
 
-**Name:** Opera Public Bug Bounty 
+**Name:** TripAdvisor  
 
- **Link:** <https://bugcrowd.com/opera> 
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
 
  **Severity:** P3 
 
- **Hacker:** HammadAhmed 
+ **Hacker:** smhtahsin33 
 
  **Points:** 10 
 
- **Target:** ` *.operafootball.com` 
+ **Target:** ` www.tripadvisor.com` 
 
- **Reported:** 2023-05-26 23:49:03.172 +0000 UTC 
+ **Reported:** 2023-05-21 15:48:02.099 +0000 UTC 
 
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.operafootball.com** 
+ **Submission accepted on target: www.tripadvisor.com** 
 
 ### 3. Program Details : 
 
-**Name:** Rarible 
+**Name:** TripAdvisor  
 
- **Link:** <https://bugcrowd.com/rarible-ogmbb> 
+ **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
 
  **Severity:** P3 
 
- **Hacker:**  
+ **Hacker:** serdaruzunay 
 
  **Points:** 0 
 
- **Target:** ` rarible.com` 
+ **Target:** ` www.tripadvisor.com` 
 
- **Reported:** 2023-05-27 12:03:28.846 +0000 UTC 
+ **Reported:** 2023-05-30 04:25:41.345 +0000 UTC 
 
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: rarible.com** 
+ **Submission accepted on target: www.tripadvisor.com** 
 
 ### 4. Program Details : 
 
-**Name:** LastPass 
+**Name:** Whatfix 
 
- **Link:** <https://bugcrowd.com/lastpass> 
+ **Link:** <https://bugcrowd.com/whatfix> 
 
- **Severity:** P5 
-
- **Hacker:** mmg 
-
- **Points:** 0 
-
- **Target:** ` Local computer apps (UWP application / Windows installer (MSI))` 
-
- **Reported:** 2023-01-17 15:56:23.58 +0000 UTC 
-
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: Local computer apps (UWP application / Windows installer (MSI))** 
-
-### 5. Program Details : 
-
-**Name:** Rapyd 
-
- **Link:** <https://bugcrowd.com/rapyd> 
-
- **Severity:** P3 
-
- **Hacker:** danzajork 
-
- **Points:** 10 
-
- **Target:** ` dashboard.rapyd.net` 
-
- **Reported:** 2023-05-20 14:27:41.514 +0000 UTC 
-
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
-
- **Submission accepted on target: dashboard.rapyd.net** 
-
-### 6. Program Details : 
-
-**Name:** Newfold Vdeck VDP 
-
- **Link:** <https://bugcrowd.com/newfold-vdeck-vdp> 
-
- **Severity:** P3 
+ **Severity:** P1 
 
  **Hacker:**  
 
  **Points:** 0 
 
- **Target:** ` ipage.com` 
+ **Target:** ` ` 
 
- **Reported:** 2023-04-08 08:53:30.962 +0000 UTC 
+ **Reported:** 2023-04-18 17:32:49.688 +0000 UTC 
 
- **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: ipage.com** 
+ **Submission accepted** 
 
-### 7. Program Details : 
+### 5. Program Details : 
 
 **Name:** Facebook 
 
@@ -135,270 +95,310 @@
 
  **Target:** ` ` 
 
- **Reported:** 2023-05-29 15:07:10.137 +0000 UTC 
+ **Reported:** 2023-05-29 15:10:02.351 +0000 UTC 
 
  **Accepted:** 0001-01-01 00:00:00 +0000 UTC 
 
  **Submission Claimed** 
 
-### 8. Program Details : 
+### 6. Program Details : 
 
-**Name:** Sisu Data 
+**Name:** Bybit 
 
- **Link:** <https://bugcrowd.com/sisu> 
+ **Link:** <https://bugcrowd.com/bybit> 
 
  **Severity:** P4 
 
- **Hacker:** bodhendu17 
+ **Hacker:** resource 
 
  **Points:** 5 
 
- **Target:** ` https://vip.sisu.ai` 
+ **Target:** ` https://www.bybit.com/` 
 
- **Reported:** 2023-04-04 16:37:00.961 +0000 UTC 
+ **Reported:** 2023-05-30 08:15:49.989 +0000 UTC 
 
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://vip.sisu.ai** 
+ **Submission accepted on target: https://www.bybit.com/** 
 
-### 9. Program Details : 
+### 7. Program Details : 
 
-**Name:** Sisu Data 
+**Name:** OpenAI 
 
- **Link:** <https://bugcrowd.com/sisu> 
-
- **Severity:** P3 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` https://vip.sisu.ai` 
-
- **Reported:** 2022-07-04 01:06:11.535 +0000 UTC 
-
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: https://vip.sisu.ai** 
-
-### 10. Program Details : 
-
-**Name:** Sisu Data 
-
- **Link:** <https://bugcrowd.com/sisu> 
+ **Link:** <https://bugcrowd.com/openai> 
 
  **Severity:** P3 
 
- **Hacker:** zh 
+ **Hacker:** Watler 
 
  **Points:** 10 
 
- **Target:** ` https://vip.sisu.ai` 
+ **Target:** ` ChatGPT` 
 
- **Reported:** 2022-10-27 21:53:37.936 +0000 UTC 
+ **Reported:** 2023-05-27 03:32:02.124 +0000 UTC 
 
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: https://vip.sisu.ai** 
+ **Submission accepted on target: ChatGPT** 
 
-### 11. Program Details : 
+### 8. Program Details : 
 
-**Name:** Unilever Vulnerability Disclosure Program 
+**Name:** Arlo Cash Rewards 
 
- **Link:** <https://bugcrowd.com/unilever-vdp> 
+ **Link:** <https://bugcrowd.com/arlo> 
+
+ **Severity:** P2 
+
+ **Hacker:** BrandonReynolds 
+
+ **Points:** 20 
+
+ **Target:** ` *.arloxcld.com (production servers only)` 
+
+ **Reported:** 2023-05-27 19:32:44.058 +0000 UTC 
+
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arloxcld.com (production servers only)** 
+
+### 9. Program Details : 
+
+**Name:** Arlo Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/arlo> 
 
  **Severity:** P3 
 
- **Hacker:** HammadAhmed 
+ **Hacker:** BrandonReynolds 
+
+ **Points:** 10 
+
+ **Target:** ` Arlo Base Station` 
+
+ **Reported:** 2023-05-27 04:50:54.629 +0000 UTC 
+
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: Arlo Base Station** 
+
+### 10. Program Details : 
+
+**Name:** Arlo Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/arlo> 
+
+ **Severity:** P3 
+
+ **Hacker:** mzamat 
+
+ **Points:** 10 
+
+ **Target:** ` https://myapi.arlo.com` 
+
+ **Reported:** 2023-05-17 11:38:12.565 +0000 UTC 
+
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: https://myapi.arlo.com** 
+
+### 11. Program Details : 
+
+**Name:** Arlo Cash Rewards 
+
+ **Link:** <https://bugcrowd.com/arlo> 
+
+ **Severity:** P2 
+
+ **Hacker:** yousefmo15 
 
  **Points:** 0 
 
  **Target:** ` ` 
 
- **Reported:** 2023-04-13 02:07:31.035 +0000 UTC 
+ **Reported:** 2023-05-12 20:10:27.166 +0000 UTC 
 
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
  **Submission accepted** 
 
 ### 12. Program Details : 
 
-**Name:** TripAdvisor  
+**Name:** Arlo Cash Rewards 
 
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
+ **Link:** <https://bugcrowd.com/arlo> 
 
- **Severity:** P3 
+ **Severity:** P1 
 
- **Hacker:** smhtahsin33 
+ **Hacker:** yousefmo15 
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` www.tripadvisor.com` 
+ **Target:** ` ` 
 
- **Reported:** 2023-05-21 17:12:59.611 +0000 UTC 
+ **Reported:** 2023-05-26 12:50:05.233 +0000 UTC 
 
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-31 00:00:00 +0000 UTC 
 
- **Submission accepted on target: www.tripadvisor.com** 
+ **Submission accepted** 
 
 ### 13. Program Details : 
 
-**Name:** TripAdvisor  
+**Name:** HubSpot 
 
- **Link:** <https://bugcrowd.com/tripadvisor-bb-og> 
-
- **Severity:** P3 
-
- **Hacker:** smhtahsin33 
-
- **Points:** 10 
-
- **Target:** ` www.tripadvisor.com` 
-
- **Reported:** 2023-04-13 22:09:16.85 +0000 UTC 
-
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: www.tripadvisor.com** 
-
-### 14. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-05-21 22:05:06.32 +0000 UTC 
-
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 15. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-05-21 14:27:59.954 +0000 UTC 
-
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 16. Program Details : 
-
-**Name:** Binance 
-
- **Link:** <https://bugcrowd.com/binance> 
-
- **Severity:** P0 
-
- **Hacker:**  
-
- **Points:** 0 
-
- **Target:** ` *.binance.com` 
-
- **Reported:** 2023-05-21 13:36:00.28 +0000 UTC 
-
- **Accepted:** 2023-05-29 00:00:00 +0000 UTC 
-
- **Submission accepted on target: *.binance.com** 
-
-### 17. Program Details : 
-
-**Name:** Indeed 
-
- **Link:** <https://bugcrowd.com/indeed> 
+ **Link:** <https://bugcrowd.com/hubspot> 
 
  **Severity:** P4 
 
- **Hacker:** jtran 
+ **Hacker:**  
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Any host/web property/ mobile app verified to be owned by Indeed` 
+ **Target:** ` *.hubspot.com` 
 
- **Reported:** 2023-03-28 18:35:22.321 +0000 UTC 
+ **Reported:** 2023-04-21 16:51:46.345 +0000 UTC 
 
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Any host/web property/ mobile app verified to be owned by Indeed** 
+ **Submission accepted on target: *.hubspot.com** 
 
-### 18. Program Details : 
+### 14. Program Details : 
 
 **Name:** Netflix 
 
  **Link:** <https://bugcrowd.com/netflix> 
 
- **Severity:** P3 
+ **Severity:** P4 
 
- **Hacker:** qu4ker 
+ **Hacker:**  
 
- **Points:** 10 
+ **Points:** 0 
 
- **Target:** ` Microsites` 
+ **Target:** ` Secondary Targets (read below)` 
 
- **Reported:** 2023-05-25 00:34:46.275 +0000 UTC 
+ **Reported:** 2023-05-30 18:39:56.56 +0000 UTC 
 
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Microsites** 
+ **Submission accepted on target: Secondary Targets (read below)** 
+
+### 15. Program Details : 
+
+**Name:** State of California VDP 
+
+ **Link:** <https://bugcrowd.com/cdt-vdp-pro> 
+
+ **Severity:** P2 
+
+ **Hacker:** jedus0r 
+
+ **Points:** 0 
+
+ **Target:** ` *.ca.gov` 
+
+ **Reported:** 2023-05-25 22:24:41.542 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.ca.gov** 
+
+### 16. Program Details : 
+
+**Name:** Arrow Electronics VDP 
+
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
+
+ **Severity:** P5 
+
+ **Hacker:** byth22 
+
+ **Points:** 0 
+
+ **Target:** ` *.arrow.com` 
+
+ **Reported:** 2023-05-20 01:10:46.354 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arrow.com** 
+
+### 17. Program Details : 
+
+**Name:** Arrow Electronics VDP 
+
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** nynan 
+
+ **Points:** 0 
+
+ **Target:** ` *.elektroda.pl` 
+
+ **Reported:** 2023-05-03 07:37:25.286 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.elektroda.pl** 
+
+### 18. Program Details : 
+
+**Name:** Arrow Electronics VDP 
+
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
+
+ **Severity:** P4 
+
+ **Hacker:** smallwang22 
+
+ **Points:** 0 
+
+ **Target:** ` *.arrow.com` 
+
+ **Reported:** 2023-05-14 04:55:39.203 +0000 UTC 
+
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
+
+ **Submission accepted on target: *.arrow.com** 
 
 ### 19. Program Details : 
 
-**Name:** Sophos 
+**Name:** Arrow Electronics VDP 
 
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
 
- **Severity:** P4 
+ **Severity:** P3 
 
- **Hacker:** ahmedmehtab 
+ **Hacker:** ryuku 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` Sophos Central` 
+ **Target:** ` *.verical.com` 
 
- **Reported:** 2023-03-07 22:36:17.669 +0000 UTC 
+ **Reported:** 2023-05-17 01:40:20.4 +0000 UTC 
 
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: Sophos Central** 
+ **Submission accepted on target: *.verical.com** 
 
 ### 20. Program Details : 
 
-**Name:** Sophos 
+**Name:** Arrow Electronics VDP 
 
- **Link:** <https://bugcrowd.com/sophos> 
+ **Link:** <https://bugcrowd.com/arrow-electronics-vdp> 
 
- **Severity:** P4 
+ **Severity:** P2 
 
- **Hacker:** ahmedmehtab 
+ **Hacker:** ryuku 
 
- **Points:** 5 
+ **Points:** 0 
 
- **Target:** ` *.sophos.com` 
+ **Target:** ` *.richardsonrfpd.com` 
 
- **Reported:** 2023-03-18 22:09:34.616 +0000 UTC 
+ **Reported:** 2023-05-17 04:43:50.75 +0000 UTC 
 
- **Accepted:** 2023-05-26 00:00:00 +0000 UTC 
+ **Accepted:** 2023-05-30 00:00:00 +0000 UTC 
 
- **Submission accepted on target: *.sophos.com** 
+ **Submission accepted on target: *.richardsonrfpd.com** 
 
-## End of Crowdstream for 2023-May-30 09:52:05
+## End of Crowdstream for 2023-May-31 09:51:50
