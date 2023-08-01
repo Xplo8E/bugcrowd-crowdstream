@@ -2,23 +2,28 @@ package main
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
+	"strconv"
 	"strings"
 	"time"
 )
 
+// CustomTime represents a custom time format with JSON unmarshalling support.
 type CustomTime struct {
 	time.Time
 }
 
+// Dateonly represents a date-only format with JSON unmarshalling support.
 type Dateonly struct {
 	time.Time
 }
+
+// Response represents the JSON response structure from BugCrowd API.
 type Response struct {
 	Results []struct {
 		Name            string     `json:"program_name"`
@@ -38,6 +43,7 @@ type Response struct {
 const reportedDateLayout = time.RFC3339
 const acceptedLayout = "2 Jan 2006"
 
+// UnmarshalJSON implements JSON unmarshalling for CustomTime.
 func (ct *CustomTime) UnmarshalJSON(b []byte) (err error) {
 	s := strings.Trim(string(b), "\"")
 	if s == "null" {
@@ -48,6 +54,7 @@ func (ct *CustomTime) UnmarshalJSON(b []byte) (err error) {
 	return
 }
 
+// UnmarshalJSON implements JSON unmarshalling for Dateonly.
 func (ct *Dateonly) UnmarshalJSON(b []byte) (err error) {
 	s := strings.Trim(string(b), "\"")
 	if s == "null" {
@@ -78,38 +85,20 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	// folder checking
-	archive := "archive"
-	if _, err := os.Stat(archive); os.IsNotExist(err) {
-		foldercreate(archive)
-	} else {
+	// Create a folder for the current year
+	year := time.Now().Year()
+	yearFolder := fmt.Sprintf("%d", year)
 
-		files, err := os.ReadDir(archive)
-		if err != nil {
-			log.Fatalln("error in listing archive directory")
-		}
-		if len(files) >= 100 {
-			fmt.Printf("%s folder contains 100+ files\n", archive)
-		}
+	// Create a folder for the current month inside the year folder
+	month := time.Now().Month().String()
+	monthFolder := filepath.Join(yearFolder, month)
 
-	}
+	// Ensure that the year and month folders exist
+	foldercreate(yearFolder)
+	foldercreate(monthFolder)
 
-	// end folder checking
-
-	// check file exist and rename to old name
-	path := "README.md"
-	old_name := fmt.Sprintf("archive/%v-README.md", time.Now().AddDate(0, 0, -1).Format("02-01-2006"))
-	if _, err := os.Stat(path); errors.Is(err, os.ErrNotExist) {
-		fmt.Println("README.md file is not exists")
-	} else {
-		err := os.Rename(path, old_name)
-		if err != nil {
-			log.Fatalln("error in renaming filename", err)
-		}
-	}
-	// end file checking
-
-	readmefile, err := os.Create("README.md")
+	// Create the new README.md file in the month folder
+	readmefile, err := os.Create(filepath.Join(monthFolder, fmt.Sprintf("%d-%02d-%02d-README.md", year, time.Now().Month(), time.Now().Day())))
 	if err != nil {
 		log.Println("Error in file creation", err)
 	}
@@ -120,44 +109,66 @@ func main() {
 
 	fmt.Fprintln(readmefile, "## BugCrowd Crowdstream | Date: ", time.Now().Format("2006-January-02 15:04:05"))
 
-	fmt.Fprintln(readmefile, "                            ")
 	for i, p := range jsonbody.Results {
-
+		// Write program details to the README.md file
 		fmt.Fprintf(readmefile, "### %d. Program Details : \n\n**Name:** %s \n\n **Link:** <https://bugcrowd.com/%s> \n\n **Severity:** P%d \n\n **Hacker:** %s \n\n **Points:** %d \n\n **Target:** ` %s` \n\n **Reported:** %s \n\n **Accepted:** %s \n\n **%s** \n\n", i+1, p.Name, p.Code, p.Severity, p.Hacker, p.Points, p.Asset, p.Reported, p.Accepted, p.Submission_text)
-
-		//		fmt.Printf("%d. Program Details : \n\tName: %s \n\tCode: %s \n\tSeverity: P%d \n\tHacker: %s \n\tPoints: %d \n\tTarget: %s \n\tReported : %s \n\tAccepted: %s \n\t%s \n\n", i+1, p.Code, p.Severity, p.Hacker, p.Points, p.Asset, p.Reported, p.Accepted, p.Submission_text)
-
-		/*		_, err := io.WriteString(readmefile, contentData)
-				if err != nil {
-					log.Fatalln("error in data write to file", err)
-				}*/
-
-		/*
-			fmt.Printf("%d. Program Details : \n", i+1)
-			fmt.Println("                            ")
-			fmt.Printf("\tName: %s \n", p.Name)
-			fmt.Printf("\tCode: %s \n", p.Code)
-			fmt.Printf("\tSeverity: P%d \n", p.Severity)
-			fmt.Printf("\tHacker: %s \n", p.Hacker)
-			fmt.Printf("\tPoints: %d \n", p.Points)
-			fmt.Printf("\tTarget: %s \n", p.Asset)
-			fmt.Printf("\tReported : %s \n", p.Reported)
-			fmt.Printf("\tAccepted: %s \n", p.Accepted)
-			fmt.Printf("\tTarget: %s \n", p.Asset)
-			fmt.Printf("\t%s \n", p.Submission_text)
-			fmt.Println("                            ")
-			fmt.Println("...............................")
-			fmt.Println("                            ")
-		*/
 	}
+
 	fmt.Fprintln(readmefile, "## End of Crowdstream for", time.Now().Format("2006-January-02 15:04:05"))
 	fmt.Println("Program Completed.")
+
+	// Move existing files to corresponding year/month folders
+	moveFilesToYearMonthFolders("archive")
 }
 
-func foldercreate(archive string) {
-	err := os.Mkdir(archive, 0700)
+// foldercreate creates the specified folder if it does not exist.
+func foldercreate(folderPath string) {
+	err := os.MkdirAll(folderPath, 0700)
 	if err != nil {
-		log.Println("Error in Creating Directory: ", archive)
+		log.Println("Error in Creating Directory: ", folderPath)
 		log.Fatalln(err)
+	}
+}
+
+// moveFilesToYearMonthFolders moves files from the source directory to corresponding year/month folders.
+func moveFilesToYearMonthFolders(sourceDir string) {
+	// List all files in the source directory
+	files, err := os.ReadDir(sourceDir)
+	if err != nil {
+		log.Fatalln("error in listing archive directory")
+	}
+
+	// Iterate through each file and move it to the corresponding year/month folder
+	for _, file := range files {
+		if !file.IsDir() {
+			fileName := file.Name()
+
+			// Extract the date from the filename (assuming filename is in the format DD-MM-YYYY-README.md)
+			parts := strings.Split(fileName, "-")
+			if len(parts) == 4 {
+				// day, _ := strconv.Atoi(parts[0])
+				month, _ := strconv.Atoi(parts[1])
+				year, _ := strconv.Atoi(parts[2])
+
+				// Create a folder for the current year
+				yearFolder := fmt.Sprintf("%d", year)
+
+				// Create a folder for the current month inside the year folder
+				monthFolder := filepath.Join(yearFolder, time.Month(month).String())
+
+				// Ensure that the year and month folders exist
+				foldercreate(yearFolder)
+				foldercreate(monthFolder)
+
+				// Move the file to the year/month folder
+				sourceFilePath := filepath.Join(sourceDir, fileName)
+				destFilePath := filepath.Join(monthFolder, fileName)
+
+				err := os.Rename(sourceFilePath, destFilePath)
+				if err != nil {
+					log.Printf("Error moving file %s to %s: %s\n", sourceFilePath, destFilePath, err)
+				}
+			}
+		}
 	}
 }
