@@ -130,7 +130,7 @@ func main() {
 	writeContent(readmeFile, jsonbody)
 
 	// Move existing files to corresponding year/month folders
-	moveFilesToYearMonthFolders("archive")
+	//moveFilesToYearMonthFolders("archive")
 
 	fmt.Println("Program Completed.")
 
