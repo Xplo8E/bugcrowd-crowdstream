@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"net/http"
-	"os"
 	"path/filepath"
+	"net/http"
+	"net/url"
+	"os"
 	"strconv"
 	"strings"
 	"time"
@@ -64,10 +65,18 @@ func (ct *Dateonly) UnmarshalJSON(b []byte) (err error) {
 	ct.Time, err = time.Parse(acceptedLayout, s)
 	return
 }
-
+// https://bugcrowd.com/crowdstream.json?page=1&filter_by=accepted%2Cdisclosures
 func main() {
 	page := 1
-	crowdstream := fmt.Sprintf("https://bugcrowd.com/crowdstream.json?page=%d&filter_by=all", page)
+	// Encode the query parameters properly using url.Values
+	params := url.Values{}
+	params.Add("page", strconv.Itoa(page))
+	params.Add("filter_by", "accepted,disclosures")
+
+	// Use the encoded URL in the HTTP request
+	crowdstream := fmt.Sprintf("https://bugcrowd.com/crowdstream.json?%s", params.Encode())
+
+	fmt.Println("URL : ", crowdstream)
 
 	resp, err := http.Get(crowdstream)
 	if err != nil {
@@ -79,9 +88,14 @@ func main() {
 	}
 	defer resp.Body.Close()
 
+	fmt.Println("JSON Response:")
+	fmt.Println(string(body))
+
 	var jsonbody Response
 
 	if err := json.Unmarshal(body, &jsonbody); err != nil {
+		log.Println("Error in JSON Unmarshalling:", err)
+		log.Println("JSON Response:", string(body))
 		log.Fatalln(err)
 	}
 
@@ -97,28 +111,45 @@ func main() {
 	foldercreate(yearFolder)
 	foldercreate(monthFolder)
 
-	// Create the new README.md file in the month folder
-	readmefile, err := os.Create(filepath.Join(monthFolder, fmt.Sprintf("%d-%02d-%02d-README.md", year, time.Now().Month(), time.Now().Day())))
+		// Create the new date-README.md file in the month folder
+	dateReadmeFile, err := os.Create(filepath.Join(monthFolder, fmt.Sprintf("%d-%02d-%02d-README.md", year, time.Now().Month(), time.Now().Day())))
+		if err != nil {
+			log.Println("Error in file creation", err)
+		}
+	
+		// Write content to the date-README.md file
+		writeContent(dateReadmeFile, jsonbody)
+	
+			// Create the new README.md file in the main directory
+	readmeFile, err := os.Create("README.md")
 	if err != nil {
 		log.Println("Error in file creation", err)
 	}
 
-	fmt.Println("Writing To ", readmefile.Name())
-
-	fmt.Fprintln(readmefile, "[![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)")
-
-	fmt.Fprintln(readmefile, "## BugCrowd Crowdstream | Date: ", time.Now().Format("2006-January-02 15:04:05"))
-
-	for i, p := range jsonbody.Results {
-		// Write program details to the README.md file
-		fmt.Fprintf(readmefile, "### %d. Program Details : \n\n**Name:** %s \n\n **Link:** <https://bugcrowd.com/%s> \n\n **Severity:** P%d \n\n **Hacker:** %s \n\n **Points:** %d \n\n **Target:** ` %s` \n\n **Reported:** %s \n\n **Accepted:** %s \n\n **%s** \n\n", i+1, p.Name, p.Code, p.Severity, p.Hacker, p.Points, p.Asset, p.Reported, p.Accepted, p.Submission_text)
-	}
-
-	fmt.Fprintln(readmefile, "## End of Crowdstream for", time.Now().Format("2006-January-02 15:04:05"))
-	fmt.Println("Program Completed.")
+	// Write content to the README.md file
+	writeContent(readmeFile, jsonbody)
 
 	// Move existing files to corresponding year/month folders
 	moveFilesToYearMonthFolders("archive")
+
+	fmt.Println("Program Completed.")
+
+}
+
+// writeContent writes the program details to the provided file.
+func writeContent(file *os.File, jsonbody Response) {
+	fmt.Fprintln(file, "[![schedule run](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml/badge.svg?branch=master)](https://github.com/Linuxinet/bugcrowd-crowdstream/actions/workflows/actions.yml)")
+
+	fmt.Fprintln(file, "## BugCrowd Crowdstream | Date: ", time.Now().Format("2006-January-02 15:04:05"))
+
+	for i, p := range jsonbody.Results {
+		// Write program details to the file
+		fmt.Fprintf(file, "### %d. Program Details : \n\n**Name:** %s \n\n **Link:** <https://bugcrowd.com/%s> \n\n **Severity:** P%d \n\n **Hacker:** %s \n\n **Points:** %d \n\n **Target:** ` %s` \n\n **Reported:** %s \n\n **Accepted:** %s \n\n **%s** \n\n", i+1, p.Name, p.Code, p.Severity, p.Hacker, p.Points, p.Asset, p.Reported, p.Accepted, p.Submission_text)
+	}
+
+	fmt.Fprintln(file, "## End of Crowdstream for", time.Now().Format("2006-January-02 15:04:05"))
+
+	file.Close()
 }
 
 // foldercreate creates the specified folder if it does not exist.
